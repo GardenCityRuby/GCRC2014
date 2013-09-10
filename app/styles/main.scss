@@ -103,6 +103,14 @@ h1, h2, h3, h4, h5, h6{
     letter-spacing:-2px;
 }
 
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+}
+
 body {
     background: url('../images/bg.png') #67373a;
     font-family: "Helvetica Neue", Helvetica, "Open Sans", Arial, sans-serif;
@@ -159,6 +167,9 @@ header {
 
 article {
     border-top:1px solid #67373a;
+    &.nobr {
+        border: none;
+    }
 }
 
 .intro {
@@ -321,16 +332,44 @@ footer {
 }
 
 
+.page {
+    background: white;
+    nav {
+        background: #67373a;
+        border-top:1px solid #67373a;
+        ul {
+            margin: 0;
+            padding: 10px
+        }
+
+        li {
+            padding: 10px 10px;
+            display: inline;
+        }
+
+        a {
+            color: white;
+        }
+    }
+
+    article {
+        padding: 20px;
+    }
+}
 
 
+.col-2b3 {
+    width: 600px;
+}
 
+.col-1b3 {
+    width: 285px;
+}
 
-
-
-
-
-
-
+.well {
+    margin: 20px;
+    background: #f4f4f4;
+}
 
 /* ==========================================================================
    Helper classes
