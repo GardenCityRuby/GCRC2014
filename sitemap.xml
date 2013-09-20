@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>http://gardencityruby.github.io/GCRC2014</loc>
     </url>
     
     
     <url>
-        <loc>/welcome-to-jekyll</loc>
+        <loc>http://gardencityruby.github.io/GCRC2014/welcome-to-jekyll</loc>
     </url>
     
     <url>
-        <loc>/video-post</loc>
+        <loc>http://gardencityruby.github.io/GCRC2014/video-post</loc>
     </url>
     
     <url>
-        <loc>/readability-feature-post</loc>
+        <loc>http://gardencityruby.github.io/GCRC2014/readability-feature-post</loc>
     </url>
     
     <url>
-        <loc>/sample-post-images</loc>
+        <loc>http://gardencityruby.github.io/GCRC2014/sample-post-images</loc>
     </url>
     
     <url>
-        <loc>/readability-post</loc>
+        <loc>http://gardencityruby.github.io/GCRC2014/readability-post</loc>
     </url>
     
     <url>
-        <loc>/sample-post</loc>
+        <loc>http://gardencityruby.github.io/GCRC2014/sample-post</loc>
     </url>
     
 </urlset>
