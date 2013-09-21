@@ -17,3 +17,8 @@ Point your browser at `localhost:4000`
     rake post["Post title"]
 
 Edit the new file created in `_posts`
+
+## Adding a page
+
+    Edit `_config.yml` and add a link in the `links` section
+    Add a markdown(`page.md`) or an html(`page.html`) file in the root directory
