@@ -11,3 +11,9 @@ This site is built with Jekyll.
     jekyll serve -w
     
 Point your browser at `localhost:4000`
+
+## Adding a blog post
+
+    rake post["Post title"]
+
+Edit the new file created in `_posts`
