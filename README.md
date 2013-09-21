@@ -1,13 +1,19 @@
-# Required for Jekyll
+GCRC 2014
+===========
 
-Required is a simple, clean theme for the modern blogger.
+## Getting started
 
-## Why?
+This site is built with Jekyll.
 
-[Required](http://8bit.io/required/) is a WordPress theme by [8BIT](http://8bit.io/), which I converted into a Jekyll theme, using Michael Rose's [So Simple Theme](https://github.com/mmistakes/so-simple-theme) as a base.
+    gem install jekyll
+    git clone git@github.com:GardenCityRuby/GCRC2014.git
+    cd GCRC2014
+    jekyll serve -w
+    
+Point your browser at `localhost:4000`
 
-I did this because I loved the look of Required, but I've been playing with [Jekyll](http://jekyllrb.com/) lately, and thought it'd be a fun exercise, and the GPL lets me  :)
+## Adding a blog post
 
-## License
+    rake post["Post title"]
 
-This theme is free and open source software, distributed under the [GNU General Public License](LICENSE) version 2 or later. So feel free to use this Jekyll theme.
+Edit the new file created in `_posts`

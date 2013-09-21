@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014</loc>
+        <loc></loc>
     </url>
     
-    
-    <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/welcome-to-jekyll</loc>
-    </url>
-    
-    <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/video-post</loc>
-    </url>
-    
-    <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/readability-feature-post</loc>
-    </url>
-    
-    <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/sample-post-images</loc>
-    </url>
-    
-    <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/readability-post</loc>
-    </url>
-    
-    <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/sample-post</loc>
-    </url>
     
 </urlset>
