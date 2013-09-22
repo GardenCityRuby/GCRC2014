@@ -4,3 +4,5 @@ node_modules
 app/bower_components
 .DS_Store
 /_site
+.ruby-version
+.ruby-gemset
