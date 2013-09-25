@@ -1,0 +1,172 @@
+@import "reset.css";
+@import "bourbon/bourbon";
+@import "grid_settings";
+@import "neat/neat";
+
+body {
+  font: normal 100% "Helvetica", sans-serif;
+  background: #E42F2F;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.25em;
+}
+
+
+
+
+header {
+  max-width: 100%;
+  background: #fff;
+  padding: 2em 0 2em 0;
+  overflow: hidden;
+  border-bottom: 10px solid #ff3838;
+}
+
+.wrapper {
+  max-width: 68em;
+  margin: auto;
+  padding: 0 1.25em;
+}
+
+.logo {
+  float: left;
+  max-width: 11.25em;
+}
+
+
+nav {
+  float: right;
+  margin-left: 1em;
+  padding-top: 20px;
+  max-width: 43.25em;
+
+  ul {
+    list-style: none;
+  }
+
+  li {
+    display: inline;
+    margin: 0 0.525em;
+
+  }
+
+  a {
+    font-family: Bariol;
+    font-size: 1.2em;
+    text-decoration: none;
+    border: 1px solid #f2f2f2;
+    border-radius: 0.1125em;
+    box-shadow: 5px 5px #ff3838;
+    padding: 0.525em;
+    background: #fff;
+    color: #333;
+    display: inline-block;
+
+    &:hover {
+      color: #ff3838;
+      @include transform(translate3d(-5px, -5px, 5px));
+      box-shadow: 10px 10px #ff3838;
+      background: #f2f2f2;
+    }
+
+  }
+
+}
+
+
+#main {
+  margin-top: 3em;
+  color: #fff;
+
+  .speakers {
+  }
+}
+
+
+@media screen and (max-width: 930px) {
+  .logo {
+    margin: auto;
+    float: none;
+  }
+
+  nav {
+    padding-top: 3em;
+    float: none;
+    margin: auto;
+    max-width: 43.1875em;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  nav {
+    li:nth-child(7) {
+      display: none;
+    }
+
+    max-width: 37.375em;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  nav {
+    li:nth-child(7) {
+      display: none;
+    }
+
+    li:nth-child(1) {
+      display: none;
+    }
+
+    max-width: 31.875em;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  nav {
+
+    li:nth-child(7) {
+      display: none;
+    }
+
+    li:nth-child(1) {
+      display: none;
+    }
+
+    li:nth-child(4) {
+      display: none;
+    }
+
+    li:nth-child(6) {
+      display: none;
+    }
+
+    max-width: 20em;
+    min-width: 19.5em;
+
+    li {
+      font-size: 0.875em;
+    }
+
+    a {
+      border-radius: 0.125em;
+    }
+
+  }
+}
