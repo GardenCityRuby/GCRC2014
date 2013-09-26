@@ -4,7 +4,6 @@
     {% include head.html %}
   </head>
   <body>
-
     <header>
       <div class="wrapper">
         <div class="logo">
@@ -18,42 +17,11 @@
       </div>
     </header>
 
-    <section id="main" class="wrapper">
-    <h2>India's first Single-track Ruby Conference</h2>
-    <p>
-     -- Some information about what the event is about --
-    </p>
+    {{ content }}
 
-     <section class="speaker-intro">
-
-      </section>
-        <h1 class="entry-title">
-            <a href="{{ site.url }}{{ page.url }}">
-              {{ page.title }}
-            </a>
-        </h1><!-- /.entry-title -->
-
-          {% if page.image.feature %}
-          <figure class="featured-image">
-            <img width="480" height="396" src="{{ site.url }}/images/{{ page.image.feature }}" class="attachment-post-thumbnail wp-post-image" alt="{{ page.title }}">
-          </figure><!-- /.featured-image -->
-          {% endif %}
-
-          <div class="entry-content clearfix">
-
-            {{ content }}
-
-          </div><!-- /.entry-content -->
-
-        </article>
-
-      </div>
-    </section>
-
-
-    <footer id="site-footer" role="contentinfo">
+    <footer>
       {% include footer.html %}
-    </footer><!-- /#site-footer -->
-    {% include scripts.html %}
+    </footer>
+    <!--    {% include scripts.html %} -->
   </body>
 </html>
