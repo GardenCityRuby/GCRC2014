@@ -2,7 +2,7 @@ title:            GardenCityRubyConf 2014
 description:      Bangalore's own Ruby Conference
 disqus_shortname: gardencityruby
 #Comment out url when working locally to resolve base urls correctly
-url:              http://gardencityruby.github.io/GCRC2014
+url:              http://www.gardencityruby.org
 
 # Owner/author information
 owner:
@@ -29,7 +29,7 @@ links:
   - title: Speakers
     url: /
   - title: Sponsors
-    url: /
+    url: /sponsors.html
   - title: Blog
     url: /blog.html
   - title: Twitter
