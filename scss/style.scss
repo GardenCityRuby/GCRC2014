@@ -3,6 +3,7 @@
 @import "grid_settings";
 @import "neat/neat";
 
+$colortoexperiment: #3C7F8B;
 $lightgray: #f2f2f2;
 $orangeilike: #F47933;
 $darkorange: #E42F2F;
@@ -16,7 +17,7 @@ $slatishgray: #494F57;
 
 
 body {
-  font: normal 100% "Chaparral Pro", $georgia;
+  font: normal 100% "adelle", $georgia;
   line-height: 1.4em;
 }
 
@@ -84,8 +85,7 @@ nav {
   }
 
   a {
-    font-family: Bariol;
-    font-size: 1.2em;
+    font-family: "adelle", $georgia;
     text-decoration: none;
     border: 1px solid $lightgray;
     border-radius: 0.1125em;
@@ -110,10 +110,7 @@ nav {
   margin-top: 1em;
   color: #fff;
   text-align: center;
-
   background: $blueilike;
-
-
 }
 
 #intro {
@@ -132,13 +129,14 @@ nav {
 
 
   p {
+    font-family: "acuta", $georgia;
     color: $blueilikedark;
     width: 50%;
     margin: auto;
     text-align: justify;
-    font-size: 1.7em;
+    font-size: 1.2em;
     line-height: 1.68em;
-    font-weight: normal;
+    font-weight: 100;
   }
 
   #date {
@@ -152,16 +150,18 @@ nav {
 
 #speakers {
   background: $blueilike;
+  @include linear-gradient($blueilike, shade($blueilike, 10%));
   text-align: center;
   padding: 1em 0 3em 0;
   border-bottom: 1px solid $blueilikedark;
 
   h2 {
-    font-family: Jura;
+    font-family: "adelle", Georgia;
     font-size: 3em;
     color: #fff;
-    text-shadow: 1px 2px 1px $blueilikedark;
+    text-shadow: 2px 2px 1px $blueilikedark;
     margin-bottom: 1em;
+    font-weight: 600;
   }
 
   h3 {
@@ -170,6 +170,8 @@ nav {
     background: $blueilikedark;
     color: $blueilike;
     margin-bottom: 10px;
+    font-family: "adelle", Georgia;
+    font-weight: 100;
   }
 
   a {
@@ -183,6 +185,8 @@ nav {
       display: list-item;
       list-style: none;
       margin-bottom: 1em;
+      border-top: 10px solid $blueilikedark;
+      border-bottom: 10px solid $blueilikedark;
     }
 
     span {
@@ -209,8 +213,29 @@ footer {
   background: $slatishgray;
   color: $lightgray;
   text-align: center;
-}
+  padding: 3em;
+  overflow: hidden;
 
+
+  #twitter {
+    width: 45%;
+    float: left;
+    padding: 3em;
+    border-radius: 2px;
+
+    img {
+      max-width: 3em;
+      margin-bottom: 30px;
+    }
+  }
+
+  #contact {
+    width: 45%;
+    float: right;
+    padding: 3em;
+
+  }
+}
 
 
 @media screen and (max-width: 930px) {

@@ -5,7 +5,7 @@
   box-sizing: border-box; }
 
 body {
-  font: normal 100% "Chaparral Pro", Georgia, Cambria, "Times New Roman", Times, serif;
+  font: normal 100% "adelle", Georgia, Cambria, "Times New Roman", Times, serif;
   line-height: 1.4em; }
 
 h1 {
@@ -56,8 +56,7 @@ nav {
     display: inline;
     margin: 0 0.525em; }
   nav a {
-    font-family: Bariol;
-    font-size: 1.2em;
+    font-family: "adelle", Georgia, Cambria, "Times New Roman", Times, serif;
     text-decoration: none;
     border: 1px solid #f2f2f2;
     border-radius: 0.1125em;
@@ -93,13 +92,14 @@ nav {
     color: #494f57;
     text-shadow: 1px 1px #F2F2FB; }
   #intro p {
+    font-family: "acuta", Georgia, Cambria, "Times New Roman", Times, serif;
     color: #3d81a6;
     width: 50%;
     margin: auto;
     text-align: justify;
-    font-size: 1.7em;
+    font-size: 1.2em;
     line-height: 1.68em;
-    font-weight: normal; }
+    font-weight: 100; }
   #intro #date {
     margin-top: 1em; }
   #intro #venue {
@@ -107,21 +107,28 @@ nav {
 
 #speakers {
   background: #51ade0;
+  background-color: #51ade0;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #51ade0), color-stop(100%, #489bc9));
+  background-image: -webkit-linear-gradient(#51ade0, #489bc9);
+  background-image: linear-gradient(#51ade0, #489bc9);
   text-align: center;
   padding: 1em 0 3em 0;
   border-bottom: 1px solid #3d81a6; }
   #speakers h2 {
-    font-family: Jura;
+    font-family: "adelle", Georgia;
     font-size: 3em;
     color: #fff;
-    text-shadow: 1px 2px 1px #3d81a6;
-    margin-bottom: 1em; }
+    text-shadow: 2px 2px 1px #3d81a6;
+    margin-bottom: 1em;
+    font-weight: 600; }
   #speakers h3 {
     width: 75%;
     margin: auto;
     background: #3d81a6;
     color: #51ade0;
-    margin-bottom: 10px; }
+    margin-bottom: 10px;
+    font-family: "adelle", Georgia;
+    font-weight: 100; }
   #speakers a {
     display: inline-block;
     text-decoration: none;
@@ -131,7 +138,9 @@ nav {
       margin: auto;
       display: list-item;
       list-style: none;
-      margin-bottom: 1em; }
+      margin-bottom: 1em;
+      border-top: 10px solid #3d81a6;
+      border-bottom: 10px solid #3d81a6; }
     #speakers a span {
       display: list-item;
       list-style: none;
@@ -148,7 +157,21 @@ footer {
   font: 0.5em normal "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #494f57;
   color: #f2f2f2;
-  text-align: center; }
+  text-align: center;
+  padding: 3em;
+  overflow: hidden; }
+  footer #twitter {
+    width: 45%;
+    float: left;
+    padding: 3em;
+    border-radius: 2px; }
+    footer #twitter img {
+      max-width: 3em;
+      margin-bottom: 30px; }
+  footer #contact {
+    width: 45%;
+    float: right;
+    padding: 3em; }
 
 @media screen and (max-width: 930px) {
   .logo {
