@@ -26,7 +26,7 @@ namespace :deploy do
   end
 end
 
-after "deploy:create_symlink", "codemancers:compile"
+after "deploy:create_symlink", "gcrc:compile"
 
 namespace :gcrc do
   desc "Compile the content on Server"
