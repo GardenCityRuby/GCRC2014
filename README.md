@@ -7,14 +7,9 @@ This site is built with Jekyll.
 
     gem install jekyll
 
-The current branch on which development is going on is `jekyll`.
 
-    git clone git@github.com:GardenCityRuby/GCRC2014.git --branch jekyll
+    git clone git@github.com:GardenCityRuby/GCRC2014.git
     cd GCRC2014
-
-Edit the `_config.yml` file and comment out the following line:
-
-    url:              http://gardencityruby.github.io/GCRC2014
 
 And then, run
 
@@ -40,3 +35,16 @@ Commit the changes locally and do:
     git push origin jekyll:jekyll
 
 (Assuming `origin` to be the remote)
+
+# Deploying to Github Pages
+
+    jekyll build --config _config_github_pages.yml
+    push the contents of _site to gh-pages branch
+
+# Continuous Deployment (WIP)
+
+The master branch of the site is continuously deployed using a Jenkins build script.
+This is what happens behind the scenes :
+
+    jekyll build --destination _deploy --config _config_deploy.yml
+    push contents of _deploy directory to remote storage
