@@ -18,6 +18,10 @@ tags: [ruby, gardencityruby, bangalore, blog, conference]
 
       <div class="post-meta">
         <span class="post-date">
+          {{ post.author }}
+        </span>
+        </br>
+        <span class="post-date">
             {{ post.date | date: "%B %e, %Y" }}
         </span><!-- /.post-date -->
           {% if site.disqus_shortname and post.comments %}

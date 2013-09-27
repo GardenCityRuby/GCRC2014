@@ -3,7 +3,7 @@ layout: post
 title: "Volunteer for handling wifi & internet connectivity"
 author: "Prakash"
 description:
-tags: [blog post]
+tags: [wifi hacks]
 comments: true
 ---
 
