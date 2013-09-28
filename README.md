@@ -9,8 +9,11 @@ This site is built with Jekyll.
 
 
     git clone git@github.com:GardenCityRuby/GCRC2014.git
+    cp _config_example.yml _config.yml
     cd GCRC2014
 
+Before running jekyll development server update `_config.yml`
+and remove `url` section.
 And then, run
 
     jekyll serve -w
