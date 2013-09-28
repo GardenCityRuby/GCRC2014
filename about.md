@@ -1,24 +1,23 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About Satellite
-tags: [Satellite, web development, WordPress, Jekyll, theme development, JavaScript, training]
-#image:
-#  feature: feature-photo-04.jpg
+title: Bangalore's own Ruby Conference
+tags: [ruby, gardencityruby, bangalore, blog, conference]
 ---
 
-Satellite specilise in assisting agencies and freelance designers with their digital needs. From consultation to implementation, our expertise is in helping you find the right solution for your client.
+Garden City Ruby Conference is brought to you by the Ruby Community in Bangalore. The first edition of the conference will be in 2014. 
 
-WordPress, Jekyll, Tumblr, and integration with third-party APIs, are just some of the solutions we're adept at providing.
+Hopefully, the conference will become an annual event in the future, contributing to the growth of the community.
 
-## Services
+Bangalore Ruby User Group : [Website](http://bangaloreruby.org) | [Mailing list](https://groups.google.com/forum/#!forum/bangalorerug) | [Twitter](https://twitter.com/bangaloreruby/)
 
-* Web Sites
-* Web Applications
-* PHP / MySQL
-* JavaScript
-* Frameworks (PHP, JavaScript, etc.)
-* WordPress Themes
-* WordPress Plugins
-* CMSes
-* Personal / Small Group Custom Training
+### Conference Organizing Team
+* [Dheeraj Kumar](https://twitter.com/codepodu)
+* [Emil Soman](https://twitter.com/emil_soman)
+* [Hemant Kumar](https://twitter.com/gnufied)
+* [Leena S N](https://twitter.com/leenasn)
+* [Prakash Murthy](https://twitter.com/_prakash)
+* [Tejas Dinkar](https://twitter.com/tdinkar)
+* [Satish Perala](https://twitter.com/satishperala)
+* [Swanand Pagnis](https://twitter.com/_swanand)
+
