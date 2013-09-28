@@ -12,7 +12,7 @@ set :use_sudo,    true
 
 set :deploy_to,   ENV["DEPLOY_DIR"]
 set :domain, ENV["DEPLOY_DOMAIN"]
-set :port, ENV["SSH_PORT"]
+set :port, ENV["DEPLOY_PORT"]
 
 server ENV["DEPLOY_DOMAIN"], :app, :web, :db, :primary => true
 
