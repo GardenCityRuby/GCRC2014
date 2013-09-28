@@ -5,6 +5,7 @@ author: "Prakash"
 description:
 tags: [wifi hacks]
 comments: true
+alias: /volunteer-for-handling-wifi-&-internet-connectivity
 ---
 
 Getting the wifi and internet connectivity at a technical conference is hard. See [How to make WIFI work at tech conferences (Part 1 of N)](http://www.nonblocking.io/2011/05/how-to-make-wifi-work-at-tech.html) and [The conference wifi checklist](http://thilo.me/post/62067077735/the-conference-wifi-checklist) for the intricacies involved.
