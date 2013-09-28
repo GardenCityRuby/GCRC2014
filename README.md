@@ -9,12 +9,6 @@ This site is built with Jekyll.
 
     git clone git@github.com:GardenCityRuby/GCRC2014.git
     cd GCRC2014
-    cp _config_example.yml _config.yml
-
-Before running jekyll development server update `_config.yml`
-and remove `url` section.
-And then, run
-
     jekyll serve -w
 
 Point your browser at `localhost:4000`
@@ -29,7 +23,6 @@ Edit the new file created in `_posts`
 
 Edit `_config.yml` and add a link in the `links` section.
 Add a markdown(`page.md`) or an html(`page.html`) file in the root directory.
-Remember to make the changes to `_config_example.yml` before committing.
 
 ## Deploying updates
 
@@ -41,17 +34,19 @@ Commit the changes locally and do:
 
 # Deploying to Github Pages
 
-Copy `_config_example.yml` to `_config.yml` and update `url` to
-`http://gardencityruby.github.io/GCRC2014`
+    git clone git@github.com:GardenCityRuby/GCRC2014.git --branch gh-pages _site
 
-    jekyll build
-    push the contents of _site to gh-pages branch
+This clones the static site in `gh-pages` branch to `_site` directory.
+After changes are made,
+
+    jekyll build --config _config.yml,_config_github.yml
+    cd _site
+    git push
 
 # Continuous Deployment
 
 The master branch of the site is continuously deployed using a Jenkins build script.
 This is what happens behind the scenes :
 
-    cp _config_example.yml _config.yml
-    jekyll build --destination _deploy
+    jekyll build --destination _deploy --config _config.yml,_config_deploy.yml
     push contents of _deploy directory to remote storage
