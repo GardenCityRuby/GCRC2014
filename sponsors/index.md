@@ -8,4 +8,4 @@ Sponsoring the GardenCity Ruby Conference is a great way to get access to the to
 
 To learn more about sponsoring, download the [Prospectus]({{ site.url }}/pdfs/sponsorship_prospectus.pdf). 
 
-Contact the sponsorship team by sending an email to [sponsors@gardencityruby.org](mailto:sponsors@gardencityruby.org). 
+Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@gardencityruby.org). 
