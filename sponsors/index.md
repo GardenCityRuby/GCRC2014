@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GCRC 2014 Sponsors
+title: Sponsors
 tags: [GardenCity, Bangalore, RubyConf, Sponsor]
 ---
 
