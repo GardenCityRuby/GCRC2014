@@ -17,7 +17,6 @@ Bangalore Ruby User Group : [Website](http://bangaloreruby.org) | [Mailing list]
 * [Hemant Kumar](https://twitter.com/gnufied)
 * [Leena S N](https://twitter.com/leenasn)
 * [Prakash Murthy](https://twitter.com/_prakash)
-* [Tejas Dinkar](https://twitter.com/tdinkar)
 * [Satish Perala](https://twitter.com/satishperala)
 * [Swanand Pagnis](https://twitter.com/_swanand)
-
+* [Tejas Dinkar](https://twitter.com/tdinkar)
