@@ -3,7 +3,7 @@ ssh_options[:forward_agent] = true
 
 set :user, ENV["DEPLOY_USER"]
 
-set :repository,  "git@github.com:GardenCityRuby/GCRC2014.git"
+set :repository,  "https://github.com/GardenCityRuby/GCRC2014.git"
 set :scm,         :git
 set :branch,      "master"
 set :deploy_via,  :remote_cache
