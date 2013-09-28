@@ -34,7 +34,10 @@ description: "An archive of posts sorted by tag."
       <div class="post-meta">
         <span class="post-date">
           {% if post.author_twitter %}
-            <a href="http://twitter.com/{{post.author_twitter}}" target="_blank"> {{ post.author_name }} </a>
+          <a href="http://twitter.com/{{post.author_twitter}}" target="_blank">
+            <img src="http://twitter.com/api/users/profile_image/{{post.author_twitter}}"/>
+            {{ post.author_name }}
+          </a>
           {% else  %}
             {{ post.author_name }}
           {% endif %}

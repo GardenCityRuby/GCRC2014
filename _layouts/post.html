@@ -44,7 +44,10 @@
             <div class="post-meta">
               <span class="post-date">
                 {% if page.author_twitter %}
-                  <a href="http://twitter.com/{{page.author_twitter}}" target="_blank"> {{ page.author_name }} </a>
+                  <a href="http://twitter.com/{{page.author_twitter}}" target="_blank">
+                    <img src="http://twitter.com/api/users/profile_image/{{page.author_twitter}}"/>
+                    {{ page.author_name }}
+                  </a>
                 {% else  %}
                   {{ page.author_name }}
                 {% endif %}
