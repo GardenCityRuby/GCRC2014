@@ -6,7 +6,7 @@ description: "An archive of posts sorted by category."
 ---
 
 {% for category in site.categories %}
-  <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
+  <h4 id="{{ category[0] }}">{{ category[0] }}</h4>
   <hr />
   {% assign pages_list = category[1] %}  
   {% for post in pages_list %}
@@ -25,13 +25,21 @@ description: "An archive of posts sorted by category."
 
     <header>
 
-      <h1 class="entry-title">
+      <h3 class="entry-title">
         <a href="{{ site.url }}{{ post.url }}">
           {{ post.title }}
         </a>
-      </h1><!-- /.entry-title -->
+      </h3><!-- /.entry-title -->
 
       <div class="post-meta">
+        <span class="post-date">
+          {% if post.author_twitter %}
+            <a href="http://twitter.com/{{post.author_twitter}}" target="_blank"> {{ post.author_name }} </a>
+          {% else  %}
+            {{ post.author_name }}
+          {% endif %}
+        </span>
+        </br>
         <span class="post-date">
           {{ post.date | date: "%B %e, %Y" }}
         </span><!-- /.post-date -->

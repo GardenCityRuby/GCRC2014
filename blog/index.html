@@ -18,7 +18,11 @@ tags: [ruby, gardencityruby, bangalore, blog, conference]
 
       <div class="post-meta">
         <span class="post-date">
-          {{ post.author }}
+          {% if post.author_twitter %}
+            <a href="http://twitter.com/{{post.author_twitter}}" target="_blank"> {{ post.author_name }} </a>
+          {% else  %}
+            {{ post.author_name }}
+          {% endif %}
         </span>
         </br>
         <span class="post-date">

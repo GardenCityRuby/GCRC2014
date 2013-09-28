@@ -1,7 +1,8 @@
 ---
 layout: post
 title:
-author:
+author_name:
+author_twitter:
 description:
 tags: [blog post]
 image:
