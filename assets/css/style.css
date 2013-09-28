@@ -413,13 +413,13 @@ p .alignnone {
   top: 0;
   width: 180px;
   height: 100%;
-  padding: 80px 40px 0;
+  padding: 40px 40px 0;
 }
 #main {
   width: 620px;
   background: #fff;
   margin-left: 300px;
-  padding-top: 80px;
+  padding-top: 40px;
 }
 #masthead .bio-pic img {
   max-width: 100%;
@@ -470,7 +470,6 @@ nav ul li a:hover {
 article {
   margin: 0 0 40px;
   padding: 0 0 40px;
-  border-bottom: 1px solid #f1f1f1;
 }
 article .post-meta {
   font-size: 12px;
@@ -883,7 +882,7 @@ table tfoot tr td {
 @media only screen and (max-width: 768px) {
   #sidebar {
     width: 120px;
-    padding: 80px 30px 0;
+    padding: 40px 30px 0;
   }
   #main {
     width: 460px;
@@ -898,7 +897,7 @@ table tfoot tr td {
     height: auto;
     position: relative;
     text-align: center;
-    padding: 80px 0 20px;
+    padding: 40px 0 20px;
   }
   nav ul li a:hover {
     padding-left: 0;
