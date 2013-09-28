@@ -5,7 +5,7 @@ title: Call for Proposals
 tags: [ruby, gardencityruby, bangalore, blog, conference]
 ---
 
-Call for proposals open Tuesday Oct 1st. Submit your call proposals at [https://gardencityruby2014.busyconf.com/proposals/new](https://gardencityruby2014.busyconf.com/proposals/new)
+Call for proposals open Tuesday Oct 1st. Submit your talk proposals at [https://gardencityruby2014.busyconf.com/proposals/new](https://gardencityruby2014.busyconf.com/proposals/new)
 
 Proposals will be accepted until Friday Oct 25th at midnight IST. Proposals are reviewed on a rolling basis as they are submitted.
 
