@@ -22,19 +22,12 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Tickets
-    url: /
-  - title: Schedule
-    url: /
-  - title: Speakers
-    url: /
+  - title: Call for Proposals
+    url: /cfp
   - title: Sponsors
     url: /sponsors
   - title: Blog
     url: /blog
-  - title: Twitter
-    url: http://twitter.com/GardenCityRb
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kolkata
