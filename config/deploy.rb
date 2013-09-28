@@ -31,6 +31,6 @@ after "deploy:create_symlink", "gcrc:compile"
 namespace :gcrc do
   desc "Compile the content on Server"
   task :compile, :roles => :app do
-    run "cd #{current_path} && bundle exec jekyll build --destination _deploy --config _config_deploy.yml"
+    run "cd #{current_path} && bundle exec jekyll build --destination _deploy --config _config.yml"
   end
 end
