@@ -9,6 +9,7 @@ This site is built with Jekyll.
 
 
     git clone git@github.com:GardenCityRuby/GCRC2014.git
+    cp _config_example.yml _config.yml
     cd GCRC2014
 
 And then, run
