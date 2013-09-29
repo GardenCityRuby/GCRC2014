@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Volunteer for handling wifi & internet connectivity"
-author_name: "Prakash"
+author_name: "Prakash Murthy"
 author_twitter: _prakash
 description:
 tags: [wifi hacks]
