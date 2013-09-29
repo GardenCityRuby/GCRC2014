@@ -28,6 +28,9 @@ links:
     url: /sponsors
   - title: Blog
     url: /blog
+  - title: Twitter
+    url: https://twitter.com/GardenCityRb
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kolkata
