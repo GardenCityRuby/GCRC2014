@@ -7,4 +7,5 @@ app/bower_components
 /_deploy
 .ruby-version
 .ruby-gemset
+config/deploy.rb
 
