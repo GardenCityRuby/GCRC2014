@@ -876,49 +876,6 @@ table tfoot tr td {
 #infinite-handle span:hover {
   opacity: 0.5;
 }
-/* Media Queries
--------------------------------------------------------------------------------*/
-/* Tablet devices vertical */
-@media only screen and (max-width: 768px) {
-  #sidebar {
-    width: 120px;
-    padding: 40px 30px 0;
-  }
-  #main {
-    width: 460px;
-    margin-left: 220px;
-  }
-}
-/* Mobile devices vertical */
-@media only screen and (max-width: 420px) {
-  #sidebar {
-    float: none;
-    width: 100%;
-    height: auto;
-    position: relative;
-    text-align: center;
-    padding: 40px 0 20px;
-  }
-  nav ul li a:hover {
-    padding-left: 0;
-  }
-  #main {
-    float: none;
-    width: 90%;
-    padding: 40px 5% 0;
-    margin-left: 0;
-  }
-  .entry-title {
-    font-size: 38px;
-  }
-  #respond #respond input[type="text"] {
-    width: 100%;
-  }
-}
-/* mixins
--------------------------------------------------------------------------------*/
-/* required classes
--------------------------------------------------------------------------------*/
 /* Custom
 -------------------------------------------------------------------------------*/
 .speakers .speaker {
@@ -964,3 +921,86 @@ table tfoot tr td {
 .speakers .speaker.no-margin {
   margin-right: 0;
 }
+/* Media Queries
+-------------------------------------------------------------------------------*/
+@media only screen and (max-width: 930px) {
+  #sidebar {
+    width: 120px;
+    padding: 40px 30px 0;
+  }
+  #main {
+    margin-left: 200px;
+  }
+}
+/* Tablet devices vertical */
+@media only screen and (max-width: 850px) {
+  #sidebar {
+    width: 120px;
+    padding: 40px 30px 0;
+  }
+  #main {
+    width: 460px;
+    margin-left: 200px;
+  }
+}
+/* Mobile devices vertical */
+@media only screen and (max-width: 660px) {
+  #sidebar {
+    float: none;
+    width: 100%;
+    height: auto;
+    position: relative;
+    text-align: center;
+    padding: 40px 0 20px;
+  }
+  nav ul li a:hover {
+    padding-left: 0;
+  }
+  #main {
+    float: none;
+    width: 90%;
+    padding: 40px 5% 0;
+    margin-left: 0;
+  }
+  .entry-title {
+    font-size: 38px;
+  }
+  .speakers .speaker {
+    margin-right: 25px;
+  }
+  #respond #respond input[type="text"] {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 580px) {
+  #sidebar {
+    float: none;
+    width: 100%;
+    height: auto;
+    position: relative;
+    text-align: center;
+    padding: 40px 0 20px;
+  }
+  nav ul li a:hover {
+    padding-left: 0;
+  }
+  #main {
+    float: none;
+    width: 70%;
+    padding: 40px 5% 0;
+    margin-left: 0;
+  }
+  .speakers .speaker {
+    margin-right: 25px;
+  }
+  .entry-title {
+    font-size: 38px;
+  }
+  #respond #respond input[type="text"] {
+    width: 100%;
+  }
+}
+/* mixins
+-------------------------------------------------------------------------------*/
+/* required classes
+-------------------------------------------------------------------------------*/
