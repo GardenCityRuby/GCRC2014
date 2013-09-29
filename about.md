@@ -20,3 +20,5 @@ Bangalore Ruby User Group : [Website](http://bangaloreruby.org) | [Mailing list]
 * [Satish Perala](https://twitter.com/satishperala)
 * [Swanand Pagnis](https://twitter.com/_swanand)
 * [Tejas Dinkar](https://twitter.com/tdinkar)
+
+Team email: [team@gardencityruby.org](mailto:team@gardencityruby.org)
