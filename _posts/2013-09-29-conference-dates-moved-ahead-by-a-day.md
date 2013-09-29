@@ -17,4 +17,6 @@ In our discussions around GCRC organization work recently, couple of folks whose
 
 Given that the conference's main objective is to add value to the professional lives of the participants, it made ample sense that the conference happen on weekdays. After checking with everyone involved (Organizing team members, the invited speakers, and the two hotels in consideration for the venue), the conference dates have been moved ahead by a day to happen on a Friday & Saturday.
 
+The [2013 edition of Rocky Mountain Ruby Conference](http://rockymtnruby.com) that I attended over the last few days was from Wednesday to Friday, well before the weekend began. 
+
 We don't have the flexibility for this edition of the conference to be moved fully to weekdays (say Thursday & Friday). That would definitely be something we will consider for the 2015 edition of Garden City Ruby Conference!
