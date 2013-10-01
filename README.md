@@ -41,7 +41,8 @@ After changes are made,
 
     jekyll build --config _config.yml,_config_github.yml
     cd _site
-    git push
+    git add --all && git commit -m "Update site"
+    git push --force
 
 # Continuous Deployment
 

@@ -2,3 +2,12 @@
   width: 24px;
   height: 24px;
 }
+
+.social-icon{
+  padding: 3px;
+}
+
+.social-icon img{
+  height: 25px;
+  width: 25px;
+}
