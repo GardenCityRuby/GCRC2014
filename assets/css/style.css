@@ -1004,3 +1004,17 @@ table tfoot tr td {
 -------------------------------------------------------------------------------*/
 /* required classes
 -------------------------------------------------------------------------------*/
+#twitter_link a #twitter {
+  margin: 10px auto 0;
+  text-indent: -9999px;
+  background: url("/images/twitter_logo.png") no-repeat;
+  height: 36px;
+  max-width: 45px;
+}
+#twitter_link a:hover #twitter {
+  margin: 6px auto 0;
+  text-indent: -9999px;
+  background: url("/images/twitter_logo_hover.png") no-repeat;
+  height: 40px;
+  max-width: 48px;
+}
