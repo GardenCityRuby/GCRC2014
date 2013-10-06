@@ -8,6 +8,6 @@ Sponsoring the GardenCity Ruby Conference is a great way to get access to the to
 
 Whether your goals are recruiting, brand awareness, developer adoption, or anything else, we bring together couple of hundred highly qualified engineers, in an intimate, network-heavy environment.
 
-To learn more about sponsoring, download the [Prospectus]({{ site.url }}/pdfs/sponsorship_prospectus.pdf). 
+To learn more about sponsoring, download the [Prospectus]({{ site.url }}/pdfs/gcrc14_sponsorship_prospectus.pdf). 
 
 Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@gardencityruby.org). 
