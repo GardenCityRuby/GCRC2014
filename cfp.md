@@ -16,6 +16,7 @@ Here are some useful links to inspire you to get started and make a positive imp
 * [How to write a conference proposal - Mike Moore](http://blowmage.com/2013/01/24/writing-conf-proposals)
 * [How not to fail when presenting at an international developer conference - Alan Skorkin](http://webuild.envato.com/blog/how-not-to-fail-when-presenting-at-an-international-developer-conference/)
 * [How to talk to Developers - Ben Orenstein](http://www.youtube.com/watch?v=l9JXH7JPjR4)
+* [Presentation Skills Considered Harmful - Kathy Sierra](http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful)
 
 
 Talks will be 30 minutes with no extra time for questions. Remember that nearly all our attendees use Ruby daily, so talks should be targeted to an audience of beginner, intermediate or advanced Rubyists. Non-Ruby topics are acceptable if they are somehow related to Ruby, or just seriously awesome.
