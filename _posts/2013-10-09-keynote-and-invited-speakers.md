@@ -9,7 +9,7 @@ comments: true
 ---
 ####Here is some background on how we went about choosing the keynote & invited speakers at #GCRC14:
 
-The first four speakers (the Keynote Speakers at the conference) - [Chad Fowler](https://twitter.com/chadfowler), [Prateek Dayal](https://twitter.com/prateekdayal), [Keavy McMinn](https://twitter.com/keavy), and [Ben Orenstein](https://twitter.com/r00k) - were chosen at [the very start of the #GCRC14 journey back in June/July](https://groups.google.com/forum/#!searchin/bangalorerug/keavy$20mcminn/bangalorerug/usTHpRTFqhQ/In_srder1nYJ). [Coby Randquist](https://twitter.com/kobier) and [Ajey Gore](https://twitter.com/ajeygore) were added as speakers later on.
+The first four speakers (the Keynote Speakers at the conference) - [Chad Fowler](https://twitter.com/chadfowler), [Prateek Dayal](https://twitter.com/prateekdayal), [Keavy McMinn](https://twitter.com/keavy), and [Ben Orenstein](https://twitter.com/r00k) - were chosen at [the very start of the #GCRC14 journey back in June/July](https://groups.google.com/d/msg/bangalorerug/usTHpRTFqhQ/In_srder1nYJ). [Coby Randquist](https://twitter.com/kobier) and [Ajey Gore](https://twitter.com/ajeygore) were added as speakers later on.
 
 [Chad Fowler](https://twitter.com/chadfowler) - being very popular in the ruby community in India and around the world - was my first choice for a Keynote speaker at the conference. The dates of the conference were set after checking his availabilty.
 
