@@ -10,12 +10,6 @@ layout : default
     </h1>
 </header>
 
-{% if page.image.feature %}
-  <figure class="featured-image">
-    <img width="480" height="396" src="{{ site.url }}/images/{{ page.image.feature }}" class="attachment-post-thumbnail wp-post-image" alt="{{ page.title }}">
-  </figure>
-{% endif %}
-
 <div class="entry-content clearfix">
   {{ content }}
 </div>
