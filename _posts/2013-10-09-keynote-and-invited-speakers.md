@@ -13,7 +13,7 @@ The first four speakers (the Keynote Speakers at the conference) - [Chad Fowler]
 
 [Chad Fowler](https://twitter.com/chadfowler) - being very popular in the ruby community in India and around the world - was my first choice for a Keynote speaker at the conference. The dates of the conference were set after checking his availabilty.
 
-Ruby conferences in India haven't had a Keynote speaker of Indian origin so far; chose [Prateek Dayal](https://twitter.com/prateekdayal) to fill this gap. Prateek is a long-time ruby developer based in Bangalore, and is remarkably successful in [building](https://supportbee.com) [product businesses](http://www.muziboo.com); he should be able to bring in an unique Indian flavor to a keynote at a Ruby Conference. 
+Ruby conferences in India haven't had a Keynote speaker of Indian origin so far; chose [Prateek Dayal](https://twitter.com/prateekdayal) to break ground on this front. Prateek is a long-time ruby developer based in Bangalore, and is remarkably successful in [building](https://supportbee.com) [product businesses](http://www.muziboo.com); he should be able to bring in an unique Indian flavor to a keynote at a Ruby Conference. 
 
 Ruby conferences in India haven't had a woman keynote speaker as well so far; chose [Keavy McMinn](https://twitter.com/keavy) in this context. 
 
