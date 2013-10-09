@@ -7,11 +7,11 @@ layout : default
     <a href="{{ site.url }}{{ page.url }}">
       {{ page.title }}
     </a>
-    {% include social-share.html %}
   </h3>
 
   <div class="post-meta">
-    <span class="post-date">
+
+    <div class="post-date">
       {% if page.author_twitter %}
         <a href="http://twitter.com/{{page.author_twitter}}" target="_blank">
           <img src="http://twitter.com/api/users/profile_image/{{page.author_twitter}}"/>
@@ -20,8 +20,9 @@ layout : default
       {% else  %}
         {{ page.author_name }}
       {% endif %}
-    </span>
-    </br>
+    </div>
+
+
     <span class="post-date">
         {{ page.date | date: "%B %e, %Y" }}
     </span>
@@ -32,7 +33,7 @@ layout : default
       </span>
       {% endif %}
   </div>
-
+  {% include social-share.html %}
 </header>
 
 {% if page.image.feature %}
