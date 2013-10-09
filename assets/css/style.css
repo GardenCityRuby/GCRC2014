@@ -699,17 +699,6 @@ table tfoot tr td {
 #secondary-nav .nav-next {
   float: right;
 }
-/* Footer
--------------------------------------------------------------------------------*/
-#site-footer {
-  padding: 0.625em 0;
-  border-top: 1px solid #f1f1f1;
-}
-#site-footer #credit {
-  font-size: 12px;
-  text-align: right;
-  padding: 0.625em 1.2em;
-}
 /* archive
 -------------------------------------------------------------------------------*/
 .archive article,

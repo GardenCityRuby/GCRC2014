@@ -41,11 +41,11 @@ layout : default
   {{ content }}
 </div>
 
-<footer class="post-footer">
+<div class="post-footer">
   {% if page.tags != empty %}
   <span class="tag-links">
     Tagged
     {% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag | cgi_encode }}" title="Posts tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
   </span>
   {% endif %}
-</footer>
+</div>

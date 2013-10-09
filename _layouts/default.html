@@ -4,45 +4,31 @@
     {% include head.html %}
   </head>
   <body>
-
-    <div id="wrapper" class="clearfix">
-
+    <div id="wrapper">
       <aside id="sidebar" class="animated fadeInLeft">
-
         <header id="masthead">
-
           <div class="bio-pic">
             <a href="{{ site.url }}">
               <img alt="" src="{{site.url}}/images/{{ site.owner.avatar }}" class="avatar avatar-80 photo" width="180">
             </a>
           </div>
 
-          <hgroup>
-            <!--h1 class="site-title"><a href="{{ site.url }}" >{{ site.title }}</a></h1 -->
-            <h2 class="site-description">{{ site.description }}</h2>
-          </hgroup>
-
+          <h2 class="site-description">{{ site.description }}</h2>
         </header>
 
         <nav id="navigation">
             {% include navigation.html %}
         </nav>
-
       </aside>
 
       <div id="main">
-
         <article>
-        {{ content }}
+          {{ content }}
         </article>
-
       </div>
 
     </div>
 
-    <footer id="site-footer" role="contentinfo">
-      {% include footer.html %}
-    </footer>
     {% include scripts.html %}
   </body>
 </html>
