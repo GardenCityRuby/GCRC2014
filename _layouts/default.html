@@ -15,34 +15,34 @@
             <a href="{{ site.url }}">
               <img alt="" src="{{site.url}}/images/{{ site.owner.avatar }}" class="avatar avatar-80 photo" width="180">
             </a>
-          </div><!--/ bio-pic -->
+          </div>
 
           <hgroup>
             <!--h1 class="site-title"><a href="{{ site.url }}" >{{ site.title }}</a></h1 -->
             <h2 class="site-description">{{ site.description }}</h2>
           </hgroup>
 
-        </header><!-- /#masthead -->
+        </header>
 
         <nav id="navigation">
             {% include navigation.html %}
-        </nav><!-- /#navigation -->
+        </nav>
 
-      </aside><!-- /#sidebar -->
+      </aside>
 
       <div id="main">
 
-        <article class="post type-post status-publish format-standard sticky hentry clearfix">
+        <article>
         {{ content }}
         </article>
 
       </div>
 
-    </div><!-- /#wrapper -->
+    </div>
 
     <footer id="site-footer" role="contentinfo">
       {% include footer.html %}
-    </footer><!-- /#site-footer -->
+    </footer>
     {% include scripts.html %}
   </body>
 </html>

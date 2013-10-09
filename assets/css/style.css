@@ -457,10 +457,6 @@ nav ul li a:hover {
 }
 /* Page/post/article/content styles
 -------------------------------------------------------------------------------*/
-/* page */
-.page article {
-  border-bottom: none;
-}
 /* posts */
 article {
   margin: 0 0 2.5em;
@@ -800,9 +796,6 @@ table tfoot tr td {
 -------------------------------------------------------------------------------*/
 .error404 h1 {
   color: red;
-}
-.error404 article {
-  border-bottom: none;
 }
 /* Jetpack
 -------------------------------------------------------------------------------*/
