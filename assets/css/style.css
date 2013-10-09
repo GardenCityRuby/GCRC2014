@@ -763,15 +763,6 @@ table tfoot tr td {
 .search article .entry-content p {
   margin-bottom: 0.625em;
 }
-.col1 {
-  width: 25%;
-  float: left;
-  margin-right: 5%;
-}
-.col2 {
-  width: 70%;
-  float: left;
-}
 /* Search page template
 -------------------------------------------------------------------------------*/
 #big-search * {
@@ -804,18 +795,6 @@ table tfoot tr td {
 }
 #big-search input[type="submit"]:hover {
   background: rgba(161, 43, 50, 0.5);
-}
-#widget-area {
-  margin: 2.5em 0;
-}
-#widget-area h2 {
-  font-size: 18px;
-}
-#widget-area .col1 {
-  width: 45%;
-}
-#widget-area .col2 {
-  width: 50%;
 }
 /* Error 404 page
 -------------------------------------------------------------------------------*/

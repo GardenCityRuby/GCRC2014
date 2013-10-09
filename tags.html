@@ -14,15 +14,6 @@ description: "An archive of posts sorted by tag."
     {% if group == null or group == post.group %}
 
 <article class="post type-post status-publish format-standard hentry clearfix">
-
-  <figure class="featured-image col1">
-
-    <a href="{{ site.url }}{{ post.url }}"><img src="{% if post.image.feature %}{{ site.url }}/images/{{ post.image.feature }}{% else %}{{ site.url }}/images/default.jpg{% endif %}" alt="{{ post.title }}"></a>
-
-  </figure><!-- /.featured-image -->
-
-  <div class="col2">
-
     <header>
 
       <h3 class="entry-title">
@@ -59,8 +50,6 @@ description: "An archive of posts sorted by tag."
     <div class="entry-content clearfix">
       {{ post.excerpt }}
     </div><!--/ .entry-content -->
-
-  </div><!--/ col2 -->
 
 </article>
 
