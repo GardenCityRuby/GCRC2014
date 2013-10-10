@@ -1,0 +1,9 @@
+<div class="post-footer">
+  <span class="tag-links">
+    Tagged
+    {% for tag in include.tags %}
+      <a href="{{ site.url }}/tags/#{{ tag | cgi_encode }}" title="Posts tagged {{ tag }}" rel="tag">{{ tag }}</a>
+      {% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </span>
+</div>
