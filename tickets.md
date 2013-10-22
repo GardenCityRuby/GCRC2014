@@ -5,7 +5,7 @@ title: Tickets
 tags: [ruby, gardencityruby, bangalore, ticket, conference, registration]
 ---
 
-GardenCity RubyConf 2014, India's first regional RubyConf will be held at Bangalore on January 3rd and 4th, 2014. We have an awesome lineup of invited speakers
+GardenCity RubyConf 2014, India's first regional RubyConf will be held in Bangalore on January 3rd and 4th, 2014. We have an awesome lineup of invited speakers
 and a lot of great talks from amazing people for the 200 lucky participants ! Grab the tickets and make this conference your own.
 
 Purchase your ticket - | [Click here](http://gcrc2014.doattend.com)
