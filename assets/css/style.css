@@ -947,8 +947,17 @@ table tfoot tr td {
 }
 #twitter_link a:hover #twitter {
   margin: 5px auto 0;
-  text-indent: -9999px;
   background: url("/images/twitter_logo_hover.png") no-repeat;
   height: 3.0em;
   max-width: 4em;
+}
+#emailandlanyrd {
+  margin-top: 1em;
+}
+#emailandlanyrd a {
+  font-size: 0.8em;
+  padding: 1em;
+}
+#emailandlanyrd a div {
+  display: inline-block;
 }
