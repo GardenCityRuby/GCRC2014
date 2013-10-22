@@ -9,8 +9,6 @@ Submit your talk proposals for GCRC 2014 at [https://gardencityruby2014.busyconf
 
 Proposals will be accepted until Friday Oct 25th at midnight IST. Proposals are reviewed on a rolling basis as they are submitted.
 
-**Talk proposals will be evaluated and accepted on a regular basis till all spots are filled before Oct 25th. Your talk has a better chance of getting selected the earlier you submit your talk proposal.**
-
 Here are some useful links to inspire you to get started and make a positive impact with the talk:
 
 * [How to write a conference proposal - Mike Moore](http://blowmage.com/2013/01/24/writing-conf-proposals)
