@@ -6,24 +6,25 @@
   <body>
     <div id="wrapper">
       <aside id="sidebar" class="animated fadeInLeft">
-        <header id="masthead">
-          <div class="bio-pic">
-            <a href="{{ site.url }}">
-              <img alt="" src="{{site.url}}/images/{{ site.owner.avatar }}" class="avatar avatar-80 photo" width="180">
-            </a>
-          </div>
+      <header id="masthead">
+      <div class="bio-pic">
+        <a href="{{ site.url }}">
+          <img alt="" src="{{site.url}}/images/{{ site.owner.avatar }}" class="avatar avatar-80 photo" width="180">
+        </a>
+      </div>
 
-          <h2 class="site-description">{{ site.description }}</h2>
-        </header>
+      <h2 class="site-description">{{ site.description }}</h2>
+      </header>
 
-        <nav id="navigation">
-            {% include navigation.html %}
-        </nav>
+      <nav id="navigation">
+      {% include navigation.html %}
+      </nav>
       </aside>
 
       <div id="main">
+        <a href="https://github.com/GardenCityRuby/GCRC2014"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
         <article>
-          {{ content }}
+        {{ content }}
         </article>
       </div>
 
