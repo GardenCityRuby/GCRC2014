@@ -5,11 +5,13 @@ title: Call for Proposals
 tags: [ruby, gardencityruby, bangalore, blog, conference]
 ---
 
-Submit your talk proposals for GCRC 2014 at [https://gardencityruby2014.busyconf.com/proposals/new](https://gardencityruby2014.busyconf.com/proposals/new)
+**Call for proposals is closed as of Oct 26, and we are no longer accepting any talk proposals.**
 
-Proposals will be accepted until Friday Oct 25th at midnight IST. Proposals are reviewed on a rolling basis as they are submitted.
+We received a total of 72 proposals from which to build the program at GCRC14: [http://gardencityruby2014.busyconf.com/schedule/full](http://gardencityruby2014.busyconf.com/schedule/full)
 
-Here are some useful links to inspire you to get started and make a positive impact with the talk:
+The team is working on the selection process, and will have the full program published by Nov 8th.
+
+For potential speakers: Here are some useful links to inspire you to get started and make a positive impact with the talk:
 
 * [How to write a conference proposal - Mike Moore](http://blowmage.com/2013/01/24/writing-conf-proposals)
 * [How not to fail when presenting at an international developer conference - Alan Skorkin](http://webuild.envato.com/blog/how-not-to-fail-when-presenting-at-an-international-developer-conference/)
