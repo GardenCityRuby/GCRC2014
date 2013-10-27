@@ -856,11 +856,31 @@ table {
   margin-top: 1em;
 
   a {
-    font-size: 0.8em;
-    padding: 1em;
+    margin: 10px 5px;
+    text-indent: -9999px;
+    max-width: 32px;
+    height: 32px;
+    font-size: 32px;
+    display: inline-block;
 
-    div {
-      display: inline-block;
+    &:nth-child(1) {
+      background: transparent url("/images/email-32.png") no-repeat;
+      &:hover {
+        background: transparent url("/images/email-32-hover.png") no-repeat;
+      }
+    }
+
+    &:nth-child(2) {
+      background: transparent url("/images/lanyrd-32.png") no-repeat;
+      &:hover {
+        background: transparent url("/images/lanyrd-32-hover.png") no-repeat;
+      }
+    }
+    &:nth-child(3) {
+      background: transparent url("/images/gh-32.png") no-repeat;
+      &:hover {
+        background: transparent url("/images/gh-32-hover.png") no-repeat;
+      }
     }
   }
  }

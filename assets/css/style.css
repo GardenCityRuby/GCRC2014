@@ -955,9 +955,28 @@ table tfoot tr td {
   margin-top: 1em;
 }
 #emailandlanyrd a {
-  font-size: 0.8em;
-  padding: 1em;
-}
-#emailandlanyrd a div {
+  margin: 10px 5px;
+  text-indent: -9999px;
+  max-width: 32px;
+  height: 32px;
+  font-size: 32px;
   display: inline-block;
+}
+#emailandlanyrd a:nth-child(1) {
+  background: transparent url("/images/email-32.png") no-repeat;
+}
+#emailandlanyrd a:nth-child(1):hover {
+  background: transparent url("/images/email-32-hover.png") no-repeat;
+}
+#emailandlanyrd a:nth-child(2) {
+  background: transparent url("/images/lanyrd-32.png") no-repeat;
+}
+#emailandlanyrd a:nth-child(2):hover {
+  background: transparent url("/images/lanyrd-32-hover.png") no-repeat;
+}
+#emailandlanyrd a:nth-child(3) {
+  background: transparent url("/images/gh-32.png") no-repeat;
+}
+#emailandlanyrd a:nth-child(3):hover {
+  background: transparent url("/images/gh-32-hover.png") no-repeat;
 }
