@@ -957,7 +957,7 @@ table tfoot tr td {
 #emailandlanyrd a {
   margin: 10px 5px;
   text-indent: -9999px;
-  max-width: 32px;
+  width: 32px;
   height: 32px;
   font-size: 32px;
   display: inline-block;
