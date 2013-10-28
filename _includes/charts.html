@@ -1,9 +1,9 @@
 <script type="text/javascript">
   window.onload = function () {
-    var chart = new CanvasJS.Chart("sexChartContainer", {
+    var chart = new CanvasJS.Chart("genderChartContainer", {
 
       title:{
-        text: "Number of talk proposals by men / women"
+        text: "Number of talk proposals by Gender"
       },
       data: [//array of dataSeries
         { //dataSeries object
@@ -11,8 +11,8 @@
          /*** Change type "column" to "bar", "area", "line" or "pie"***/
          type: "column",
          dataPoints: [
-         { label: "women", y: 5 },
-         { label: "men", y: 67 }
+         { label: "female", y: 5 },
+         { label: "male", y: 67 }
          ]
        }
        ]
