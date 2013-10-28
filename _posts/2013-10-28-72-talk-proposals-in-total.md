@@ -10,6 +10,9 @@ excerpt:
 >
   Thanks everyone for the wonderful response to the Call for Proposals! 
   We received 72 talk proposals in total! From all over India, and around the world!
+  23 Talk Proposals submitted on the last day! Everyone making it 
+  <a href="https://twitter.com/leenasn/status/393390363345317888">The Last Irresponsible Moment</a> :-)
+
 ---
 
 Thanks everyone for the wonderful response to the Call for Proposals! 
