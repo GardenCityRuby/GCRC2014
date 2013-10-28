@@ -980,3 +980,7 @@ table tfoot tr td {
 #emailandlanyrd a:nth-child(3):hover {
   background: transparent url("/images/gh-32-hover.png") no-repeat;
 }
+#charts div {
+  height: 300px;
+  margin: 5em 0;
+}
