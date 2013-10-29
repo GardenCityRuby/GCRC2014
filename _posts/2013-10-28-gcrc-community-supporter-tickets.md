@@ -12,7 +12,7 @@ Ruby has a very large and vibrant community around the world. The ever growing r
 
 To enable rubyists to support the community in their individual capacity, #GCRC14 has introduced a special priced ticket called 'Community Supporter Ticket'. The money received through these tickets will be used towards the conference organization and special events around the conference.
 
-The buyers of community supporter tickets are mentioned specially on the gardencityruby website and given a twitter shout.
+The buyers of community supporter tickets are mentioned specially on the gardencityruby website, a blog post and given a twitter shout.
 
 This is ideal for freelancers, small startup founders who are willing to get exposure in the Indian ruby community.
 
