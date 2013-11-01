@@ -5,8 +5,6 @@ author_name: Satish Perala
 author_twitter: satishperala
 description: Few pointers for foreign attendees
 tags: [visa, participants, foreign attendees]
-image:
-  feature: feature-image.jpg
 comments: true
 ---
 
