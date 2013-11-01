@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to India"
 author_name: Satish Perala
 author_twitter: satishperala
-description: Few pointers for foreign attendees
+description: Visa application pointers for foreign attendees to GCRC14
 tags: [visa, participants, foreign attendees]
 comments: true
 ---
