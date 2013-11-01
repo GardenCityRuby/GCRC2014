@@ -27,6 +27,6 @@ Typically the visa application would take 4 to 6 weeks for processing. So, we re
 
 Important thing to note is the visa validity starts from the day it is issued, so ensure that you apply for the maximum validity possible and make sure that the conference dates are comfortably falling within the validity period.
 
-<a href="https://twitter.com/jonathanwallace" target="_blank">Jonathan</a> has written a good <a href="http://blog.jonathanrwallace.com/blog/2013/10/17/so-you-want-to-go-to-india/" target="_blank">blogpost</a> on his experience applying for the Visa for his visit to <a href="http://rubyconfindia.org/2013/" target="_blank">RubyConfIndia 2013</a>.
+<a href="https://twitter.com/jonathanwallace" target="_blank">Jonathan Wallace</a> has written a good <a href="http://blog.jonathanrwallace.com/blog/2013/10/17/so-you-want-to-go-to-india/" target="_blank">blogpost</a> on his experience applying for the Visa for his visit to <a href="http://rubyconfindia.org/2013/" target="_blank">RubyConfIndia 2013</a>.
 
 Shoot an email to [team@gardencityruby.org](team@gardencityruby.org) for any queries.
