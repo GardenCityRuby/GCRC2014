@@ -5,7 +5,8 @@ GCRC 2014
 
 This site is built with Jekyll.
 
-    gem install jekyll
+    gem install bundler
+    bundle install
 
     git clone git@github.com:GardenCityRuby/GCRC2014.git
     cd GCRC2014

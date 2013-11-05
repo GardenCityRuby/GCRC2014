@@ -4,13 +4,675 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://gardencityruby.github.io/GCRC2014/feed.xml" />
 <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014" />
-<updated>2013-10-01T19:12:24+05:30</updated>
+<updated>2013-11-05T19:25:50+05:30</updated>
 <id>http://gardencityruby.github.io/GCRC2014/</id>
 <author>
   <name>GardenCityRubyConf 2014</name>
   <uri>http://gardencityruby.github.io/GCRC2014/</uri>
   <email>team@gardencityruby.org</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Welcome to India]]></title>
+  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/welcome-to-india" />
+  <id>http://gardencityruby.github.io/GCRC2014/blog/welcome-to-india</id>
+  <published>2013-11-01T00:00:00+05:30</published>
+  <updated>2013-11-01T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://gardencityruby.github.io/GCRC2014</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;GCRC14 is going to see a huge number of foreign attendees.
+Here are few pointers to help the participants in their visa application process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://gardencityruby.github.io/GCRC2014/images/visa_stamp.jpg&quot; alt=&quot;Visa Approval&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;for-attendees-from-us&quot;&gt;For Attendees from US&lt;/h3&gt;
+&lt;p&gt;Please note there are few recent changes in the visa application process. The vendor handling the Indian visa applications has changed from &lt;a href=&quot;https://indiavisa.travisaoutsourcing.com/homepage&quot; target=&quot;_blank&quot;&gt;Travisa Outsourcing&lt;/a&gt; to &lt;a href=&quot;http://www.visa.blsindia-usa.com/index.php&quot; target=&quot;_blank&quot;&gt;BLS International&lt;/a&gt;, effective from July 1, 2013.
+&lt;br /&gt;Check out your nearest processing center &lt;a href=&quot;http://www.visa.blsindia-usa.com/index.php&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You could choose a business visa or a tourist visa depending on your plans around the conference. Check out the details of each here.
+&lt;br /&gt;&lt;a href=&quot;http://www.visa.blsindia-usa.com/business_visa.php&quot; target=&quot;_blank&quot;&gt;Business Visa&lt;/a&gt;
+&lt;br /&gt;&lt;a href=&quot;http://www.visa.blsindia-usa.com/touristVisa.php&quot; target=&quot;_blank&quot;&gt;Tourist Visa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We will be sending invitation letters to each speaker/participant, which you’ll have to attach as part of the visa application documentation.&lt;/p&gt;
+
+&lt;p&gt;Typically the visa application would take 4 to 6 weeks for processing. So, we recommend all the participants to start the process as early as possible.&lt;/p&gt;
+
+&lt;p&gt;Important thing to note is the visa validity starts from the day it is issued, so ensure that you apply for the maximum validity possible and make sure that the conference dates are comfortably falling within the validity period.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/jonathanwallace&quot; target=&quot;_blank&quot;&gt;Jonathan Wallace&lt;/a&gt; has written a good &lt;a href=&quot;http://blog.jonathanrwallace.com/blog/2013/10/17/so-you-want-to-go-to-india/&quot; target=&quot;_blank&quot;&gt;blogpost&lt;/a&gt; on his experience applying for the Visa for his visit to &lt;a href=&quot;http://rubyconfindia.org/2013/&quot; target=&quot;_blank&quot;&gt;RubyConfIndia 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Shoot an email to &lt;a href=&quot;team@gardencityruby.org&quot;&gt;team@gardencityruby.org&lt;/a&gt; for any queries.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/welcome-to-india&quot;&gt;Welcome to India&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 01, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[GCRC enables Indian rubyist's to support the community]]></title>
+  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/gcrc-community-supporter-tickets" />
+  <id>http://gardencityruby.github.io/GCRC2014/blog/gcrc-community-supporter-tickets</id>
+  <published>2013-10-28T00:00:00+05:30</published>
+  <updated>2013-10-28T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://gardencityruby.github.io/GCRC2014</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;Ruby has a very large and vibrant community around the world. The ever growing ruby community is one of its most important strengths. Being visible and active in the community is very essential for every rubyist.&lt;/p&gt;
+
+&lt;p&gt;To enable rubyists to support the community in their individual capacity, #GCRC14 has introduced a special priced ticket called ‘Community Supporter Ticket’. The money received through these tickets will be used towards the conference organization and special events around the conference.&lt;/p&gt;
+
+&lt;p&gt;The buyers of community supporter tickets are mentioned specially on the gardencityruby website, a blog post and given a twitter shout.&lt;/p&gt;
+
+&lt;p&gt;This is ideal for freelancers, small startup founders who are willing to get exposure in the Indian ruby community.&lt;/p&gt;
+
+&lt;p&gt;Grab your ‘Community Supporter Ticket’ now at &lt;a href=&quot;http://gcrc2014.doattend.com/&quot; target=&quot;_blank&quot;&gt;http://gcrc2014.doattend.com/&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/gcrc-community-supporter-tickets&quot;&gt;GCRC enables Indian rubyist's to support the community&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on October 28, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[72 Talk Proposals In Total]]></title>
+  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/72-talk-proposals-in-total" />
+  <id>http://gardencityruby.github.io/GCRC2014/blog/72-talk-proposals-in-total</id>
+  <published>2013-10-28T00:00:00+05:30</published>
+  <updated>2013-10-28T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://gardencityruby.github.io/GCRC2014</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;utf-8&quot; /&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;initial-scale=1.0,width=device-width&quot; /&gt;
+&lt;link rel=&quot;profile&quot; href=&quot;http://gmpg.org/xfn/11&quot; /&gt;
+&lt;title&gt;72 talk proposals in total &amp;#8211; GardenCityRubyConf 2014&lt;/title&gt;
+
+&lt;meta name=&quot;description&quot; content=&quot;Bangalore&#39;s own Ruby Conference&quot;&gt;
+&lt;meta name=&quot;keywords&quot; content=&quot;speakers, talks, proposals&quot;&gt;
+&lt;!-- Twitter Card and Open Graph tags --&gt;
+&lt;meta name=&quot;twitter:title&quot; content=&quot;72 talk proposals in total &amp;#8211; GardenCityRubyConf 2014&quot;&gt;
+&lt;meta name=&quot;twitter:description&quot; content=&quot;Bangalore&#39;s own Ruby Conference&quot;&gt;
+&lt;meta name=&quot;twitter:creator&quot; content=&quot;@gardencityrb&quot;&gt;
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot;&gt;
+&lt;meta name=&quot;twitter:image:src&quot; content=&quot;/images/&quot;&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot;&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;72 talk proposals in total &amp;#8211; GardenCityRubyConf 2014&quot;&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;Bangalore&#39;s own Ruby Conference&quot;&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;/blog/72-talk-proposals-in-total&quot;&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;GardenCityRubyConf 2014&quot;&gt;
+
+&lt;!-- Webmaster Tools verfication --&gt;
+
+
+
+
+&lt;link rel=&quot;canonical&quot; href=&quot;/blog/72-talk-proposals-in-total&quot;&gt;
+&lt;link href=&quot;/feed.xml&quot; type=&quot;application/atom+xml&quot; rel=&quot;alternate&quot; title=&quot;GardenCityRubyConf 2014 Feed&quot;&gt;
+
+
+&lt;!-- Animations --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/animate.css&quot;&gt;
+&lt;!-- For all browsers --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/style.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/custom.css&quot;&gt;
+
+&lt;!-- Icons --&gt;
+&lt;!-- 16x16 --&gt;
+&lt;link rel=&quot;shortcut icon&quot; href=&quot;/favicon.ico&quot;&gt;
+&lt;!-- 32x32 --&gt;
+&lt;link rel=&quot;shortcut icon&quot; href=&quot;/favicon.png&quot;&gt;
+&lt;!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices --&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;/images/apple-touch-icon-precomposed.png&quot;&gt;
+&lt;!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini --&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;/images/apple-touch-icon-72x72-precomposed.png&quot;&gt;
+&lt;!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch --&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;/images/apple-touch-icon-114x114-precomposed.png&quot;&gt;
+&lt;!-- 144x144 (precomposed) for iPad 3rd and 4th generation --&gt;
+&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;/images/apple-touch-icon-144x144-precomposed.png&quot;&gt;
+
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;div id=&quot;wrapper&quot;&gt;
+      &lt;aside id=&quot;sidebar&quot; class=&quot;animated fadeInLeft&quot;&gt;
+      &lt;header id=&quot;masthead&quot;&gt;
+      &lt;div class=&quot;bio-pic&quot;&gt;
+        &lt;a href=&quot;&quot;&gt;
+          &lt;img alt=&quot;&quot; src=&quot;/images/logo.png&quot; class=&quot;avatar avatar-80 photo&quot; width=&quot;180&quot;&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;h2 class=&quot;site-description&quot;&gt;Bangalore&#39;s own Ruby Conference&lt;/h2&gt;
+      &lt;/header&gt;
+
+      &lt;nav id=&quot;navigation&quot;&gt;
+      &lt;div id=&quot;twitter_link&quot;&gt;
+  &lt;a href=&quot;//twitter.com/GardenCityRb&quot;&gt;
+    &lt;div id=&quot;twitter&quot;&gt;
+      Twitter
+    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;menu&quot;&gt;
+  &lt;ul&gt;
+    
+    &lt;li class=&quot;page_item&quot;&gt;&lt;a href=&quot;/&quot; &gt;Home&lt;/a&gt;&lt;/li&gt;
+    
+    &lt;li class=&quot;page_item&quot;&gt;&lt;a href=&quot;/about&quot; &gt;About&lt;/a&gt;&lt;/li&gt;
+    
+    &lt;li class=&quot;page_item&quot;&gt;&lt;a href=&quot;/tickets&quot; &gt;Tickets&lt;/a&gt;&lt;/li&gt;
+    
+    &lt;li class=&quot;page_item&quot;&gt;&lt;a href=&quot;/cfp&quot; &gt;Call for Proposals&lt;/a&gt;&lt;/li&gt;
+    
+    &lt;li class=&quot;page_item&quot;&gt;&lt;a href=&quot;/sponsors&quot; &gt;Sponsors&lt;/a&gt;&lt;/li&gt;
+    
+    &lt;li class=&quot;page_item&quot;&gt;&lt;a href=&quot;/blog&quot; &gt;Blog&lt;/a&gt;&lt;/li&gt;
+    
+    &lt;li class=&quot;page_item&quot;&gt;&lt;a href=&quot;/code-of-conduct&quot; &gt;Code of Conduct&lt;/a&gt;&lt;/li&gt;
+    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;emailandlanyrd&quot;&gt;
+  &lt;a href=&quot;mailto:team@gardencityruby.org&quot;&gt;
+      Email us
+  &lt;/a&gt;
+
+  &lt;a href=&quot;http://lanyrd.com/2014/garden-city-ruby-conference/&quot;&gt;
+      Lanyrd
+  &lt;/a&gt;
+
+  &lt;a href=&quot;https://github.com/GardenCityRuby/GCRC2014&quot;&gt;
+      Github
+  &lt;/a&gt;
+&lt;/div&gt;
+
+      &lt;/nav&gt;
+      &lt;/aside&gt;
+
+      &lt;div id=&quot;main&quot;&gt;
+        &lt;a href=&quot;https://github.com/GardenCityRuby/GCRC2014&quot;&gt;&lt;img style=&quot;position: absolute; top: 0; right: 0; border: 0;&quot; src=&quot;https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png&quot; alt=&quot;Fork me on GitHub&quot;&gt;&lt;/a&gt;
+        &lt;article&gt;
+        &lt;header&gt;
+  &lt;h3 class=&quot;entry-title&quot;&gt;
+    &lt;a href=&quot;/blog/72-talk-proposals-in-total&quot;&gt;
+      72 talk proposals in total
+    &lt;/a&gt;
+  &lt;/h3&gt;
+
+  &lt;div class=&quot;post-meta&quot;&gt;
+
+    &lt;div class=&quot;post-date&quot;&gt;
+      
+        &lt;a href=&quot;http://twitter.com/_prakash&quot; target=&quot;_blank&quot;&gt;
+          &lt;img src=&quot;http://twitter.com/api/users/profile_image/_prakash&quot;/&gt;
+          Prakash Murthy
+        &lt;/a&gt;
+      
+    &lt;/div&gt;
+
+
+    &lt;span class=&quot;post-date&quot;&gt;
+        October 28, 2013
+    &lt;/span&gt;
+      
+      |
+      &lt;span class=&quot;comment-link&quot;&gt;
+        &lt;a href=&quot;#disqus_thread&quot;&gt;Comment&lt;/a&gt;
+      &lt;/span&gt;
+      
+  &lt;/div&gt;
+  &lt;div class=&quot;social-share&quot;&gt;
+  &lt;span class=&quot;social-icon&quot;&gt;
+    &lt;a href=&quot;https://twitter.com/intent/tweet?url=http://www.gardencityruby.org/blog/72-talk-proposals-in-total&amp;text=72 talk proposals in total&amp;via=gardencityrb&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;/images/social/twitter.png&quot;&gt;
+    &lt;/a&gt;
+  &lt;/span&gt;
+  &lt;span class=&quot;social-icon&quot;&gt;
+    &lt;a href=&quot;https://facebook.com/sharer.php?u=http://www.gardencityruby.org/blog/72-talk-proposals-in-total&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;/images/social/facebook.png&quot;&gt;
+    &lt;/a&gt;
+  &lt;/span&gt;
+  &lt;span class=&quot;social-icon&quot;&gt;
+    &lt;a href=&quot;https://plus.google.com/share?url=http://www.gardencityruby.org/blog/72-talk-proposals-in-total&quot; target=&quot;_blank&quot;&gt;
+      &lt;img src=&quot;/images/social/google_plus.png&quot;&gt;
+    &lt;/a&gt;
+  &lt;/span&gt;
+&lt;/span&gt;
+
+&lt;/header&gt;
+
+
+&lt;div class=&quot;entry-content clearfix&quot;&gt;
+  &lt;p&gt;Thanks everyone for the wonderful response to the Call for Proposals! 
+We received 72 talk proposals in total! From all over India, and around the world!&lt;/p&gt;
+
+&lt;h4 id=&quot;graphical-breakdown-of-cfp-response-data-along-different-attributes&quot;&gt;Graphical breakdown of CFP response data along different attributes:&lt;/h4&gt;
+
+
+&lt;div id=&quot;dateChartContainer&quot; style=&quot;height: 300; width: 100%;&quot;&gt; &lt;/div&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;23 Talk Proposals submitted on the last day! Everyone making it &lt;a href=&quot;https://twitter.com/leenasn/status/393390363345317888&quot;&gt;&quot;The Last Irresponsible Moment&quot;&lt;/a&gt; :-)&lt;p&gt;
+&lt;br/&gt;
+&lt;div id=&quot;sexChartContainer&quot; style=&quot;height: 300; width: 33%;&quot;&gt; &lt;/div&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;div id=&quot;countryChartContainer&quot; style=&quot;height: 300; width: 100%;&quot;&gt;&lt;/div&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;div id=&quot;cityChartContainer&quot; style=&quot;height: 300; width: 100%;&quot;&gt;&lt;/div&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;div id=&quot;speakerCountChartContainer&quot; style=&quot;height: 300; width: 100%;&quot;&gt;&lt;/div&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;div class=&quot;post-footer&quot;&gt;
+  
+  &lt;span class=&quot;tag-links&quot;&gt;
+    Tagged
+    &lt;a href=&quot;/tags/#speakers&quot; title=&quot;Posts tagged speakers&quot; rel=&quot;tag&quot;&gt;speakers&lt;/a&gt;, &lt;a href=&quot;/tags/#talks&quot; title=&quot;Posts tagged talks&quot; rel=&quot;tag&quot;&gt;talks&lt;/a&gt;, &lt;a href=&quot;/tags/#proposals&quot; title=&quot;Posts tagged proposals&quot; rel=&quot;tag&quot;&gt;proposals&lt;/a&gt;
+  &lt;/span&gt;
+  
+&lt;/div&gt;
+
+        &lt;/article&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+
+    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;window.jQuery || document.write(&#39;&lt;script src=&quot;/assets/js/vendor/jquery-1.10.2.min.js&quot;&gt;&lt;\/script&gt;&#39;)&lt;/script&gt;
+&lt;script src=&quot;/assets/js/vendor/jquery.fitvids.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;/assets/js/vendor/canvasjs.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;/assets/js/theme.min.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script type=&quot;text/javascript&quot;&gt;
+  window.onload = function () {
+    var chart = new CanvasJS.Chart(&quot;sexChartContainer&quot;, {
+
+      title:{
+        text: &quot;Number of talk proposals by men / women&quot;              
+      },
+      data: [//array of dataSeries              
+        { //dataSeries object
+
+         /*** Change type &quot;column&quot; to &quot;bar&quot;, &quot;area&quot;, &quot;line&quot; or &quot;pie&quot;***/
+         type: &quot;column&quot;,
+         dataPoints: [
+         { label: &quot;women&quot;, y: 5 },
+         { label: &quot;men&quot;, y: 67 }
+         ]
+       }
+       ]
+     });
+
+    chart.render();
+
+    var country_chart = new CanvasJS.Chart(&quot;countryChartContainer&quot;, {
+      title:{
+        text: &quot;Number of talk proposals by country&quot;              
+      },
+      legend:{
+        verticalAlign: &quot;bottom&quot;,
+        horizontalAlign: &quot;center&quot;
+      },
+      data: [
+      {        
+       indexLabelFontSize: 20,
+       indexLabelFontFamily: &quot;Monospace&quot;,       
+       indexLabelFontColor: &quot;darkgrey&quot;, 
+       indexLabelLineColor: &quot;darkgrey&quot;,        
+       indexLabelPlacement: &quot;outside&quot;,
+       type: &quot;pie&quot;,       
+       showInLegend: true,
+       dataPoints: [
+       {  y: 1, legendText:&quot;AUS&quot;, indexLabel: &quot;Australia&quot; },
+       {  y: 3, legendText:&quot;COL&quot;, indexLabel: &quot;Colombia&quot; },
+       {  y: 1, legendText:&quot;DEN&quot;, indexLabel: &quot;Denmark&quot; },
+       {  y: 54, legendText:&quot;IND&quot;, exploded: true, indexLabel: &quot;India&quot; },
+       {  y: 1, legendText:&quot;PHI&quot;, indexLabel: &quot;Phillipines&quot; },
+       {  y: 3, legendText:&quot;SIN&quot; , indexLabel: &quot;Singapore&quot;},
+       {  y: 1, legendText:&quot;UK&quot; , indexLabel: &quot;United Kingdom&quot;},
+       {  y: 8, legendText:&quot;USA&quot; , indexLabel: &quot;United States&quot;}
+       ]
+     }
+     ]
+   });
+
+    country_chart.render();
+
+    var speaker_count_chart = new CanvasJS.Chart(&quot;speakerCountChartContainer&quot;, {
+      title:{
+        text: &quot;Number of speakers per talk proposals&quot;              
+      },
+      legend:{
+        verticalAlign: &quot;bottom&quot;,
+        horizontalAlign: &quot;center&quot;
+      },
+      data: [
+      {        
+       indexLabelFontSize: 20,
+       indexLabelFontFamily: &quot;Monospace&quot;,       
+       indexLabelFontColor: &quot;darkgrey&quot;, 
+       indexLabelLineColor: &quot;darkgrey&quot;,        
+       indexLabelPlacement: &quot;outside&quot;,
+       type: &quot;pie&quot;,       
+       showInLegend: true,
+       dataPoints: [
+       {  y: 69, legendText:&quot;1 speaker&quot;, indexLabel: &quot;One Speaker&quot; },
+       {  y: 3, legendText:&quot;2 speaker&quot;, indexLabel: &quot;Two Speakers&quot; }
+       ]
+     }
+     ]
+   });
+
+    speaker_count_chart.render();
+
+    var city_chart = new CanvasJS.Chart(&quot;cityChartContainer&quot;, {
+      title:{
+        text: &quot;Number of talk proposals by Indian City&quot;              
+      },
+      legend:{
+        verticalAlign: &quot;bottom&quot;,
+        horizontalAlign: &quot;center&quot;
+      },
+      data: [
+      {        
+       indexLabelFontSize: 20,
+       indexLabelFontFamily: &quot;Monospace&quot;,       
+       indexLabelFontColor: &quot;darkgrey&quot;, 
+       indexLabelLineColor: &quot;darkgrey&quot;,        
+       indexLabelPlacement: &quot;outside&quot;,
+       type: &quot;pie&quot;,       
+       showInLegend: true,
+       dataPoints: [
+       {  y: 1, legendText:&quot;Ajmer&quot;, indexLabel: &quot;Ajmer&quot; },
+       {  y: 26, legendText:&quot;BLR&quot;, exploded: true, indexLabel: &quot;Bangalore&quot; },
+       {  y: 6, legendText:&quot;CHE&quot;, indexLabel: &quot;Chennai&quot; },
+       {  y: 2, legendText:&quot;Kochi&quot;, indexLabel: &quot;Kochi&quot; },
+       {  y: 3, legendText:&quot;MUM&quot;, indexLabel: &quot;Mumbai&quot; },
+       {  y: 1, legendText:&quot;MYS&quot; , indexLabel: &quot;Mysore&quot;},
+       {  y: 1, legendText:&quot;NCR&quot; , indexLabel: &quot;New Delhi&quot;},
+       {  y: 14, legendText:&quot;Pune&quot; , indexLabel: &quot;Pune&quot;}
+       ]
+     }
+     ]
+   });
+
+    city_chart.render();
+
+    var date_chart = new CanvasJS.Chart(&quot;dateChartContainer&quot;, {
+
+      title:{
+        text: &quot;Number of talk proposals by submission date&quot;              
+      },
+      data: [//array of dataSeries              
+        { //dataSeries object
+
+         /*** Change type &quot;column&quot; to &quot;bar&quot;, &quot;area&quot;, &quot;line&quot; or &quot;pie&quot;***/
+         type: &quot;column&quot;,
+         dataPoints: [
+         { label: &quot;Oct 1&quot;, y: 1 },
+         { label: &quot;Oct 2&quot;, y: 0 },
+         { label: &quot;Oct 3&quot;, y: 0 },
+         { label: &quot;Oct 4&quot;, y: 4 },
+         { label: &quot;Oct 5&quot;, y: 3 },
+         { label: &quot;Oct 6&quot;, y: 1 },
+         { label: &quot;Oct 7&quot;, y: 8 },
+         { label: &quot;Oct 8&quot;, y: 1 },
+         { label: &quot;Oct 9&quot;, y: 0 },
+         { label: &quot;Oct 10&quot;, y: 6 },
+         { label: &quot;Oct 11&quot;, y: 0 },
+         { label: &quot;Oct 12&quot;, y: 0 },
+         { label: &quot;Oct 13&quot;, y: 0 },
+         { label: &quot;Oct 14&quot;, y: 1 },
+         { label: &quot;Oct 15&quot;, y: 1 },
+         { label: &quot;Oct 16&quot;, y: 0 },
+         { label: &quot;Oct 17&quot;, y: 2 },
+         { label: &quot;Oct 18&quot;, y: 2 },
+         { label: &quot;Oct 19&quot;, y: 0 },
+         { label: &quot;Oct 20&quot;, y: 3 },
+         { label: &quot;Oct 21&quot;, y: 3 },
+         { label: &quot;Oct 22&quot;, y: 0 },
+         { label: &quot;Oct 23&quot;, y: 7 },
+         { label: &quot;Oct 24&quot;, y: 5 },
+         { label: &quot;Oct 25&quot;, y: 23 }
+         ]
+       }
+       ]
+     });
+
+    date_chart.render();
+  }
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = &#39;gardencityruby&#39;; // required: replace example with your forum shortname
+
+    /* * * DON&#39;T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement(&#39;script&#39;); dsq.type = &#39;text/javascript&#39;; dsq.async = true;
+        dsq.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/embed.js&#39;;
+        (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(dsq);
+    })();
+
+    /* * * DON&#39;T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement(&#39;script&#39;); s.async = true;
+        s.type = &#39;text/javascript&#39;;
+        s.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/count.js&#39;;
+        (document.getElementsByTagName(&#39;HEAD&#39;)[0] || document.getElementsByTagName(&#39;BODY&#39;)[0]).appendChild(s);
+    }());
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+
+  &lt;/body&gt;
+&lt;/html&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/72-talk-proposals-in-total&quot;&gt;72 Talk Proposals In Total&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on October 28, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Introducing a new sponsorship slab - Associate Plus]]></title>
+  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/introducing-a-new-sponsorship-slab" />
+  <id>http://gardencityruby.github.io/GCRC2014/blog/introducing-a-new-sponsorship-slab</id>
+  <published>2013-10-23T00:00:00+05:30</published>
+  <updated>2013-10-23T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://gardencityruby.github.io/GCRC2014</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;We have received a good feedback on the sponsorship slabs from the community and all the potential sponsors. We felt, there is definitely a huge gap between Associate and Silver Packages. Many sponsors wished we had a slab in between.&lt;/p&gt;
+
+&lt;p&gt;To fill in the gap, we have introduced a new slab called ‘Associate Plus’. Check out the &lt;a href=&quot;http://www.gardencityruby.org/sponsors&quot;&gt;latest prospectus&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘Associate Plus’ package is ideal for startups and small companies seeking visibility for their products and services among the top-notch ruby developers.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are interested in sponsoring #GCRC14, drop us a line at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#115;&amp;#112;&amp;#111;&amp;#110;&amp;#115;&amp;#111;&amp;#114;&amp;#115;&amp;#064;&amp;#103;&amp;#097;&amp;#114;&amp;#100;&amp;#101;&amp;#110;&amp;#099;&amp;#105;&amp;#116;&amp;#121;&amp;#114;&amp;#117;&amp;#098;&amp;#121;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#115;&amp;#112;&amp;#111;&amp;#110;&amp;#115;&amp;#111;&amp;#114;&amp;#115;&amp;#064;&amp;#103;&amp;#097;&amp;#114;&amp;#100;&amp;#101;&amp;#110;&amp;#099;&amp;#105;&amp;#116;&amp;#121;&amp;#114;&amp;#117;&amp;#098;&amp;#121;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/introducing-a-new-sponsorship-slab&quot;&gt;Introducing a new sponsorship slab - Associate Plus&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on October 23, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Only one speaker per talk, except in very special cases.]]></title>
+  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/only-one-speaker-per-talk" />
+  <id>http://gardencityruby.github.io/GCRC2014/blog/only-one-speaker-per-talk</id>
+  <published>2013-10-10T00:00:00+05:30</published>
+  <updated>2013-10-10T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://gardencityruby.github.io/GCRC2014</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;strong&gt;All talks at #GCRC14 will be with only one speaker. Except in very special cases.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A few talk proposals at #GCRC14 come through with two speakers recently. Talks with 2 speakers are very unusual at regional ruby conferences. RubyConf India events seem to have set a precedent of having many 2-speaker talks with no special justification for having 2 speakers.&lt;/p&gt;
+
+&lt;p&gt;A common reason why people pair up while giving a conference talk is because they feel it is an easier task with 2 people on stage. &lt;/p&gt;
+
+&lt;p&gt;However, as &lt;a href=&quot;https://twitter.com/wifelette&quot;&gt;Leah Silber&lt;/a&gt; - the organizer of &lt;a href=&quot;http://gogaruco.com&quot;&gt;Golden Gate Ruby Conference&lt;/a&gt; - explains, that doesn’t work according to the speakers’ expectations:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m not a huge fan of 2-speaker talks. Which is to say, in my experience the second speaker rarely adds enough value to account for their comped pass or anything, really. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In fact, in more cases than not, &lt;strong&gt;it leads to a far more scattered talk, with poorly divided up responsibility, and rocky flow&lt;/strong&gt;. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Writing and delivering your first talk is indeed hard; needing to account for a second speaker’s nerves, idiosyncrasies and workflow doesn’t really make that easier. The exception to this rule are people who are already good at speaking, and have a track record of being a pair. A la Ryan and Eric back in the day. Or Damon and Ron Evans. Tom and Yehuda :p &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In those sorts of cases, double the speaker can often mean double the awesome. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;2 speaker talks - when they are successful - are among the most memorable of conference talks. One such talk I have seen is by Uncle Bob Martin and Micah Martin at RubyConf 2011, the video of which is below:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/YkMnKWPIB_A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;As can be seen from the video, the talk involved a hell lot of preparation from two people who have done a whole lot of public speaking and presentations before. &lt;/p&gt;
+
+&lt;p&gt;It is justifiable to have 2 speakers in such cases. &lt;/p&gt;
+
+&lt;p&gt;However, having a 2 speaker talk just because either of the speakers are scared to do it alone is an injustice to the audience, and doesn’t help the speakers as well. &lt;/p&gt;
+
+&lt;p&gt;Talk proposals with 2-speakers at #GCRC14 will be judged along these lines by the selection panel.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/only-one-speaker-per-talk&quot;&gt;Only one speaker per talk, except in very special cases.&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on October 10, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Keynote & Invited Speakers at #GCRC14]]></title>
+  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/keynote-and-invited-speakers" />
+  <id>http://gardencityruby.github.io/GCRC2014/blog/keynote-and-invited-speakers</id>
+  <published>2013-10-09T00:00:00+05:30</published>
+  <updated>2013-10-09T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://gardencityruby.github.io/GCRC2014</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;h4 id=&quot;here-is-some-background-on-how-we-went-about-choosing-the-keynote--invited-speakers-at-gcrc14&quot;&gt;Here is some background on how we went about choosing the keynote &amp;amp; invited speakers at #GCRC14:&lt;/h4&gt;
+
+&lt;p&gt;The first four speakers (the Keynote Speakers at the conference) - &lt;a href=&quot;https://twitter.com/chadfowler&quot;&gt;Chad Fowler&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/prateekdayal&quot;&gt;Prateek Dayal&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/keavy&quot;&gt;Keavy McMinn&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/r00k&quot;&gt;Ben Orenstein&lt;/a&gt; - were chosen at &lt;a href=&quot;https://groups.google.com/d/msg/bangalorerug/usTHpRTFqhQ/In_srder1nYJ&quot;&gt;the very start of the #GCRC14 journey back in June/July&lt;/a&gt;. &lt;a href=&quot;https://twitter.com/kobier&quot;&gt;Coby Randquist&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/ajeygore&quot;&gt;Ajey Gore&lt;/a&gt; were added as speakers later on.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/chadfowler&quot;&gt;Chad Fowler&lt;/a&gt; - being very popular in the ruby community in India and around the world - was my first choice for a Keynote speaker at the conference. The dates of the conference were set after checking his availabilty.&lt;/p&gt;
+
+&lt;p&gt;Ruby conferences in India haven’t had a Keynote speaker of Indian origin so far; chose &lt;a href=&quot;https://twitter.com/prateekdayal&quot;&gt;Prateek Dayal&lt;/a&gt; to set a precedent here. Prateek is a long-time ruby developer based in Bangalore, and is remarkably successful in &lt;a href=&quot;https://supportbee.com&quot;&gt;building&lt;/a&gt; &lt;a href=&quot;http://www.muziboo.com&quot;&gt;product businesses&lt;/a&gt;; he should be able to bring in an unique Indian flavor to a keynote at a Ruby Conference. &lt;/p&gt;
+
+&lt;p&gt;Ruby conferences in India haven’t had a woman keynote speaker as well so far; chose &lt;a href=&quot;https://twitter.com/keavy&quot;&gt;Keavy McMinn&lt;/a&gt; in this context.&lt;/p&gt;
+
+&lt;p&gt;I had watched Keavy’s talk &lt;strong&gt;Must Try Harder&lt;/strong&gt; at &lt;a href=&quot;http://rockymtnruby.com/2010&quot;&gt;Mountain.rb Conference&lt;/a&gt; in 2010, and was amazed at the connection she could establish with everyone in the audience by being very vulnerable during the talk. Do check out a version of the talk here:&lt;/p&gt;
+
+&lt;iframe src=&quot;//player.vimeo.com/video/16517560&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://vimeo.com/16517560&quot;&gt;Must. Try. Harder. – Keavy McMinn&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The fourth keynote speaker - &lt;a href=&quot;https://twitter.com/r00k&quot;&gt;Ben Orenstein&lt;/a&gt; - was picked based on a team member’s suggestion, and was a very easy choice to make because of his RailsConf 2013 talk - &lt;strong&gt;How to Talk with Developers&lt;/strong&gt; - which can be watched here:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/l9JXH7JPjR4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+  &lt;a href=&quot;http://youtu.be/l9JXH7JPjR4&quot;&gt;How to talk to developers — Ben Orenstein&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&quot;http://thoughtbot.com&quot;&gt;ThoughtBot&lt;/a&gt; for covering the travel expenses for Ben Orenstein, and allowing us a wider latitude to play with our travel expenses budget for speakers. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/kobier&quot;&gt;Coby Randquist&lt;/a&gt; - CEO of &lt;a href=&quot;http://www.confreaks.com&quot;&gt;Confreaks.com&lt;/a&gt; and organizer of &lt;a href=&quot;http://larubyconf.com&quot;&gt;LA RubyConf&lt;/a&gt; and &lt;a href=&quot;http://onales.com&quot;&gt;Ruby on Ales&lt;/a&gt; - reached out to us as he had wanted to visit India for long; we grabbed the opportunity with both hands to get him to come over, and help us with the video recording of the talks as well as live-streaming of the talks at #GCRC14. In addition, he will be sharing from his experiences of running Confreaks.com and organizing a couple of regional ruby conferences.&lt;/p&gt;
+
+&lt;p&gt;Garden City Ruby Conference is breaking a lot of fresh ground in being the first single-track &amp;amp; regional/city conference in India, and is expected to inspire and nurture more regional/city conferences in other cities in India, starting with Pune later this year, and possibly Mumbai, Delhi, Kochi, Chennai, Mysore, Jaipur, and more. &lt;a href=&quot;https://twitter.com/ajeygore&quot;&gt;Ajey Gore&lt;/a&gt; was added as the final invited speaker to set the tone for the conversation around regional/city conferences and to take it forward. Ajey has been at the fore-front of Ruby Conference organization work in India through Innovation &amp;amp; Technology Trust which has been putting up the hugely successful annual &lt;a href=&quot;http://rubyconfindia.org/2013/&quot;&gt;RubyConf India events&lt;/a&gt; since 2010.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the keynote &amp;amp; invited speakers who made it possible for us to plan an awesome conference around their presence.&lt;/p&gt;
+
+&lt;p&gt;Our &lt;a href=&quot;http://www.gardencityruby.org/cfp/&quot;&gt;Call for proposals&lt;/a&gt; is now open; do take this opportunity to submit a talk proposal, and possibly share the stage with our distinguished keynote/invited speakers at GCRC14!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/keynote-and-invited-speakers&quot;&gt;Keynote & Invited Speakers at #GCRC14&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on October 09, 2013.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
