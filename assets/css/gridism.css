@@ -112,32 +112,3 @@
   }
 }
 
-article.sponsor-logo-grid .grid .unit {
-    vertical-align: middle;
-    text-align: center;
-}
-
-.sponsor-logo-grid .gold-sponsors img{
-    max-width: 300px;
-    max-height: 300px;
-}
-
-.sponsor-logo-grid .silver-sponsors img{
-    max-width: 220px;
-    max-height: 220px;
-}
-
-.sponsor-logo-grid .associate-plus-sponsors img{
-    max-width: 180px;
-    max-height: 180px;
-}
-.sponsor-logo-grid .associate-sponsors img{
-    max-width: 150px;
-    max-height: 150px;
-}
-
-.sponsor-logo-grid .associate-sponsors img{
-    max-width: 100px;
-    max-height: 100px;
-}
-
