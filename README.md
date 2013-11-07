@@ -33,7 +33,7 @@ Commit the changes locally and do:
 
 (Assuming `origin` to be the remote)
 
-# Deploying to Github Pages
+## Deploying to Github Pages
 
     git clone git@github.com:GardenCityRuby/GCRC2014.git --branch gh-pages _site
 
@@ -45,7 +45,7 @@ After changes are made,
     git add --all && git commit -m "Update site"
     git push --force
 
-# Continuous Deployment
+## Continuous Deployment
 
 The master branch of the site is continuously deployed using a Jenkins build script.
 This is what happens behind the scenes :
