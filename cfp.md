@@ -9,7 +9,7 @@ tags: [ruby, gardencityruby, bangalore, blog, conference]
 
 We received a total of 72 proposals from which to build the program at GCRC14: [http://gardencityruby2014.busyconf.com/schedule/full](http://gardencityruby2014.busyconf.com/schedule/full)
 
-The team is working on the selection process, and will have the full program published by Nov 8th.
+The team is working on the selection process, and will have the full program published by Nov 11th.
 
 For potential speakers: Here are some useful links to inspire you to get started and make a positive impact with the talk:
 
