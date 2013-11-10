@@ -808,16 +808,20 @@ table tfoot tr td {
 }
 /* Custom
 -------------------------------------------------------------------------------*/
-.speakers h2 {
+#speakers {
+  overflow: hidden;
+}
+#speakers h2 {
+  color: #a12b32;
   margin-bottom: 0.5em;
 }
-.speakers .speaker {
+#speakers .speaker {
   float: left;
   display: block;
   position: relative;
   margin: 0 3.25em 3em 0;
 }
-.speakers .speaker:nth-child(2n):after {
+#speakers .speaker:nth-child(2n):after {
   content: "";
   width: 0px;
   height: 0px;
@@ -829,7 +833,7 @@ table tfoot tr td {
   top: 0;
   right: 0;
 }
-.speakers .speaker:nth-child(2n+1):after {
+#speakers .speaker:nth-child(2n+1):after {
   content: "";
   width: 0px;
   height: 0px;
@@ -841,18 +845,50 @@ table tfoot tr td {
   top: 0;
   left: 0;
 }
-.speakers .speaker img {
+#speakers .speaker img {
   width: 12.5em;
   margin-bottom: 0.625em;
 }
-.speakers .speaker a,
-.speakers .speaker img,
-.speakers .speaker span {
+#speakers .speaker a,
+#speakers .speaker img,
+#speakers .speaker span {
   text-decoration: none;
   display: block;
 }
-.speakers .speaker.no-margin {
+#speakers .speaker.no-margin {
   margin-right: 0;
+}
+.imagereplace {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  display: block;
+}
+#sponsors h4 {
+  margin: 1em 0 0.5em 0;
+}
+#sponsors #josh_software {
+  background: url("/images/sponsors/josh.png") no-repeat;
+  width: 216px;
+}
+#sponsors #maven_hive {
+  background: url("/images/sponsors/maven_hive.png") no-repeat;
+  width: 80px;
+}
+#sponsors #code_brahma {
+  background: url("/images/sponsors/code_brahma.png") no-repeat;
+  width: 254px;
+}
+#sponsors ul {
+  margin: 0;
+  border-bottom: 1px #aaa solid;
+}
+#sponsors li {
+  display: inline-block;
+  padding: 1em;
+}
+#sponsors a {
+  height: 60px;
 }
 /* Media Queries
 -------------------------------------------------------------------------------*/
