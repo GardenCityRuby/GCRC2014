@@ -27,6 +27,7 @@ GEM
       redcarpet (~> 2.3.0)
       safe_yaml (~> 0.7.0)
     jekyll-minibundle (1.1.0)
+    kramdown (1.2.0)
     liquid (2.5.3)
     maruku (0.7.0)
     net-scp (1.1.2)
@@ -53,4 +54,5 @@ DEPENDENCIES
   coderay
   jekyll (~> 1.2.0)
   jekyll-minibundle
+  kramdown
   rake
