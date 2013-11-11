@@ -21,17 +21,18 @@ Ruby conferences in India haven't had a woman keynote speaker as well so far; ch
 I had watched Keavy's talk **Must Try Harder** at [Mountain.rb Conference](http://rockymtnruby.com/2010) in 2010, and was amazed at the connection she could establish with everyone in the audience by being very vulnerable during the talk. Do check out a version of the talk here:
 
 <iframe src="//player.vimeo.com/video/16517560" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 <p>
-  <a href="http://vimeo.com/16517560">Must. Try. Harder. – Keavy McMinn</a>
+  <a href="http://vimeo.com/16517560">Must. Try. Harder. - Keavy McMinn</a>
 </p>
 
 The fourth keynote speaker - [Ben Orenstein](https://twitter.com/r00k) - was picked based on a team member's suggestion, and was a very easy choice to make because of his RailsConf 2013 talk - **How to Talk with Developers** - which can be watched here:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/l9JXH7JPjR4" frameborder="0" allowfullscreen></iframe>
-<p>
-  <a href="http://youtu.be/l9JXH7JPjR4">How to talk to developers — Ben Orenstein</a>
-</p>
 
+<p>
+  <a href="http://youtu.be/l9JXH7JPjR4">How to talk to developers - Ben Orenstein</a>
+</p>
 Thanks to [ThoughtBot](http://thoughtbot.com) for covering the travel expenses for Ben Orenstein, and allowing us a wider latitude to play with our travel expenses budget for speakers. 
 
 [Coby Randquist](https://twitter.com/kobier) - CEO of [Confreaks.com](http://www.confreaks.com) and organizer of [LA RubyConf](http://larubyconf.com) and [Ruby on Ales](http://onales.com) - reached out to us as he had wanted to visit India for long; we grabbed the opportunity with both hands to get him to come over, and help us with the video recording of the talks as well as live-streaming of the talks at #GCRC14. In addition, he will be sharing from his experiences of running Confreaks.com and organizing a couple of regional ruby conferences.
