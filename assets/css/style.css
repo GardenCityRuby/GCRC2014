@@ -864,6 +864,10 @@ table tfoot tr td {
   overflow: hidden;
   display: block;
 }
+#sponsors h2 {
+  color: #a12b32;
+  margin-bottom: 0.5em;
+}
 #sponsors h4 {
   margin: 1em 0 0.5em 0;
 }
@@ -878,6 +882,14 @@ table tfoot tr td {
 #sponsors #code_brahma {
   background: url("/images/sponsors/code_brahma.png") no-repeat;
   width: 254px;
+}
+#sponsors #good_work_labs {
+  background: url("/images/sponsors/good_work_labs.png") no-repeat;
+  width: 198px;
+}
+#sponsors #parami_soft {
+  background: url("/images/sponsors/parami_soft.png") no-repeat;
+  width: 231px;
 }
 #sponsors ul {
   margin: 0;
