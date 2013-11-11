@@ -864,6 +864,10 @@ table tfoot tr td {
   overflow: hidden;
   display: block;
 }
+#sponsors h2 {
+  color: #a12b32;
+  margin-bottom: 0.5em;
+}
 #sponsors h4 {
   margin: 1em 0 0.5em 0;
 }
