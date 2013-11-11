@@ -8,7 +8,7 @@ tags: [schedule,conference]
 comments: true
 ---
 
-Thank you everyone who submitted the proposals and congratulations to the selected Speakers. [Checkout the schedule](/schedule) for details.
+Thank you everyone who submitted the proposals and congratulations to the selected speakers. We've [our schedule ready](http://gardencityruby2014.busyconf.com/schedule/full).
 
 We had the CFP running for almost for a month i.e. it started on 1st of October and ended on 26th October. We got a total of 72 proposals, [checkout the details here](http://www.gardencityruby.org/blog/72-talk-proposals-in-total/
 ). 
