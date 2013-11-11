@@ -902,6 +902,11 @@ table tfoot tr td {
 #sponsors a {
   height: 60px;
 }
+#charts > section {
+  height: 400px;
+  width: 100%;
+  margin: 3em 0;
+}
 /* Media Queries
 -------------------------------------------------------------------------------*/
 @media only screen and (max-width: 1200px) {
@@ -1027,10 +1032,6 @@ table tfoot tr td {
 }
 #emailandlanyrd a:nth-child(3):hover {
   background: transparent url("/images/gh-32-hover.png") no-repeat;
-}
-#charts div {
-  height: 300px;
-  margin: 5em 0;
 }
 #hotel_link:after {
   content: "➚";
