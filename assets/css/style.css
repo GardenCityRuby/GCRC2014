@@ -883,6 +883,14 @@ table tfoot tr td {
   background: url("/images/sponsors/code_brahma.png") no-repeat;
   width: 254px;
 }
+#sponsors #good_work_labs {
+  background: url("/images/sponsors/good_work_labs.png") no-repeat;
+  width: 198px;
+}
+#sponsors #parami_soft {
+  background: url("/images/sponsors/parami_soft.png") no-repeat;
+  width: 231px;
+}
 #sponsors ul {
   margin: 0;
   border-bottom: 1px #aaa solid;
