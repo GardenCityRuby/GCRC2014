@@ -891,6 +891,14 @@ table tfoot tr td {
   background: url("/images/sponsors/parami_soft.png") no-repeat;
   width: 231px;
 }
+#sponsors .becomeone {
+  background: url("/images/become_sponsor.png") no-repeat;
+  width: 80px;
+  background-position: 0px 0px;
+}
+#sponsors .becomeone:hover {
+  background-position: 0px -59px;
+}
 #sponsors ul {
   margin: 0;
   border-bottom: 1px #aaa solid;
@@ -900,7 +908,7 @@ table tfoot tr td {
   padding: 1em;
 }
 #sponsors a {
-  height: 60px;
+  height: 59px;
 }
 /* Media Queries
 -------------------------------------------------------------------------------*/
