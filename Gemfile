@@ -8,4 +8,6 @@ gem 'kramdown'
 
 group :development do
   gem 'capistrano'
+  gem 'therubyracer'
+  gem 'less'
 end

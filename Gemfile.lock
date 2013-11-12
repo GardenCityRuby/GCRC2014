@@ -13,6 +13,7 @@ GEM
     colorator (0.1)
     commander (4.1.5)
       highline (~> 1.6.11)
+    commonjs (0.2.7)
     directory_watcher (1.4.1)
     fast-stemmer (1.0.2)
     highline (1.6.19)
@@ -28,6 +29,9 @@ GEM
       safe_yaml (~> 0.7.0)
     jekyll-minibundle (1.1.0)
     kramdown (1.2.0)
+    less (2.4.0)
+      commonjs (~> 0.2.7)
+    libv8 (3.16.14.3)
     liquid (2.5.3)
     maruku (0.7.0)
     net-scp (1.1.2)
@@ -43,7 +47,11 @@ GEM
       yajl-ruby (~> 1.1.0)
     rake (10.1.0)
     redcarpet (2.3.0)
+    ref (1.0.5)
     safe_yaml (0.7.1)
+    therubyracer (0.12.0)
+      libv8 (~> 3.16.14.0)
+      ref
     yajl-ruby (1.1.0)
 
 PLATFORMS
@@ -55,4 +63,6 @@ DEPENDENCIES
   jekyll (~> 1.2.0)
   jekyll-minibundle
   kramdown
+  less
   rake
+  therubyracer

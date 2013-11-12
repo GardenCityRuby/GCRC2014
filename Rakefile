@@ -111,3 +111,10 @@ task :publish do
   end
 end
 
+# HACK HACK HACK
+namespace :assets do
+  desc "Asset precompile"
+  task :precompile do
+    `lessc assets/less/style.less > assets/css/style.css`
+  end
+end
