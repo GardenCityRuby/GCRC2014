@@ -912,10 +912,19 @@ table tfoot tr td {
 }
 #sponsors li {
   display: inline-block;
-  padding: 1em;
+  padding: 1em 0 2em 0;
 }
 #sponsors a {
   height: 60px;
+}
+#sponsors li > a {
+  display: inline-block;
+  min-width: 30%;
+  padding: 0 0.25em 0 0.25em;
+}
+#sponsors li > p {
+  display: inline-block;
+  max-width: 68%;
 }
 #charts > section {
   height: 400px;
@@ -938,6 +947,15 @@ table tfoot tr td {
     padding: 2.5em 1em;
   }
 }
+@media only screen and (max-width: 1100px) {
+  #sponsors li > a {
+    display: block;
+  }
+  #sponsors li > p {
+    display: block;
+    max-width: 100%;
+  }
+}
 /* Tablet devices vertical */
 @media only screen and (max-width: 850px) {
   h1 {
@@ -957,6 +975,15 @@ table tfoot tr td {
   #main {
     padding: 2.5em 1em;
     margin-left: 15.5em;
+  }
+  #sponsors li {
+    display: block;
+  }
+  #sponsors li > a {
+    display: block;
+  }
+  #sponsors li > p {
+    display: block;
   }
   .speakers .speaker {
     margin: 0 2.5em 1.5em 0;
