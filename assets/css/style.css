@@ -808,16 +808,20 @@ table tfoot tr td {
 }
 /* Custom
 -------------------------------------------------------------------------------*/
-.speakers h2 {
+#speakers {
+  overflow: hidden;
+}
+#speakers h2 {
+  color: #a12b32;
   margin-bottom: 0.5em;
 }
-.speakers .speaker {
+#speakers .speaker {
   float: left;
   display: block;
   position: relative;
   margin: 0 3.25em 3em 0;
 }
-.speakers .speaker:nth-child(2n):after {
+#speakers .speaker:nth-child(2n):after {
   content: "";
   width: 0px;
   height: 0px;
@@ -829,7 +833,7 @@ table tfoot tr td {
   top: 0;
   right: 0;
 }
-.speakers .speaker:nth-child(2n+1):after {
+#speakers .speaker:nth-child(2n+1):after {
   content: "";
   width: 0px;
   height: 0px;
@@ -841,18 +845,91 @@ table tfoot tr td {
   top: 0;
   left: 0;
 }
-.speakers .speaker img {
+#speakers .speaker img {
   width: 12.5em;
   margin-bottom: 0.625em;
 }
-.speakers .speaker a,
-.speakers .speaker img,
-.speakers .speaker span {
+#speakers .speaker a,
+#speakers .speaker img,
+#speakers .speaker span {
   text-decoration: none;
   display: block;
 }
-.speakers .speaker.no-margin {
+#speakers .speaker.no-margin {
   margin-right: 0;
+}
+.imagereplace {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  display: block;
+}
+#sponsors p {
+  margin: 1em 0 1em 0;
+}
+#sponsors h2 {
+  color: #a12b32;
+  margin-bottom: 0.5em;
+}
+#sponsors h4 {
+  margin: 1em 0 0.5em 0;
+}
+#sponsors #josh_software {
+  background: url("/images/sponsors/josh.png") no-repeat;
+  width: 216px;
+}
+#sponsors #maven_hive {
+  background: url("/images/sponsors/maven_hive.png") no-repeat;
+  width: 80px;
+}
+#sponsors #code_brahma {
+  background: url("/images/sponsors/code_brahma.png") no-repeat;
+  width: 254px;
+}
+#sponsors #good_work_labs {
+  background: url("/images/sponsors/good_work_labs.png") no-repeat;
+  width: 198px;
+}
+#sponsors #parami_soft {
+  background: url("/images/sponsors/parami_soft.png") no-repeat;
+  width: 231px;
+}
+#sponsors .becomeone {
+  background: url("/images/become_sponsor.png") no-repeat;
+  width: 80px;
+  background-position: 0px 0px;
+}
+#sponsors .becomeone:hover {
+  background-position: 0px -60px;
+}
+#sponsors #nilenso {
+  background: url("/images/sponsors/nilenso.png") no-repeat;
+  width: 50px;
+}
+#sponsors ul {
+  margin: 0;
+  border-bottom: 1px #aaa solid;
+}
+#sponsors li {
+  display: inline-block;
+  padding: 1em 0 2em 0;
+}
+#sponsors a {
+  height: 60px;
+}
+#sponsors li > a {
+  display: inline-block;
+  min-width: 30%;
+  padding: 0 0.25em 0 0.25em;
+}
+#sponsors li > p {
+  display: inline-block;
+  max-width: 68%;
+}
+#charts > section {
+  height: 400px;
+  width: 100%;
+  margin: 3em 0;
 }
 /* Media Queries
 -------------------------------------------------------------------------------*/
@@ -868,6 +945,15 @@ table tfoot tr td {
   }
   #main {
     padding: 2.5em 1em;
+  }
+}
+@media only screen and (max-width: 1100px) {
+  #sponsors li > a {
+    display: block;
+  }
+  #sponsors li > p {
+    display: block;
+    max-width: 100%;
   }
 }
 /* Tablet devices vertical */
@@ -889,6 +975,15 @@ table tfoot tr td {
   #main {
     padding: 2.5em 1em;
     margin-left: 15.5em;
+  }
+  #sponsors li {
+    display: block;
+  }
+  #sponsors li > a {
+    display: block;
+  }
+  #sponsors li > p {
+    display: block;
   }
   .speakers .speaker {
     margin: 0 2.5em 1.5em 0;
@@ -979,10 +1074,6 @@ table tfoot tr td {
 }
 #emailandlanyrd a:nth-child(3):hover {
   background: transparent url("/images/gh-32-hover.png") no-repeat;
-}
-#charts div {
-  height: 300px;
-  margin: 5em 0;
 }
 #hotel_link:after {
   content: "➚";
