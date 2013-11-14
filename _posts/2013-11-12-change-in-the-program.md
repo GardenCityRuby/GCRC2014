@@ -12,4 +12,4 @@ We hit with a surprise when we heard from [Najaf Ali](https://twitter.com/alinaj
 
 The learning that we've from this is that, we should have enquired about the visa processing much earlier to avoid this schedule change.
 
-Anyways, we've chosen the next top talk that we had in our list and updated the program. 
+Anyways, we've chosen the next top talk that we had in our list and updated the program. I will be writing another post explaining the review process in detail. 
