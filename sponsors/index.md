@@ -58,7 +58,7 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
     <li>
       <a href="//codebrahma.com" id="code_brahma" target="_blank" class="imagereplace">Codebrahma</a>
       <p>
-        Codebrahma is the best way to get your ideas built…be it for web/mobile
+        Codebrahma is the best way to get your ideas built, be it for web/mobile
       </p>
     </li>
     <li>
