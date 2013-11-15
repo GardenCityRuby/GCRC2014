@@ -920,11 +920,11 @@ table tfoot tr td {
 #sponsors li > a {
   display: inline-block;
   min-width: 30%;
-  padding: 0 0.25em 0 0.25em;
 }
 #sponsors li > p {
   display: inline-block;
-  max-width: 68%;
+  max-width: 67%;
+  margin-left: 1em;
 }
 #charts > section {
   height: 400px;
@@ -954,6 +954,7 @@ table tfoot tr td {
   #sponsors li > p {
     display: block;
     max-width: 100%;
+    margin-left: 0;
   }
 }
 /* Tablet devices vertical */

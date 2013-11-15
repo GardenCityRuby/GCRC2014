@@ -48,12 +48,28 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
     </li>
     <li>
       <a href="//www.goodworklabs.com" id="good_work_labs" target="_blank" class="imagereplace">GoodWorkLabs</a>
+      <p>
+        GoodWorkLabs is a new-age software lab that delivers cutting-edge products and solutions for 
+        customers globally. With an objective to solve complex problems for customers, the firm 
+        specialises in outsourced product development, high-end mobile/gaming apps and custom software 
+        development across technologies including Ruby on Rails, Java, PHP, .Net, iOS, Mac, Android. 
+      </p>
     </li>
     <li>
       <a href="//codebrahma.com" id="code_brahma" target="_blank" class="imagereplace">Codebrahma</a>
+      <p>
+        Codebrahma is the best way to get your ideas built…be it for web/mobile
+      </p>
     </li>
     <li>
       <a href="//nilenso.com" id="nilenso" target="_blank" class="imagereplace">Nilenso</a>
+      <p>
+        Nilenso is an employee-owned programmer's collective based out of Bangalore. We ship beautiful, 
+        well-tested code using Ruby on Rails, Javascript and Clojure. Our focus on agile and XP 
+        practices help us engage with our customers as their technical team and champion a product 
+        from inception to launch and beyond.
+      </p>
+
     </li>
   </ul>
 </article>
