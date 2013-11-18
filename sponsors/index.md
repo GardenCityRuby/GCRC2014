@@ -32,6 +32,12 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
   <ul>
     <li>
       <a href="//paramisoft.com" id="parami_soft" target="_blank" class="imagereplace">ParamiSoft</a>
+      <p>
+        <a href="http://en.wikipedia.org/wiki/Pāramitā">Parami</a> in ParamiSoft means perfection in Pali. 
+        We practice <a href="http://en.wikipedia.org/wiki/Pāramitā">Paramies</a> everyday. We are creating balanced 
+        working environment to empower high performance teams to give WOW service to our clients. We are 
+        committed to increase quality of life for everyone associated with ParamiSoft.
+      </p>
     </li>
   </ul>
 
