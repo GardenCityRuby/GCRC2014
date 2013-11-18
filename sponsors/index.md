@@ -34,9 +34,9 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
       <a href="//paramisoft.com" id="parami_soft" target="_blank" class="imagereplace">ParamiSoft</a>
       <p>
         <a href="http://en.wikipedia.org/wiki/Pāramitā">Parami</a> in ParamiSoft means perfection in Pali. 
-        We practice <a href="http://en.wikipedia.org/wiki/Pāramitā">Paramies</a> everyday. We are creating balanced 
-        working environment to empower high performance teams to give WOW service to our clients. We are 
-        committed to increase quality of life for everyone associated with ParamiSoft.
+        ParamiSoft is a combination of 'Parami' which is "beyond perfection" and 'soft' is "software". 
+        We believe in crafting software beyond perfection and have been practicing it from last 4 years. 
+        We are creating a balanced work environment to empower high performance teams to provide WOW services to our clients. 
       </p>
     </li>
   </ul>
@@ -75,7 +75,6 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
         practices help us engage with our customers as their technical team and champion a product 
         from inception to launch and beyond.
       </p>
-
     </li>
   </ul>
 </article>
