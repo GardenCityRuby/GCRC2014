@@ -26,6 +26,15 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
         the Ruby community.
       </p>
     </li>
+    <li>
+      <a href="http://nilenso.com" id="nilenso" target="_blank" class="imagereplace">Nilenso</a>
+      <p>
+        Nilenso is an employee-owned programmer's collective based out of Bangalore. We ship beautiful, 
+        well-tested code using Ruby on Rails, Javascript and Clojure. Our focus on agile and XP 
+        practices help us engage with our customers as their technical team and champion a product 
+        from inception to launch and beyond.
+      </p>
+    </li>
   </ul>
 
   <h4>Associate Plus Sponsors</h4>
@@ -65,15 +74,6 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
       <a href="//codebrahma.com" id="code_brahma" target="_blank" class="imagereplace">Codebrahma</a>
       <p>
         Codebrahma is the best way to get your ideas built, be it for web/mobile
-      </p>
-    </li>
-    <li>
-      <a href="//nilenso.com" id="nilenso" target="_blank" class="imagereplace">Nilenso</a>
-      <p>
-        Nilenso is an employee-owned programmer's collective based out of Bangalore. We ship beautiful, 
-        well-tested code using Ruby on Rails, Javascript and Clojure. Our focus on agile and XP 
-        practices help us engage with our customers as their technical team and champion a product 
-        from inception to launch and beyond.
       </p>
     </li>
   </ul>
