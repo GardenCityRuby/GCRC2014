@@ -76,5 +76,12 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
         Codebrahma is the best way to get your ideas built, be it for web/mobile
       </p>
     </li>
+    <li>
+      <a href="//codemancers.com" id="codemancers" target="_blank" class="imagereplace">Codemancers</a>
+      <p>
+        Agile, experienced and a thorough commitment to quality describes what we do at Codemancers.
+        We are experts at delivering well crafted Rails, JS and iOS applications on time.
+      </p>
+    </li>
   </ul>
 </article>
