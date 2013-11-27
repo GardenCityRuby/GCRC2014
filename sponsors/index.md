@@ -35,6 +35,18 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
         from inception to launch and beyond.
       </p>
     </li>
+
+    <li>
+      <a href="http://github.com" id="github" target="_blank" class="imagereplace">GitHub</a>
+      <p>
+      GitHub is the best way to build software together. Whether it's
+      your company's app, your favorite open source library, or a
+      weekend side project, GitHub helps everyone work better by
+      providing tools for easier collaboration and code sharing on any
+      device. Start collaborating today—open source project hosting is
+      free!
+      </p>
+    </li>
   </ul>
 
   <h4>Associate Plus Sponsors</h4>
@@ -47,6 +59,17 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
         We believe in crafting software beyond perfection and have been practicing it from last 4 years. 
         We are creating a balanced work environment to empower high performance teams to provide WOW services to our clients. 
       </p>
+    </li>
+    <li>
+    <a href="//is.gd/bttjobs" id="btt" target="_blank" class="imagereplace">Bang The Table</a>
+    <p>
+    Bang The Table was founded in 2007 to give the silent majority a
+    chance to participate in the democratic processes occurring around
+    them everyday. Our SaaS product helps governments collaborate with
+    their communities.  We dominate Australia and make waves elsewhere
+    because our B2B software feels B2C – intuitive and so so pretty.
+    Come help us build a world-class product.
+    </p>
     </li>
   </ul>
 
@@ -81,6 +104,49 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
       <p>
         Agile, experienced and a thorough commitment to quality describes what we do at Codemancers.
         We are experts at delivering well crafted Rails, JS and iOS applications on time.
+      </p>
+    </li>
+
+    <li>
+      <a href="//multunus.com" id="multunus" target="_blank" class="imagereplace">Multunus"</a>
+      <p>
+      Working Software every 2 days. Android. iOS. HTML5. Ruby on Rails.
+      As a customer of ours told us, its "a miraculous partnership" .
+      You should find out why. Talk to us @multunus or info@multunus.com
+      </p>
+    </li>
+
+    <li>
+      <a href="//mahaswami.com" id="mahaswami" target="_blank" class="imagereplace">Mahaswami"</a>
+      <p>
+      Mahaswami is a Ruby and Rails consulting firm focused on
+      delivering complex business solutions on MRI and JRuby platforms
+      </p>
+    </li>
+    <li>
+      <a href="//supportbee.com" id="supportbee" target="_blank" class="imagereplace">SupportBee</a>
+      <p>
+      SupportBee is the easiest way for companies to manage their
+      customer support emails. While staying close to an email like
+      experience, SupportBee gives companies the tools needed to
+      effortlessly collaborate with their entire team on support emails.
+      Our ticket volume based pricing model encourages you to add
+      everyone in your team to your support desk and get them involved
+      in customer support.
+      </p>
+    </li>
+    <li>
+      <a
+      href="//icicletech.com/garden-city-ruby-conference-2014-bangalore" id="icicle" target="_blank" class="imagereplace">Icicle</a>
+      <p>
+      Icicle, based in Mumbai & Bangalore, is a Ruby on Rails
+      development company building Web & Mobile products for Startups &
+      Enterprises across the globe. Established in 2004, Icicle has
+      delivered excellent & successful products built by a team of
+      passionate, entrepreneurial developers.
+
+      A strong advocate of open source, Icicle has supported Ruby & Ruby
+      on Rails community in building up Ruby eco-system.
       </p>
     </li>
   </ul>
