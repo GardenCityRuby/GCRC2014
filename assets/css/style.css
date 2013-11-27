@@ -898,6 +898,34 @@ table tfoot tr td {
   background: url("/images/sponsors/parami_soft.png") no-repeat;
   width: 231px;
 }
+#sponsors #nilenso {
+  background: url("/images/sponsors/nilenso.png") no-repeat;
+  width: 210px;
+}
+#sponsors #github {
+  background: url("/images/sponsors/github.png") no-repeat;
+  width: 223px;
+}
+#sponsors #multunus {
+  background: url("/images/sponsors/multunus.png") no-repeat;
+  width: 56px;
+}
+#sponsors #mahaswami {
+  background: url("/images/sponsors/mahaswami.png") no-repeat;
+  width: 110px;
+}
+#sponsors #supportbee {
+  background: url("/images/sponsors/supportbee.png") no-repeat;
+  width: 208px;
+}
+#sponsors #icicle {
+  background: url("/images/sponsors/icicle.png") no-repeat;
+  width: 161px;
+}
+#sponsors #btt {
+  background: url("/images/sponsors/btt.png") no-repeat;
+  width: 267px;
+}
 #sponsors .becomeone {
   background: url("/images/become_sponsor.png") no-repeat;
   width: 80px;
@@ -905,10 +933,6 @@ table tfoot tr td {
 }
 #sponsors .becomeone:hover {
   background-position: 0px -60px;
-}
-#sponsors #nilenso {
-  background: url("/images/sponsors/nilenso.png") no-repeat;
-  width: 210px;
 }
 #sponsors ul {
   margin: 0;
@@ -923,13 +947,15 @@ table tfoot tr td {
 }
 #sponsors li > a {
   display: inline-block;
-  min-width: 30%;
+  min-width: 34%;
   vertical-align: text-bottom;
 }
 #sponsors li > p {
   display: inline-block;
-  max-width: 67%;
+  max-width: 60%;
   margin-left: 1em;
+  text-align: justify;
+  font-size: 0.9em;
 }
 #charts > section {
   height: 400px;
