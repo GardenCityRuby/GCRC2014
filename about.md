@@ -22,3 +22,8 @@ Bangalore Ruby User Group : [Website](http://bangaloreruby.org) | [Mailing list]
 * [Tejas Dinkar](https://twitter.com/tdinkar)
 
 Team email: [team@gardencityruby.org](mailto:team@gardencityruby.org)
+
+### Special Thanks
+* [Kashyap Kondamudi](https://twitter.com/kgrz)
+* [Rakshith Ashok](https://twitter.com/RAKAFLACKA)
+
