@@ -139,8 +139,8 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
       <a
       href="//icicletech.com/garden-city-ruby-conference-2014-bangalore" id="icicle" target="_blank" class="imagereplace">Icicle</a>
       <p>
-      Icicle, based in Mumbai & Bangalore, is a Ruby on Rails
-      development company building Web & Mobile products for Startups &
+      Icicle, based in Mumbai & Bangalore, is a <a href="http://www.icicletech.com/" target="_blank">Ruby on Rails
+      development company</a> building Web & Mobile products for Startups &
       Enterprises across the globe. Established in 2004, Icicle has
       delivered excellent & successful products built by a team of
       passionate, entrepreneurial developers.
