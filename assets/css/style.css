@@ -864,6 +864,18 @@ table tfoot tr td {
   overflow: hidden;
   display: block;
 }
+#sponsors .become_sponsor {
+  font-size: 0.3em;
+  color: #ffffff;
+  background: #ff0000;
+  padding: 0.4em;
+  border-radius: 5px;
+  margin-left: 1em;
+}
+#sponsors .become_sponsor:hover {
+  color: #ff0000;
+  background: #ffffff;
+}
 #sponsors p {
   margin: 0 0 1em 0;
 }
