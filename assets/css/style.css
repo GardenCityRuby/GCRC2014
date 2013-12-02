@@ -874,9 +874,13 @@ table tfoot tr td {
 #sponsors h4 {
   margin: 1em 0 0.5em 0;
 }
+#sponsors #flipkart {
+  background: url("/images/sponsors/flipkart.png") no-repeat;
+  width: 273px;
+}
 #sponsors #josh_software {
   background: url("/images/sponsors/josh.png") no-repeat;
-  width: 216px;
+  width: 273px;
 }
 #sponsors #maven_hive {
   background: url("/images/sponsors/maven_hive.png") no-repeat;
@@ -884,7 +888,7 @@ table tfoot tr td {
 }
 #sponsors #code_brahma {
   background: url("/images/sponsors/code_brahma.png") no-repeat;
-  width: 254px;
+  width: 273px;
 }
 #sponsors #codemancers {
   background: url("/images/sponsors/codemancers.png") no-repeat;
@@ -950,6 +954,9 @@ table tfoot tr td {
 }
 #sponsors a {
   height: 60px;
+}
+#sponsors a#flipkart {
+  height: 90px;
 }
 #sponsors li > a {
   display: inline-block;
