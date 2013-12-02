@@ -926,6 +926,11 @@ table tfoot tr td {
   background: url("/images/sponsors/btt.png") no-repeat;
   width: 267px;
 }
+#sponsors #cognitive_clouds {
+  background: url("/images/sponsors/cognitive_clouds.png") no-repeat;
+  width: 218px;
+  vertical-align: middle;
+}
 #sponsors .becomeone {
   background: url("/images/become_sponsor.png") no-repeat;
   width: 80px;

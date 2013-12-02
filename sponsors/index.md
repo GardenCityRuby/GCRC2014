@@ -144,9 +144,18 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
       Enterprises across the globe. Established in 2004, Icicle has
       delivered excellent & successful products built by a team of
       passionate, entrepreneurial developers.
-
       A strong advocate of open source, Icicle has supported Ruby & Ruby
       on Rails community in building up Ruby eco-system.
+      </p>
+    </li>
+    <li>
+      <a href="//www.cognitiveclouds.com/" id="cognitive_clouds" target="_blank" class="imagereplace">Cognitive Clouds</a>
+      <p>
+      CognitiveClouds, has been a disruptive software development company building highly reliable, 
+      scalable software for innovative industry leaders and emerging companies across a number of industries.  
+      We help customers bring a new product vision to market, accelerate their existing development efforts to 
+      strengthen their in-house development if required. We provide expertise in three competencies 
+      crucial to building the best product design: design, development and product management.
       </p>
     </li>
   </ul>
