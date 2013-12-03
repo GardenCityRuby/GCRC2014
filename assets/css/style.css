@@ -871,6 +871,7 @@ table tfoot tr td {
   padding: 0.4em;
   border-radius: 5px;
   margin-left: 1em;
+  vertical-align: middle;
 }
 #sponsors .become_sponsor:hover {
   color: #ff0000;
@@ -892,7 +893,7 @@ table tfoot tr td {
 }
 #sponsors #josh_software {
   background: url("/images/sponsors/josh.png") no-repeat;
-  width: 273px;
+  width: 214px;
 }
 #sponsors #maven_hive {
   background: url("/images/sponsors/maven_hive.png") no-repeat;
