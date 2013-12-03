@@ -859,7 +859,7 @@ table tfoot tr td {
   margin-right: 0;
 }
 .imagereplace {
-  text-indent: 100%;
+  text-indent: -9999px;
   white-space: nowrap;
   overflow: hidden;
   display: block;
@@ -890,6 +890,7 @@ table tfoot tr td {
 #sponsors #flipkart {
   background: url("/images/sponsors/flipkart.png") no-repeat;
   width: 273px;
+  height: 90px;
 }
 #sponsors #josh_software {
   background: url("/images/sponsors/josh.png") no-repeat;
@@ -947,14 +948,6 @@ table tfoot tr td {
   background: url("/images/sponsors/cognitive_clouds.png") no-repeat;
   width: 218px;
 }
-#sponsors .becomeone {
-  background: url("/images/become_sponsor.png") no-repeat;
-  width: 80px;
-  background-position: 0px 0px;
-}
-#sponsors .becomeone:hover {
-  background-position: 0px -60px;
-}
 #sponsors ul {
   margin: 0;
   border-bottom: 1px #aaa solid;
@@ -966,9 +959,6 @@ table tfoot tr td {
 }
 #sponsors a {
   height: 60px;
-}
-#sponsors a#flipkart {
-  height: 90px;
 }
 #sponsors li > a {
   display: inline-block;
@@ -989,6 +979,45 @@ table tfoot tr td {
 }
 /* Media Queries
 -------------------------------------------------------------------------------*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  #sponsors #flipkart {
+    background: url("/images/sponsors/flipkart@2x.png") no-repeat;
+    background-size: 273px 87px;
+  }
+  #sponsors #josh_software {
+    background: url("/images/sponsors/josh@2x.png") no-repeat;
+    background-size: 214px 59px;
+  }
+  #sponsors #maven_hive {
+    background: url("/images/sponsors/maven_hive@2x.png") no-repeat;
+    background-size: 79px 59px;
+  }
+  #sponsors #code_brahma {
+    background: url("/images/sponsors/code_brahma@2x.png") no-repeat;
+    background-size: 254px 60px;
+  }
+  #sponsors #codemancers {
+    background: url("/images/sponsors/codemancers@2x.png") no-repeat;
+    background-size: 250px 59px;
+  }
+  #sponsors #github {
+    background: url("/images/sponsors/github@2x.png") no-repeat;
+    background-size: 223px 60px;
+  }
+  #sponsors #supportbee {
+    background: url("/images/sponsors/supportbee@2x.png") no-repeat;
+    background-size: 208px 60px;
+  }
+  #sponsors #btt {
+    background: url("/images/sponsors/btt@2x.png") no-repeat;
+    background-size: 267px 60px;
+  }
+  #sponsors #cognitive_clouds {
+    background: url("/images/sponsors/cognitive_clouds@2x.png") no-repeat;
+    background-size: 218px 30px;
+    width: 218px;
+  }
+}
 @media only screen and (max-width: 1200px) {
   h1 {
     font-size: 2.625em;
@@ -1011,6 +1040,7 @@ table tfoot tr td {
     display: block;
     max-width: 100%;
     margin-left: 0;
+    margin-top: 1em;
   }
 }
 /* Tablet devices vertical */
@@ -1078,6 +1108,10 @@ table tfoot tr td {
 @media only screen and (max-width: 580px) {
   body {
     font-size: 90%;
+  }
+  #sponsors .become_sponsor {
+    font-size: 0.35em;
+    font-weight: bold;
   }
 }
 @media only screen and (max-width: 320px) {
