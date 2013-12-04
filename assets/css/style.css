@@ -864,6 +864,23 @@ table tfoot tr td {
   overflow: hidden;
   display: block;
 }
+#badges pre {
+  font-size: 0.75em;
+  text-align: left;
+}
+#badges ul {
+  margin: 0;
+  border-top: 1px #aaa solid;
+}
+#badges li {
+  display: inline-block;
+  padding: 1em 0 2em 0;
+  margin: 1em 1.5em;
+  text-align: center;
+}
+#badges h3 {
+  margin-bottom: 0px;
+}
 #sponsors .become_sponsor {
   font-size: 0.3em;
   color: #ffffff;
