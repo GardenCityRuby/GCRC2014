@@ -167,5 +167,13 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
       crucial to building the best product design: design, development and product management.
       </p>
     </li>
+    <li>
+      <a href="//www.bigbinary.com/" id="big_binary" target="_blank" class="imagereplace">BigBinary</a>
+      <p>
+        BigBinary is a Ruby on Rails development shop. We also build mobile applications using RubyMotion. 
+        We love open source and our team members have contributed to lots of open source projects. 
+        Watch our videos section to see videos on topics ranging from "How Arel Works" to "How to use Deferred in jQuery".
+      </p>
+    </li>
   </ul>
 </article>
