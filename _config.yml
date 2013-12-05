@@ -36,6 +36,8 @@ links:
     url: /code-of-conduct
   - title: Badges
     url: /badges
+  - title: Accommodation
+    url: /accommodation
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kolkata
