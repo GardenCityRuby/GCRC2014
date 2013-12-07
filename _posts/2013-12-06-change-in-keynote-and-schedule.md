@@ -14,6 +14,8 @@ The second surprise came when Emily Stolfo also had to cancel her trip as she al
 
 We are hoping both Ben and Emily can make it for GCRC15.
 
-We had updated the [schedule](https://bitly.com/gcrc-schedule) with other top rated proposals. 
+We've added Hari Krishnan's and Aman King's talks as replacement. Chad Fowler will do the Opening Keynote and Closing Keynote will be done by Ajey Gore.
+
+Checkout the [updated schedule](https://bitly.com/gcrc-schedule). 
 
 
