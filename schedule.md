@@ -5,7 +5,7 @@ title: Schedule
 tags: [ruby, gardencityruby, bangalore, blog, conference]
 ---
 
-__Checkout our Schedule here__: [http://bit.ly/gcrc-schedule](http://bit.ly/gcrc-schedule)
+[__Checkout our Schedule here__](http://bit.ly/gcrc-schedule)
 
 Speakers, here are some useful links to inspire you to get started and make a positive impact with the talk:
 
