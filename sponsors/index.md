@@ -56,6 +56,12 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
       free!
       </p>
     </li>
+
+    <li>
+      <a href="http://www.qwinixtech.com" id="qwinix" target="_blank" class="imagereplace">Qwinix</a>
+      <p>
+      </p>
+    </li>
   </ul>
 
   <h3>Associate Plus Sponsors</h3>
