@@ -944,6 +944,10 @@ table tfoot tr td {
   background: url("/images/sponsors/github.png") no-repeat;
   width: 223px;
 }
+#sponsors #qwinix {
+  background: url("/images/sponsors/qwinix.png") no-repeat;
+  width: 248px;
+}
 #sponsors #multunus {
   background: url("/images/sponsors/multunus.png") no-repeat;
   width: 270px;
