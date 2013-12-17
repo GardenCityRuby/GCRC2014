@@ -37,3 +37,23 @@ article.sponsor-logo-grid .grid .unit {
     max-height: 100px;
 }
 
+
+
+/*****************************************************************************/
+/*
+/* Panel
+/*
+/*****************************************************************************/
+.panel-discussion {
+  list-style: none;
+  margin-left: 0;
+}
+.panel-discussion li {
+  list-style: none;
+  margin-bottom: 3em;
+}
+.panel-discussion img {
+  float: left;
+  margin-right: 2em;
+  	max-width: 200px !important;
+}
