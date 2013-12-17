@@ -27,7 +27,11 @@ The panel will be made of following people with years of industry experience.
       <img src="{{ site.url}}/images/panel/bg.jpg" alt="bg" />
     </div>
     <div>
-     Baishampayan Ghose (affectionately called BG) - is a lisper, pythonista and a clojure convert. His love for programming languages is immense and he currently works as CTO of <a href="http://www.helpshift.com/"> Helpshift </a>.
+Baishampayan Ghose (commonly known as `BG') is a polyglot programmer
+with wide exposure to a variety of programming languages and
+techniques. He digs functional programming and has programmed
+professionally in Common Lisp & Clojure. Currently he is
+Co-founder/CTO at <a href="http://www.helpshift.com">Helpshift</a>.
     </div>
   </li>
 
