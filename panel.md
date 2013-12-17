@@ -48,10 +48,27 @@ Yogi is Principal Architect at Flipkart and an ex-thoughtworker. At Flipkart he 
   <li class="clearfix">
     <div>
       <a href="http://www.mahaswami.com/"> Venkat Subramaniyan </a>
-      <img src="{{ site.url}}/images/panel/default-avatar.png" alt="Venkat" />
+      <img src="{{ site.url}}/images/panel/venkat.jpg" alt="Venkat" />
     </div>
     <div>
-    Venkat works with Mahaswami Software and he has been programming in Ruby for last 10 years. At Mahaswami he has used Ruby and JRuby in various capacities and seen Ruby evolve from version 1.6.7.
+    Venkat is CEO of Mahaswami Software and he has been programming in Ruby for last 10 years. At Mahaswami he has used Ruby and JRuby in various capacities and seen Ruby evolve from version 1.6.7.
+    </div>
+  </li>
+</ul>
+
+The panel discussion will be moderated by:
+
+<ul class="panel-discussion">
+  <li class="clearfix">
+    <div>
+      <a href="http://twitter.com/gnufied"> Hemant Kumar </a>
+      <img src="{{ site.url}}/images/panel/hemant.png" alt="Hemant Kumar" />
+    </div>
+    <div>
+Hemant is a programmer geek with huge interest in programming languages and concurrency.
+Previously he has worked on stock market trading platform using Scala and Ruby. He is
+ co founder of <a href="http://codemancers.com"> Codemancers </a> where he helps startups adopt Ruby and
+other new technologies.
     </div>
   </li>
 </ul>
