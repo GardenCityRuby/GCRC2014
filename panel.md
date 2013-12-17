@@ -34,7 +34,7 @@ The panel will be made of following people with years of industry experience.
   <li class="clearfix">
     <div>
       <a href="http://yogikulkarni.com/"> Yogi Kulkarni </a>
-      <img src="{{ site.url}}/images/panel/yogi.jpg" alt="Yogi Kulkarni" />
+      <img src="{{ site.url}}/images/panel/yogi1.jpg" alt="Yogi Kulkarni" />
     </div>
     <div>
 Yogi is Principal Architect at Flipkart and an ex-thoughtworker. At Flipkart he has overseen Ruby being used at one of the largest deployments in India. 
