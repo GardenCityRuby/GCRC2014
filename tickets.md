@@ -11,3 +11,6 @@ and a lot of great talks from amazing people for the 200 lucky participants ! Gr
 Purchase your ticket - | [Click here](http://gcrc2014.doattend.com)
 
 Registration includes access to two days of Ruby-related presentations from both established and emerging Rubyists in the community, coffee, lunch, and an afternoon snack on conference days. Please read the [code of conduct](/code-of-conduct) as all participants are expected to comply.
+
+
+#### [**Read about Opportunity Scholarships**](/blog/announcing-opportunity-scholarships/)
