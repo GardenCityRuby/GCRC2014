@@ -60,6 +60,11 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
     <li>
       <a href="http://www.qwinixtech.com" id="qwinix" target="_blank" class="imagereplace">Qwinix</a>
       <p>
+      Transparency, Clarity, Understanding - These are the cornerstones of commerce today. 
+      Your clients need to see right through you to a clear, common-sense solution. That's where we come in — developing visionary, 
+      customized applications that go beyond your wildest dreams — making you and your offerings clear, 
+      transparent, understandable. We use Convergence - Web, Mobile, Social & Cloud in synch to support one another and create 
+      the most robust solutions for you. Qwinix Technologies is based in Denver, CO and Mysore, India.
       </p>
     </li>
   </ul>
