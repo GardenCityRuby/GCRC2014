@@ -976,6 +976,10 @@ table tfoot tr td {
   background: url("/images/sponsors/big_binary.png") no-repeat;
   width: 216px;
 }
+#sponsors #masymbol {
+  background: url("/images/sponsors/masymbol.png") no-repeat;
+  width: 277px;
+}
 #sponsors ul {
   margin: 0;
   border-bottom: 1px #aaa solid;
@@ -1049,6 +1053,11 @@ table tfoot tr td {
     background: url("/images/sponsors/big_binary@2x.png") no-repeat;
     background-size: 216px 60px;
     width: 216px;
+  }
+  #sponsors #masymbol {
+    background: url("/images/sponsors/masymbol@2x.png") no-repeat;
+    background-size: 277px 60px;
+    width: 277px;
   }
 }
 @media only screen and (max-width: 1200px) {

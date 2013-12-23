@@ -186,5 +186,14 @@ Write to the sponsorship team at [sponsors@gardencityruby.org](mailto:sponsors@g
         Watch our videos section to see videos on topics ranging from "How Arel Works" to "How to use Deferred in jQuery".
       </p>
     </li>
+    <li>
+      <a href="//www.masymbol.com/" id="masymbol" target="_blank" class="imagereplace">Masymbol</a>
+      <p>
+        We are a team of Ruby on Rails developers. We deliver successful products to keep our clients happy using Agile.
+        We build your ideas to make a successful product using Ruby on Rails, node.js and Backbone.js. 
+        We are a lean, agile development team for whole host of elements from start-up companies. 
+        We are highly technical Ruby On Rails developers who passionate to deliver the code using behaviour driven development.
+      </p>
+    </li>
   </ul>
 </article>
