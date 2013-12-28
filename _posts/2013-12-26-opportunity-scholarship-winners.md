@@ -22,6 +22,7 @@ The GCRC team has selected the following candidates under the [opportunity schol
 | Kartik Luke Singh         | Emil Soman     |
 | Lakshya Sivaramakrishnan  | Leena SN       |
 | Suhas Sharma              | Coby Randquist |
+| Sindhu Sundar             | Swanand Pagnis |
 | :------------------------:|:--------------:|
 
 
