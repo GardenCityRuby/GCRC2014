@@ -12,6 +12,11 @@ Here are some quick & handy tips for speakers.
 
 ###Presentation & Demos
 
+- The projectors we'll be using at GCRC will support both 1024x768 and 1280x1024 resolutions. Make sure your presentations look good in them!
+- One of our speakers, [Aman King](https://github.com/amanking) has this useful tip:
+
+> Something I have observed time and again in tech conferences: dark background for slides and low contrast font color that just doesn't work for audiences at any distance. Similarly for font size, especially in diagrams or code snippets.
+
 - Make sure the laptops you use are loaded with your presentation/demos, and also carry copies on the cloud or on removable media.
 - It's also recommended to have the console outputs ready, in case your demos don't work as expected.
 - The organizing team will have a Macbook ready, which you can copy the presentation to. If your laptop dies, your talk doesn't have to! :)
