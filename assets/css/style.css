@@ -881,6 +881,23 @@ table tfoot tr td {
 #badges h3 {
   margin-bottom: 0px;
 }
+.notice {
+  background-color: #F1F1B6;
+  padding: 10px;
+}
+.notice p {
+  margin-bottom: 1em;
+}
+.notice h3 {
+  color: #a12b32;
+  margin-bottom: 0.5em;
+}
+.notice ul {
+  margin-top: 0.7em;
+}
+.notice li {
+  margin-bottom: 1.1em;
+}
 #sponsors .become_sponsor {
   font-size: 0.3em;
   color: #ffffff;
