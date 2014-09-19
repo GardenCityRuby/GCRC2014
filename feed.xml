@@ -2,36 +2,564 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">GardenCityRubyConf 2014</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://gardencityruby.github.io/GCRC2014/feed.xml" />
-<link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014" />
-<updated>2013-11-14T20:22:32+05:30</updated>
-<id>http://gardencityruby.github.io/GCRC2014/</id>
+<link rel="self" type="application/atom+xml" href="http://2014.gardencityruby.org//feed.xml" />
+<link rel="alternate" type="text/html" href="http://2014.gardencityruby.org/" />
+<updated>2014-09-19T12:23:47+05:30</updated>
+<id>http://2014.gardencityruby.org//</id>
 <author>
   <name>GardenCityRubyConf 2014</name>
-  <uri>http://gardencityruby.github.io/GCRC2014/</uri>
+  <uri>http://2014.gardencityruby.org//</uri>
   <email>team@gardencityruby.org</email>
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[Tips for speakers]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/tips-for-speakers" />
+  <id>http://2014.gardencityruby.org//blog/tips-for-speakers</id>
+  <published>2013-12-26T00:00:00+05:30</published>
+  <updated>2013-12-26T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;Here are some quick &amp;amp; handy tips for speakers.&lt;/p&gt;
+
+&lt;h3 id=&quot;presentation--demos&quot;&gt;Presentation &amp;amp; Demos&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The projectors we’ll be using at GCRC will support both 1024x768 and 1280x1024 resolutions. Make sure your presentations look good in them!&lt;/li&gt;
+  &lt;li&gt;One of our speakers, &lt;a href=&quot;https://github.com/amanking&quot;&gt;Aman King&lt;/a&gt;, has this useful tip:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Something I have observed time and again in tech conferences: dark background for slides and low contrast font color that just doesn’t work for audiences at any distance. Similarly for font size, especially in diagrams or code snippets.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make sure the laptops you use are loaded with your presentation/demos, and also carry copies on the cloud or on removable media.&lt;/li&gt;
+  &lt;li&gt;It’s also recommended to have the console outputs ready, in case your demos don’t work as expected.&lt;/li&gt;
+  &lt;li&gt;The organizing team will have a Macbook ready, which you can copy the presentation to. If your laptop dies, your talk doesn’t have to! :)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;humor&quot;&gt;Humor&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Humor can provide a powerful boost to the audience’s attention span.&lt;/li&gt;
+  &lt;li&gt;Please follow the &lt;a href=&quot;/code-of-conduct/&quot;&gt;Code of Conduct&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Be tasteful. If you have a joke that could offend some sections of the community, it’s probably not right for a conference. Clean humor is best appreciated.&lt;/li&gt;
+  &lt;li&gt;Start off with a joke or end with one or both. Make the presentation memorable.&lt;/li&gt;
+  &lt;li&gt;Don’t overdo it, lest it be mistaken as stand-up comedy!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;engagement&quot;&gt;Engagement&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Provide examples which the audience can relate to. If they feel “Oh yeah, I’ve been there!”, they’ll be more receptive to your talk.&lt;/li&gt;
+  &lt;li&gt;Don’t RTFM, but rather share your experiences, pitfalls and gotchas. The audience is there for stories, not a boring reading of a technical document.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our friends at Droidcon have more tips for you &lt;a href=&quot;https://droidcon.in/2011/quick-tips-for-speakers/&quot;&gt;here&lt;/a&gt;. Here are some important ones:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;prep-for-offline-demos&quot;&gt;Prep for Offline Demos&lt;/h4&gt;
+  &lt;p&gt;All speakers will be provided Wi-Fi access codes. However, invariably all conferences have their share of Wi-Fi and internet issues, and we’d recommend that you keep everything you need for your demo available offline just in case you run into issues. As you know, if things can go wrong, they will. So, dont leave things to chance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;session-setup&quot;&gt;Session Setup&lt;/h4&gt;
+  &lt;p&gt;Please arrive at the auditorium at least 30 minutes in advance to prep. This will also give you a feel for the space, how the audience interacts, and how you’d like to position yourself best.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;accessorize&quot;&gt;Accessorize&lt;/h4&gt;
+  &lt;p&gt;If you have any special needs for your demos – Macbook adaptors, additional cables or wiring, or any specialized setup, please plan on bringing them along so they are at your finger tips.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;timing-is-everything&quot;&gt;Timing is Everything&lt;/h4&gt;
+  &lt;p&gt;Time is of essence, and you’d want to pace your session effectively. Let the volunteers know if you’d like a 5 &amp;amp; 10 minute reminder so you dont run out of time for questions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;no-pitches-please-were-geeks&quot;&gt;No pitches please, we’re geeks&lt;/h4&gt;
+  &lt;p&gt;This is a developer event. So, if you have a pitch about your company, your apps, or yourself, please leave it at the door. And no freebies either, unless you are a sponsor&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h4 id=&quot;rehearse-rehearse-rehearse&quot;&gt;Rehearse, Rehearse, Rehearse!&lt;/h4&gt;
+  &lt;p&gt;If you have a demo, please take the time to rehearse to ensure all your bits are in place.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/tips-for-speakers&quot;&gt;Tips for speakers&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on December 26, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Opportunity Scholarship Winners]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/opportunity-scholarship-winners" />
+  <id>http://2014.gardencityruby.org//blog/opportunity-scholarship-winners</id>
+  <published>2013-12-26T00:00:00+05:30</published>
+  <updated>2013-12-26T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;The GCRC team has selected the following candidates under the &lt;a href=&quot;/blog/announcing-opportunity-scholarships/&quot;&gt;opportunity scholarship program&lt;/a&gt;. &lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Candidate&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Mentor&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Tushar Maroo&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Hemant Kumar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Varun Mayya&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Dheeraj Kumar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Sarup Banskota&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Coby Randquist&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Anuj More&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Tejas Dinkar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Sumukha C&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Prakash Murthy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Akshata Mohan&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Swanand Pagnis&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Venkatesh Prabhu&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Satish Perala&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Kartik Luke Singh&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Emil Soman&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Lakshya Sivaramakrishnan&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Leena SN&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Suhas Sharma&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Coby Randquist&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Sindhu Sundar&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Swanand Pagnis&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Congratulations to the selected scholars!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/opportunity-scholarship-winners&quot;&gt;Opportunity Scholarship Winners&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on December 26, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Associate Sponsor - Masymbol]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-associate-sponsor---masymbol" />
+  <id>http://2014.gardencityruby.org//blog/announcing-associate-sponsor---masymbol</id>
+  <published>2013-12-23T00:00:00+05:30</published>
+  <updated>2013-12-23T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;http://www.masymbol.com/&quot; target=&quot;_blank&quot;&gt;Masymbol&lt;/a&gt; for signing up to be an Associate Sponsor at &lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot;&gt;#GCRC&lt;/a&gt;. Masymbol is showing their support for the Indian Ruby Community by sponsoring GCRC and RubyConf India.  We wish them a wonderful experience at the conference.  Do ask them how they chose their name when you meet them at the conference.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-associate-sponsor---masymbol&quot;&gt;Announcing Associate Sponsor - Masymbol&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on December 23, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Silver Sponsor - Qwinix]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-silver-sponsor-qwinix" />
+  <id>http://2014.gardencityruby.org//blog/announcing-silver-sponsor-qwinix</id>
+  <published>2013-12-20T00:00:00+05:30</published>
+  <updated>2013-12-20T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;The #GCRC team welcomes &lt;a target=&quot;_blank&quot; href=&quot;http://www.qwinixtech.com/&quot;&gt;Qwinix&lt;/a&gt; on board as a Silver Sponsor.  Qwinix has been one of earliest supporters of the Mysore Ruby group and you can regularly see Qwinix folks hang out at the Mysore Ruby meetups.  Say hi to them at GCRC.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-silver-sponsor-qwinix&quot;&gt;Announcing Silver Sponsor - Qwinix&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on December 20, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Opportunity Scholarships]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-opportunity-scholarships" />
+  <id>http://2014.gardencityruby.org//blog/announcing-opportunity-scholarships</id>
+  <published>2013-12-20T00:00:00+05:30</published>
+  <updated>2013-12-20T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;Garden City RubyConf is announcing 10 Opportunity Scholarships for anyone who wants to be there, but need financial assistance.  We encourage students, women and other under-represented groups to apply for the scholarships.&lt;/p&gt;
+
+&lt;p&gt;Tech conferences are a great opportunity to learn more about Software Development, craftsmanship, building contacts, extending professional and personal networks and setting one up for a bright career.  At GCRC, the selected scholars would be paired with experienced programmers, called as mentors, during the conference days.  Many conferences, like &lt;a href=&quot;http://rockymtnruby.com/2012/scholarship&quot;&gt;Rocky Mountain Ruby&lt;/a&gt; and &lt;a href=&quot;http://lanyrd.com/2013/rubyconfindia/calls/qqbk/&quot;&gt;RubyConf India&lt;/a&gt; have successfully implemented this in the past.  If you or someone you know are interested in applying, please read the instructions below.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;Applying&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;applying&quot;&gt;Applying&lt;/h3&gt;
+&lt;p&gt;Please fill out this &lt;a href=&quot;https://docs.google.com/forms/d/1aee0IwQHodz1vvoYLtLDnunwiEoXzOZPASS0k73aKow/viewform&quot;&gt;application&lt;/a&gt; to apply.  This is your chance to tell us how you qualify for the scholarship.  The conference is close so we recommend you apply soon.  The application process will close on &lt;a href=&quot;http://www.timeanddate.com/worldclock/fixedtime.html?msg=Application+process+closes+on&amp;amp;iso=20131225T23&amp;amp;p1=438&quot;&gt;11 PM IST, Dec 25th&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;Rewards&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;rewards&quot;&gt;Rewards&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Guidance by an experienced mentor for the duration of the conference&lt;/li&gt;
+  &lt;li&gt;Complimentary registration, valued at Rs 3,500/- along with all things that come with Registration (Lunch, Free Swag et al)&lt;/li&gt;
+  &lt;li&gt;Invitation to Speaker Dinner on Thursday, Jan 2nd&lt;/li&gt;
+  &lt;li&gt;Opportunity to become a volunteer to help out the organizing team on the days of the conference ( A clever ruse by the organizing team )&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-is-not-included&quot;&gt;What is &lt;em&gt;not&lt;/em&gt; included&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Travel and accommodation.  You will have to arrange for this on your own.&lt;/li&gt;
+  &lt;li&gt;Anything that is not listed under &lt;a href=&quot;#Rewards&quot;&gt;Rewards&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;are-you-a-company-who-is-interested-in-sponsoring-the-scholars&quot;&gt;Are you a company who is interested in sponsoring the scholars?&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#101;&amp;#097;&amp;#109;&amp;#064;&amp;#103;&amp;#097;&amp;#114;&amp;#100;&amp;#101;&amp;#110;&amp;#099;&amp;#105;&amp;#116;&amp;#121;&amp;#114;&amp;#117;&amp;#098;&amp;#121;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;We would love to hear from you.&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-opportunity-scholarships&quot;&gt;Announcing Opportunity Scholarships&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on December 20, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Change in Keynote and Schedule]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/change-in-keynote-and-schedule" />
+  <id>http://2014.gardencityruby.org//blog/change-in-keynote-and-schedule</id>
+  <published>2013-12-06T00:00:00+05:30</published>
+  <updated>2013-12-06T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;We hit with the first surprise when Ben Orenstein mentioned that he had to cancel his trip to India for GCRC14 because some personal emergencies at his end. We thought of having a Live Video Keynote but then realised they are never as effective as live ones. The interaction with the speaker is very critical for conferences such as GCRC which target small number of audience.&lt;/p&gt;
+
+&lt;p&gt;The second surprise came when Emily Stolfo also had to cancel her trip as she also has some personal emergencies. &lt;/p&gt;
+
+&lt;p&gt;We are hoping both Ben and Emily can make it for GCRC15.&lt;/p&gt;
+
+&lt;p&gt;We’ve added Hari Krishnan’s and Aman King’s talks as replacement. Chad Fowler will do the Opening Keynote and Closing Keynote will be done by Ajey Gore.&lt;/p&gt;
+
+&lt;p&gt;Checkout the &lt;a href=&quot;https://bitly.com/gcrc-schedule&quot;&gt;updated schedule&lt;/a&gt;. &lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/change-in-keynote-and-schedule&quot;&gt;Change in Keynote and Schedule&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on December 06, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Associate Sponsor - BigBinary]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-associate-sponsor-big-binary" />
+  <id>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-big-binary</id>
+  <published>2013-12-05T00:00:00+05:30</published>
+  <updated>2013-12-05T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;Many thanks to &lt;a href=&quot;http://www.bigbinary.com/&quot; target=&quot;_blank&quot;&gt;BigBinary&lt;/a&gt; for being an Associate Sponsor at &lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot;&gt;#GCRC&lt;/a&gt;.  BigBinary team has been regularly contributing to the Rails framework.  Check what they are up to at GCRC.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-associate-sponsor-big-binary&quot;&gt;Announcing Associate Sponsor - BigBinary&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on December 05, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Gold Sponsor - Flipkart]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-gold-sponsor-flipkart" />
+  <id>http://2014.gardencityruby.org//blog/announcing-gold-sponsor-flipkart</id>
+  <published>2013-12-02T00:00:00+05:30</published>
+  <updated>2013-12-02T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;//www.flipkart.com/&quot; target=&quot;_blank&quot;&gt;Flipkart&lt;/a&gt; for being a Gold Sponsor at &lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot; target=&quot;_blank&quot;&gt;#GCRC14&lt;/a&gt; and enabling us to put up an awesome event. Flipkart has always been a big promoter of the Indian Ruby Community.&lt;/p&gt;
+
+&lt;p&gt;If you want to understand how to scale Ruby, there is no one better to talk to than the Flipkart Tech Team. They have done a fabulous job of scaling Ruby to an extent that it powers the &lt;a href=&quot;//www.flipkart.com/&quot; target=&quot;_blank&quot;&gt;India’s largest e-commerce platform&lt;/a&gt;. Reach out to them at the Flipkart sponsor booth at the conference. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-gold-sponsor-flipkart&quot;&gt;Announcing Gold Sponsor - Flipkart&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on December 02, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Associate Sponsor - CognitiveClouds]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-associate-sponsor-cognitive-clouds" />
+  <id>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-cognitive-clouds</id>
+  <published>2013-12-02T00:00:00+05:30</published>
+  <updated>2013-12-02T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot;&gt;#GCRC&lt;/a&gt; thanks &lt;a href=&quot;http://www.cognitiveclouds.com/&quot; target=&quot;_blank&quot;&gt;CognitiveClouds&lt;/a&gt; for signing up to be an Associate Sponsor.  The team at CognitiveClouds is a good mix of experience and youth.  Talk to them at the conference to find out their development and testing workflows.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-associate-sponsor-cognitive-clouds&quot;&gt;Announcing Associate Sponsor - CognitiveClouds&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on December 02, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Silver Sponsor - Nilenso]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-silver-sponsor-nilenso" />
+  <id>http://2014.gardencityruby.org//blog/announcing-silver-sponsor-nilenso</id>
+  <published>2013-11-28T00:00:00+05:30</published>
+  <updated>2013-11-28T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;//www.nilenso.com/&quot; target=&quot;_blank&quot;&gt;Nilenso&lt;/a&gt; for signing up to be a Silver Sponsor at &lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot; target=&quot;_blank&quot;&gt;#GCRC14&lt;/a&gt;. &lt;a href=&quot;//www.nilenso.com/&quot; target=&quot;_blank&quot;&gt;Nilenso&lt;/a&gt;’s team is one of the early promoters of the &lt;a href=&quot;http://bangaloreruby.org/&quot; target=&quot;_blank&quot;&gt;BRUG&lt;/a&gt;, and have been actively involved in all the community activities. Make sure you catch any one of them to know the history of &lt;a href=&quot;http://bangaloreruby.org/&quot; target=&quot;_blank&quot;&gt;BRUG&lt;/a&gt;. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-silver-sponsor-nilenso&quot;&gt;Announcing Silver Sponsor - Nilenso&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 28, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Associate Sponsor - Codemancers]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-associate-sponsor-codemancers" />
+  <id>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-codemancers</id>
+  <published>2013-11-28T00:00:00+05:30</published>
+  <updated>2013-11-28T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;//www.codemancers.com/&quot; target=&quot;_blank&quot;&gt;Codemancers&lt;/a&gt; for signing up to be an Associate Sponsor at &lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot; target=&quot;_blank&quot;&gt;#GCRC14&lt;/a&gt;. &lt;a href=&quot;//www.codemancers.com/&quot; target=&quot;_blank&quot;&gt;Codemancers&lt;/a&gt; has a team of very passionate ruby developers and is an active opensource contributor. Talk to them at the conference for any tips on open source contributions.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-associate-sponsor-codemancers&quot;&gt;Announcing Associate Sponsor - Codemancers&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 28, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Silver Sponsor - Github]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-silver-sponsor-github" />
+  <id>http://2014.gardencityruby.org//blog/announcing-silver-sponsor-github</id>
+  <published>2013-11-27T00:00:00+05:30</published>
+  <updated>2013-11-27T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;//www.github.com/&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt; for signing up to be a Silver Sponsor at &lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot; target=&quot;_blank&quot;&gt;#GCRC14&lt;/a&gt;. &lt;a href=&quot;//www.github.com/&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt; is very passionate about the community and has been a major contributor to the growth of Ruby Community across the world. We hope they will have an awesome experience with &lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot; target=&quot;_blank&quot;&gt;#GCRC14&lt;/a&gt; and continuously support the Indian Ruby Community and sponsor many more conferences in the future.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-silver-sponsor-github&quot;&gt;Announcing Silver Sponsor - Github&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 27, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Associate Sponsor - SupportBee]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-associate-sponsor-supportbee" />
+  <id>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-supportbee</id>
+  <published>2013-11-27T00:00:00+05:30</published>
+  <updated>2013-11-27T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot;&gt;#GCRC&lt;/a&gt; thanks &lt;a href=&quot;http://www.supportbee.com/&quot; target=&quot;_blank&quot;&gt;SupportBee&lt;/a&gt; for signing up to be an Associate Sponsor. You should definitely catch hold of their tech team at the conference to known more on how did they leverage Ruby to build an excellent customer support tool.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-associate-sponsor-supportbee&quot;&gt;Announcing Associate Sponsor - SupportBee&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 27, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Associate Sponsor - Multunus]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-associate-sponsor-multunus" />
+  <id>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-multunus</id>
+  <published>2013-11-27T00:00:00+05:30</published>
+  <updated>2013-11-27T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot;&gt;#GCRC&lt;/a&gt; thanks &lt;a href=&quot;http://www.multunus.com/&quot; target=&quot;_blank&quot;&gt;Multunus&lt;/a&gt; for signing up to be an Associate Sponsor. &lt;a href=&quot;http://www.multunus.com/&quot; target=&quot;_blank&quot;&gt;Multunus&lt;/a&gt; is actively supporting the Indian Ruby Commumity by regularly hosting the &lt;a href=&quot;http://bangaloreruby.org/&quot; target=&quot;_blank&quot;&gt;BRUG&lt;/a&gt; meetings and sponsoring the Ruby Conferences.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-associate-sponsor-multunus&quot;&gt;Announcing Associate Sponsor - Multunus&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 27, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Associate Sponsor - Mahaswami]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-associate-sponsor-mahaswami" />
+  <id>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-mahaswami</id>
+  <published>2013-11-27T00:00:00+05:30</published>
+  <updated>2013-11-27T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot;&gt;#GCRC&lt;/a&gt; thanks &lt;a href=&quot;http://www.mahaswami.com/&quot; target=&quot;_blank&quot;&gt;Mahaswami&lt;/a&gt; for signing up to be an Associate Sponsor. &lt;a href=&quot;http://www.mahaswami.com/&quot; target=&quot;_blank&quot;&gt;Mahaswami&lt;/a&gt; has been a regular sponsorer at many of the Ruby Conferences in the past. Make sure you catch their passionate team at the conference for any healthy discussion on Ruby.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-associate-sponsor-mahaswami&quot;&gt;Announcing Associate Sponsor - Mahaswami&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 27, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Associate Sponsor - Icicle]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-associate-sponsor-icicle" />
+  <id>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-icicle</id>
+  <published>2013-11-27T00:00:00+05:30</published>
+  <updated>2013-11-27T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot;&gt;#GCRC&lt;/a&gt; thanks &lt;a href=&quot;http://www.icicletech.com/&quot; target=&quot;_blank&quot;&gt;Icicle&lt;/a&gt; for signing up to be an Associate Sponsor. The Bangalore Ruby Community welcomes &lt;a href=&quot;http://www.icicletech.com/&quot; target=&quot;_blank&quot;&gt;Icicle&lt;/a&gt; to Bangalore and wishes them Good Luck in building a strong team.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-associate-sponsor-icicle&quot;&gt;Announcing Associate Sponsor - Icicle&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 27, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Associate Plus Sponsor - Bang The Table]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-associate-plus-sponsor-bangthetable" />
+  <id>http://2014.gardencityruby.org//blog/announcing-associate-plus-sponsor-bangthetable</id>
+  <published>2013-11-27T00:00:00+05:30</published>
+  <updated>2013-11-27T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot;&gt;#GCRC&lt;/a&gt; thanks &lt;a href=&quot;http://is.gd/bttjobs&quot; target=&quot;_blank&quot;&gt;Bang The Table&lt;/a&gt; for backing the conference as an Associate Plus Sponsor. &lt;a href=&quot;http://is.gd/bttjobs&quot; target=&quot;_blank&quot;&gt;Bang The Table&lt;/a&gt; regularly hosts the &lt;a href=&quot;http://bangaloreruby.org/&quot; target=&quot;_blank&quot;&gt;BRUG&lt;/a&gt; meetings in their office. You can catch their team at any of the &lt;a href=&quot;http://bangaloreruby.org/&quot; target=&quot;_blank&quot;&gt;BRUG&lt;/a&gt; meets.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-associate-plus-sponsor-bangthetable&quot;&gt;Announcing Associate Plus Sponsor - Bang The Table&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 27, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Announcing Associate Plus Sponsor - ParamiSoft]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/announcing-associate-plus-sponsor-paramisoft" />
+  <id>http://2014.gardencityruby.org//blog/announcing-associate-plus-sponsor-paramisoft</id>
+  <published>2013-11-18T00:00:00+05:30</published>
+  <updated>2013-11-18T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;https://twitter.com/search?q=%23gcrc14&quot;&gt;#GCRC&lt;/a&gt; thanks &lt;a href=&quot;//paramisoft.com/&quot; target=&quot;_blank&quot;&gt;ParamiSoft&lt;/a&gt; for backing the conference as an Associate Plus Sponsor.  Make sure you catch some of their infectious enthusiasm when you run into them at the conference!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/announcing-associate-plus-sponsor-paramisoft&quot;&gt;Announcing Associate Plus Sponsor - ParamiSoft&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 18, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Our Selection process]]></title>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/our-talk-selection-process" />
+  <id>http://2014.gardencityruby.org//blog/our-talk-selection-process</id>
+  <published>2013-11-16T00:00:00+05:30</published>
+  <updated>2013-11-16T00:00:00+05:30</updated>
+  <author>
+    <name>GardenCityRubyConf 2014</name>
+    <uri>http://2014.gardencityruby.org/</uri>
+    <email>team@gardencityruby.org</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;/blog/72-talk-proposals-in-total/&quot;&gt;We got 72 proposals&lt;/a&gt; through the CFP process. This post is about how we went with the selection of talks. &lt;/p&gt;
+
+&lt;h3 id=&quot;rating-process&quot;&gt;Rating Process&lt;/h3&gt;
+
+&lt;p&gt;We’ve 4 keynotes and 2 invited talks. We have included a Panel Discussion and Lightning talks  too in the schedule. That left us time for 9 selected talks.&lt;/p&gt;
+
+&lt;p&gt;All the reviewers, which is same as the organising team except Prakash, voted using the rating system in &lt;a href=&quot;http://busyconf.com/&quot;&gt;BusyConf&lt;/a&gt;.  Each reviewer can rate each talk using 3 parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Content&lt;/li&gt;
+  &lt;li&gt;Speaker&lt;/li&gt;
+  &lt;li&gt;Applicability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;BusyConf gives an overall score for each proposal based on the score given for each of the  parameter mentioned above.&lt;/p&gt;
+
+&lt;h3 id=&quot;guidelines&quot;&gt;Guidelines&lt;/h3&gt;
+
+&lt;p&gt;Ieally the job should be to select the top rated 9 talks. But we applied the following guidelines on the top rated proposals:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not more than one talk from same speaker&lt;/li&gt;
+  &lt;li&gt;Not to have more than two speakers from outside India to give more opportunity for people from India&lt;/li&gt;
+  &lt;li&gt;Not to have more than one speaker from the organising committee&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;exceptions&quot;&gt;Exceptions&lt;/h3&gt;
+
+&lt;p&gt;One or two talks were selected with the exceptions when the review committee felt that it would be useful to the community.&lt;/p&gt;
+
+&lt;p&gt;Because of budget constraints, we wanted the speakers to bear their travel expenses. Some proposals got rejected because of this constraint.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-we-might-like-to-do-differently-next-time&quot;&gt;What we might like to do differently next time&lt;/h3&gt;
+
+&lt;p&gt;I had mentioned this already in &lt;a href=&quot;/blog/schedule-is-ready/&quot;&gt;my previous post&lt;/a&gt; about Schedule. But repeating again here:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;More conversations with the submitters to help people to make their proposals better.&lt;/li&gt;
+  &lt;li&gt;Public Voting to let people know what talks are coming in &lt;/li&gt;
+  &lt;li&gt;Notifying rejected speakers in time&lt;/li&gt;
+&lt;/ul&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/our-talk-selection-process&quot;&gt;Our Selection process&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 16, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Garden City Ruby Trust - The legal entity behind the conference]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/garden-city-ruby-trust---the-legal-entity-behind-the-conference" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/garden-city-ruby-trust---the-legal-entity-behind-the-conference</id>
+  <link rel="alternate" type="text/html" href="http://2014.gardencityruby.org//blog/garden-city-ruby-trust---the-legal-entity-behind-the-conference" />
+  <id>http://2014.gardencityruby.org//blog/garden-city-ruby-trust---the-legal-entity-behind-the-conference</id>
   <published>2013-11-14T00:00:00+05:30</published>
   <updated>2013-11-14T00:00:00+05:30</updated>
   <author>
     <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
+    <uri>http://2014.gardencityruby.org/</uri>
     <email>team@gardencityruby.org</email>
   </author>
-  <content type="html">&lt;p class=&quot;pull-right&quot;&gt;&lt;img src=&quot;http://gardencityruby.github.io/GCRC2014/images/gcrc_trust.jpg&quot; alt=&quot;GCRC Trust&quot; /&gt;&lt;/p&gt;
+  <content type="html">&lt;p class=&quot;pull-right&quot;&gt;&lt;img src=&quot;http://2014.gardencityruby.org//images/gcrc_trust.jpg&quot; alt=&quot;GCRC Trust&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Trustees of the Garden City Ruby Trust.&lt;/strong&gt; &lt;em&gt;From left to right: &lt;a href=&quot;https://twitter.com/gnufied&quot;&gt;Hemant&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/emil_soman&quot;&gt;Emil&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/leenasn&quot;&gt;Leena&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/satishperala&quot;&gt;Satish&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/_swanand&quot;&gt;Swanand&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/codepodu&quot;&gt;Dheeraj&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Since the conference organization involved receiving and paying out money and in general handling big amounts of money, we created a legal entity with a bank account for this purpose. Garden City Ruby Trust (refered to as GCRT for short henceforth) came into existence at the end of Aug 2013 to handle all the organization work related to Garden City Ruby Conference. &lt;/p&gt;
 
 &lt;p&gt;Initially, we explored the option of organizing the conference under the Innovation &amp;amp; Technology Trust (ITT) banner. ITT is the legal entity behind the annual &lt;a href=&quot;http://rubyconfindia.org&quot;&gt;RubyConf India&lt;/a&gt; events. While it would have made the conference organization work simpler by taking the financial aspects of it completely out of the hands of the organizing team, I felt it would also mean less autonomy for the organizing team, and hence chose the option of setting up a new non-profit organization.&lt;/p&gt;
 
-&lt;p&gt;A later blogpost will detail the steps involved in forming the Trust. Of the &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/about/&quot;&gt;8 members on the organizing team&lt;/a&gt;, Prakash &amp;amp; Tejas chose to not be trustees on GCRT for different reasons. The other six members became the founding members of GCRT. &lt;/p&gt;
+&lt;p&gt;A later blogpost will detail the steps involved in forming the Trust. Of the &lt;a href=&quot;http://2014.gardencityruby.org//about/&quot;&gt;8 members on the organizing team&lt;/a&gt;, Prakash &amp;amp; Tejas chose to not be trustees on GCRT for different reasons. The other six members became the founding members of GCRT. &lt;/p&gt;
 
 &lt;h4 id=&quot;whats-next-for-gcrt-after-gcrc14&quot;&gt;What’s next for GCRT after GCRC14?&lt;/h4&gt;
 
@@ -76,429 +604,7 @@
 &lt;p&gt;&lt;strong&gt;Request to everyone in the Bangalore Ruby Community in this context:&lt;/strong&gt; 
 Please extend your full support to this team and support the conference in any manner possible. Also, please start a discussion with them about how the financial muscle of the trust can be used to benefit the community. People interested in playing a bigger role in community building aspects in the future should also be talking to the current trustees about how they can become a trustee on GCRT in the near future.  &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/garden-city-ruby-trust---the-legal-entity-behind-the-conference&quot;&gt;Garden City Ruby Trust - The legal entity behind the conference&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 14, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Update in the schedule]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/change-in-the-program" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/change-in-the-program</id>
-  <published>2013-11-12T00:00:00+05:30</published>
-  <updated>2013-11-12T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;We hit with a surprise when we heard from &lt;a href=&quot;https://twitter.com/alinajaf&quot;&gt;Najaf Ali&lt;/a&gt; that it would take atleast four months to complete his visa processing. That definitely does not align with conference timeline. &lt;/p&gt;
-
-&lt;p&gt;The learning that we’ve from this is that, we should have enquired about the visa processing much earlier to avoid this schedule change.&lt;/p&gt;
-
-&lt;p&gt;Anyways, we’ve chosen the next top talk that we had in our list and updated the program. I will be writing another post explaining the review process in detail. &lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/change-in-the-program&quot;&gt;Update in the schedule&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 12, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Schedule is ready]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/schedule-is-ready" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/schedule-is-ready</id>
-  <published>2013-11-11T00:00:00+05:30</published>
-  <updated>2013-11-11T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;Thank you everyone who submitted the proposals and congratulations to the selected speakers. We’ve &lt;a href=&quot;http://gardencityruby2014.busyconf.com/schedule/full&quot;&gt;our schedule ready&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We had the CFP running for almost for a month i.e. it started on 1st of October and ended on 26th October. We got a total of 72 proposals, &lt;a href=&quot;http://www.gardencityruby.org/blog/72-talk-proposals-in-total/&quot;&gt;checkout the details here&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;As mentioned,  we have 4 keynotes and 2 invited talks. We have included a Panel Discussion and a Lightning talks as well in the schedule. That left us time for 9 selected talks.&lt;/p&gt;
-
-&lt;p&gt;Apart from the ratings by the selection committee, which is same as the organising committee, we also came up with the following decisions:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Not to have more than 2 speakers from outside India to give more opportunity for people from India&lt;/li&gt;
-  &lt;li&gt;Not to have more than 1 speaker from the organising committee&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The one thing I felt personally we could have done better is to have more conversations with the submitters during the CFP time to help people to make their proposals better. This becomes harder if many proposals get submitted towards the end of CFP, but may encourage people to submit proposals earlier in the future.&lt;/p&gt;
-
-&lt;p&gt;Some people had asked whether there would a public voting. There is a possibility that it might happen in the future editions of the conference.&lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/schedule-is-ready&quot;&gt;Schedule is ready&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 11, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Announcing Associate Sponsor - GoodWorkLabs]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-goodworklabs" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-goodworklabs</id>
-  <published>2013-11-11T00:00:00+05:30</published>
-  <updated>2013-11-11T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;http://www.goodworklabs.com/&quot; target=&quot;_blank&quot;&gt;GoodWorkLabs&lt;/a&gt; for signing up to be an Associate Sponsor at #GCRC. GoodWorkLabs has been an active supporter to the Indian Ruby Community. We wish them a wonderful experience at the conference.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-goodworklabs&quot;&gt;Announcing Associate Sponsor - GoodWorkLabs&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 11, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Announcing Associate Sponsor - Codebrahma]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-codebrahma" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-codebrahma</id>
-  <published>2013-11-10T00:00:00+05:30</published>
-  <updated>2013-11-10T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;http://codebrahma.com/&quot; target=&quot;_blank&quot;&gt;Codebrahma&lt;/a&gt; for signing up to be an Associate Sponsor at #GCRC. We welcome the young and passionate team of ruby enthusiasts at Codebrahma to the &lt;a href=&quot;http://bangaloreruby.org/&quot; target=&quot;_blank&quot;&gt;Bangalore Ruby Community&lt;/a&gt;.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-codebrahma&quot;&gt;Announcing Associate Sponsor - Codebrahma&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 10, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Announcing Silver Sponsor - Josh Software]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/announcing-silver-sponsor-josh-software" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/announcing-silver-sponsor-josh-software</id>
-  <published>2013-11-09T00:00:00+05:30</published>
-  <updated>2013-11-09T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;//www.joshsoftware.com/&quot; target=&quot;_blank&quot;&gt;Josh Software&lt;/a&gt; for signing up to be a Silver Sponsor at #GCRC and for contributing 
-immensely to the growth of the ruby community in India with its regular sponsoring of ruby conferences and meet-ups in India/Pune.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/announcing-silver-sponsor-josh-software&quot;&gt;Announcing Silver Sponsor - Josh Software&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 09, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Announcing Associate Sponsor - Mavenhive]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-mavenhive" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-mavenhive</id>
-  <published>2013-11-09T00:00:00+05:30</published>
-  <updated>2013-11-09T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;//www.mavenhive.in/&quot; target=&quot;_blank&quot;&gt;MavenHive&lt;/a&gt; for signing up to 
-be an Associate Sponsor at #GCRC. MavenHive has been a regular contributor to the 
-&lt;a href=&quot;http://bangaloreruby.org/&quot; target=&quot;_blank&quot;&gt;Bangalore Ruby Community&lt;/a&gt; and has sponsored many ruby conferences in the past.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-mavenhive&quot;&gt;Announcing Associate Sponsor - Mavenhive&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 09, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Tentative Conference Schedule]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/tentative-conference-schedule" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/tentative-conference-schedule</id>
-  <published>2013-11-08T00:00:00+05:30</published>
-  <updated>2013-11-08T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;We are excited to announce the &lt;a href=&quot;http://gardencityruby2014.busyconf.com/schedule/full&quot; target=&quot;_blank&quot;&gt;tenative schedule&lt;/a&gt; for the conference. We are in the process of getting confirmation from couple of speakers on their availability. That has delayed our deadline by some days. We are expecting to have the full program ready by Monday, November 11th. Stay tuned. &lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/tentative-conference-schedule&quot;&gt;Tentative Conference Schedule&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 08, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Welcome to India]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/welcome-to-india" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/welcome-to-india</id>
-  <published>2013-11-01T00:00:00+05:30</published>
-  <updated>2013-11-01T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;GCRC14 is going to see a huge number of foreign attendees.
-Here are few pointers to help the participants in their visa application process.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://gardencityruby.github.io/GCRC2014/images/visa_stamp.jpg&quot; alt=&quot;Visa Approval&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;for-attendees-from-us&quot;&gt;For Attendees from US&lt;/h3&gt;
-&lt;p&gt;Please note there are few recent changes in the visa application process. The vendor handling the Indian visa applications has changed from &lt;a href=&quot;https://indiavisa.travisaoutsourcing.com/homepage&quot; target=&quot;_blank&quot;&gt;Travisa Outsourcing&lt;/a&gt; to &lt;a href=&quot;http://www.visa.blsindia-usa.com/index.php&quot; target=&quot;_blank&quot;&gt;BLS International&lt;/a&gt;, effective from July 1, 2013.
-&lt;br /&gt;Check out your nearest processing center &lt;a href=&quot;http://www.visa.blsindia-usa.com/index.php&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You could choose a business visa or a tourist visa depending on your plans around the conference. Check out the details of each here.
-&lt;br /&gt;&lt;a href=&quot;http://www.visa.blsindia-usa.com/business_visa.php&quot; target=&quot;_blank&quot;&gt;Business Visa&lt;/a&gt;
-&lt;br /&gt;&lt;a href=&quot;http://www.visa.blsindia-usa.com/touristVisa.php&quot; target=&quot;_blank&quot;&gt;Tourist Visa&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We will be sending invitation letters to each speaker/participant, which you’ll have to attach as part of the visa application documentation.&lt;/p&gt;
-
-&lt;p&gt;Typically the visa application would take 4 to 6 weeks for processing. So, we recommend all the participants to start the process as early as possible.&lt;/p&gt;
-
-&lt;p&gt;Important thing to note is the visa validity starts from the day it is issued, so ensure that you apply for the maximum validity possible and make sure that the conference dates are comfortably falling within the validity period.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/jonathanwallace&quot; target=&quot;_blank&quot;&gt;Jonathan Wallace&lt;/a&gt; has written a good &lt;a href=&quot;http://blog.jonathanrwallace.com/blog/2013/10/17/so-you-want-to-go-to-india/&quot; target=&quot;_blank&quot;&gt;blogpost&lt;/a&gt; on his experience applying for the Visa for his visit to &lt;a href=&quot;http://rubyconfindia.org/2013/&quot; target=&quot;_blank&quot;&gt;RubyConfIndia 2013&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Shoot an email to &lt;a href=&quot;team@gardencityruby.org&quot;&gt;team@gardencityruby.org&lt;/a&gt; for any queries.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/welcome-to-india&quot;&gt;Welcome to India&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 01, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[GCRC enables Indian rubyist's to support the community]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/gcrc-community-supporter-tickets" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/gcrc-community-supporter-tickets</id>
-  <published>2013-10-28T00:00:00+05:30</published>
-  <updated>2013-10-28T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;Ruby has a very large and vibrant community around the world. The ever growing ruby community is one of its most important strengths. Being visible and active in the community is very essential for every rubyist.&lt;/p&gt;
-
-&lt;p&gt;To enable rubyists to support the community in their individual capacity, #GCRC14 has introduced a special priced ticket called ‘Community Supporter Ticket’. The money received through these tickets will be used towards the conference organization and special events around the conference.&lt;/p&gt;
-
-&lt;p&gt;The buyers of community supporter tickets are mentioned specially on the gardencityruby website, a blog post and given a twitter shout.&lt;/p&gt;
-
-&lt;p&gt;This is ideal for freelancers, small startup founders who are willing to get exposure in the Indian ruby community.&lt;/p&gt;
-
-&lt;p&gt;Grab your ‘Community Supporter Ticket’ now at &lt;a href=&quot;http://gcrc2014.doattend.com/&quot; target=&quot;_blank&quot;&gt;http://gcrc2014.doattend.com/&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/gcrc-community-supporter-tickets&quot;&gt;GCRC enables Indian rubyist's to support the community&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on October 28, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[72 talk proposals in total]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/72-talk-proposals-in-total" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/72-talk-proposals-in-total</id>
-  <published>2013-10-28T00:00:00+05:30</published>
-  <updated>2013-10-28T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;Thanks everyone for the wonderful response to the Call for Proposals!
-We received 72 talk proposals in total! From all over India, and around the world!&lt;/p&gt;
-
-&lt;h4 id=&quot;graphical-breakdown-of-cfp-response-data-along-different-attributes&quot;&gt;Graphical breakdown of CFP response data along different attributes:&lt;/h4&gt;
-
-&lt;div id=&quot;charts&quot;&gt;
-  &lt;section id=&quot;dateChartContainer&quot;&gt; &lt;/section&gt;
-
-&lt;p&gt;
-  23 Talk Proposals submitted on the last day! Everyone making it 
-  &lt;a href=&quot;https://twitter.com/leenasn/status/393390363345317888&quot;&gt;&quot;The Last Irresponsible Moment&quot;&lt;/a&gt; :-)
-&lt;/p&gt;
-
-  &lt;section id=&quot;sexChartContainer&quot;&gt; &lt;/section&gt;
-
-  &lt;section id=&quot;countryChartContainer&quot;&gt;&lt;/section&gt;
-
-  &lt;section id=&quot;cityChartContainer&quot;&gt;&lt;/section&gt;
-
-  &lt;section id=&quot;speakerCountChartContainer&quot;&gt;&lt;/section&gt;
-&lt;/div&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/72-talk-proposals-in-total&quot;&gt;72 talk proposals in total&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on October 28, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Introducing a new sponsorship slab - Associate Plus]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/introducing-a-new-sponsorship-slab" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/introducing-a-new-sponsorship-slab</id>
-  <published>2013-10-23T00:00:00+05:30</published>
-  <updated>2013-10-23T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;We have received a good feedback on the sponsorship slabs from the community and all the potential sponsors. We felt, there is definitely a huge gap between Associate and Silver Packages. Many sponsors wished we had a slab in between.&lt;/p&gt;
-
-&lt;p&gt;To fill in the gap, we have introduced a new slab called ‘Associate Plus’. Check out the &lt;a href=&quot;http://www.gardencityruby.org/sponsors&quot;&gt;latest prospectus&lt;/a&gt; for more details.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;‘Associate Plus’ package is ideal for startups and small companies seeking visibility for their products and services among the top-notch ruby developers.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you are interested in sponsoring #GCRC14, drop us a line at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#115;&amp;#112;&amp;#111;&amp;#110;&amp;#115;&amp;#111;&amp;#114;&amp;#115;&amp;#064;&amp;#103;&amp;#097;&amp;#114;&amp;#100;&amp;#101;&amp;#110;&amp;#099;&amp;#105;&amp;#116;&amp;#121;&amp;#114;&amp;#117;&amp;#098;&amp;#121;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#115;&amp;#112;&amp;#111;&amp;#110;&amp;#115;&amp;#111;&amp;#114;&amp;#115;&amp;#064;&amp;#103;&amp;#097;&amp;#114;&amp;#100;&amp;#101;&amp;#110;&amp;#099;&amp;#105;&amp;#116;&amp;#121;&amp;#114;&amp;#117;&amp;#098;&amp;#121;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;.&lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/introducing-a-new-sponsorship-slab&quot;&gt;Introducing a new sponsorship slab - Associate Plus&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on October 23, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Only one speaker per talk, except in very special cases.]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/only-one-speaker-per-talk" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/only-one-speaker-per-talk</id>
-  <published>2013-10-10T00:00:00+05:30</published>
-  <updated>2013-10-10T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;&lt;strong&gt;All talks at #GCRC14 will be with only one speaker. Except in very special cases.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A few talk proposals at #GCRC14 come through with two speakers recently. Talks with 2 speakers are very unusual at regional ruby conferences. RubyConf India events seem to have set a precedent of having many 2-speaker talks with no special justification for having 2 speakers.&lt;/p&gt;
-
-&lt;p&gt;A common reason why people pair up while giving a conference talk is because they feel it is an easier task with 2 people on stage. &lt;/p&gt;
-
-&lt;p&gt;However, as &lt;a href=&quot;https://twitter.com/wifelette&quot;&gt;Leah Silber&lt;/a&gt; - the organizer of &lt;a href=&quot;http://gogaruco.com&quot;&gt;Golden Gate Ruby Conference&lt;/a&gt; - explains, that doesn’t work according to the speakers’ expectations:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I’m not a huge fan of 2-speaker talks. Which is to say, in my experience the second speaker rarely adds enough value to account for their comped pass or anything, really. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In fact, in more cases than not, &lt;strong&gt;it leads to a far more scattered talk, with poorly divided up responsibility, and rocky flow&lt;/strong&gt;. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Writing and delivering your first talk is indeed hard; needing to account for a second speaker’s nerves, idiosyncrasies and workflow doesn’t really make that easier. The exception to this rule are people who are already good at speaking, and have a track record of being a pair. A la Ryan and Eric back in the day. Or Damon and Ron Evans. Tom and Yehuda :p &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In those sorts of cases, double the speaker can often mean double the awesome. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;2 speaker talks - when they are successful - are among the most memorable of conference talks. One such talk I have seen is by Uncle Bob Martin and Micah Martin at RubyConf 2011, the video of which is below:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/YkMnKWPIB_A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;As can be seen from the video, the talk involved a hell lot of preparation from two people who have done a whole lot of public speaking and presentations before. &lt;/p&gt;
-
-&lt;p&gt;It is justifiable to have 2 speakers in such cases. &lt;/p&gt;
-
-&lt;p&gt;However, having a 2 speaker talk just because either of the speakers are scared to do it alone is an injustice to the audience, and doesn’t help the speakers as well. &lt;/p&gt;
-
-&lt;p&gt;Talk proposals with 2-speakers at #GCRC14 will be judged along these lines by the selection panel.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/only-one-speaker-per-talk&quot;&gt;Only one speaker per talk, except in very special cases.&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on October 10, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Keynote & Invited Speakers at #GCRC14]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/keynote-and-invited-speakers" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/keynote-and-invited-speakers</id>
-  <published>2013-10-09T00:00:00+05:30</published>
-  <updated>2013-10-09T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;h4 id=&quot;here-is-some-background-on-how-we-went-about-choosing-the-keynote--invited-speakers-at-gcrc14&quot;&gt;Here is some background on how we went about choosing the keynote &amp;amp; invited speakers at #GCRC14:&lt;/h4&gt;
-
-&lt;p&gt;The first four speakers (the Keynote Speakers at the conference) - &lt;a href=&quot;https://twitter.com/chadfowler&quot;&gt;Chad Fowler&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/prateekdayal&quot;&gt;Prateek Dayal&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/keavy&quot;&gt;Keavy McMinn&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/r00k&quot;&gt;Ben Orenstein&lt;/a&gt; - were chosen at &lt;a href=&quot;https://groups.google.com/d/msg/bangalorerug/usTHpRTFqhQ/In_srder1nYJ&quot;&gt;the very start of the #GCRC14 journey back in June/July&lt;/a&gt;. &lt;a href=&quot;https://twitter.com/kobier&quot;&gt;Coby Randquist&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/ajeygore&quot;&gt;Ajey Gore&lt;/a&gt; were added as speakers later on.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/chadfowler&quot;&gt;Chad Fowler&lt;/a&gt; - being very popular in the ruby community in India and around the world - was my first choice for a Keynote speaker at the conference. The dates of the conference were set after checking his availabilty.&lt;/p&gt;
-
-&lt;p&gt;Ruby conferences in India haven’t had a Keynote speaker of Indian origin so far; chose &lt;a href=&quot;https://twitter.com/prateekdayal&quot;&gt;Prateek Dayal&lt;/a&gt; to set a precedent here. Prateek is a long-time ruby developer based in Bangalore, and is remarkably successful in &lt;a href=&quot;https://supportbee.com&quot;&gt;building&lt;/a&gt; &lt;a href=&quot;http://www.muziboo.com&quot;&gt;product businesses&lt;/a&gt;; he should be able to bring in an unique Indian flavor to a keynote at a Ruby Conference. &lt;/p&gt;
-
-&lt;p&gt;Ruby conferences in India haven’t had a woman keynote speaker as well so far; chose &lt;a href=&quot;https://twitter.com/keavy&quot;&gt;Keavy McMinn&lt;/a&gt; in this context.&lt;/p&gt;
-
-&lt;p&gt;I had watched Keavy’s talk &lt;strong&gt;Must Try Harder&lt;/strong&gt; at &lt;a href=&quot;http://rockymtnruby.com/2010&quot;&gt;Mountain.rb Conference&lt;/a&gt; in 2010, and was amazed at the connection she could establish with everyone in the audience by being very vulnerable during the talk. Do check out a version of the talk here:&lt;/p&gt;
-
-&lt;iframe src=&quot;//player.vimeo.com/video/16517560&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;
-  &lt;a href=&quot;http://vimeo.com/16517560&quot;&gt;Must. Try. Harder. - Keavy McMinn&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The fourth keynote speaker - &lt;a href=&quot;https://twitter.com/r00k&quot;&gt;Ben Orenstein&lt;/a&gt; - was picked based on a team member’s suggestion, and was a very easy choice to make because of his RailsConf 2013 talk - &lt;strong&gt;How to Talk with Developers&lt;/strong&gt; - which can be watched here:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/l9JXH7JPjR4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;
-  &lt;a href=&quot;http://youtu.be/l9JXH7JPjR4&quot;&gt;How to talk to developers - Ben Orenstein&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;Thanks to &lt;a href=&quot;http://thoughtbot.com&quot;&gt;ThoughtBot&lt;/a&gt; for covering the travel expenses for Ben Orenstein, and allowing us a wider latitude to play with our travel expenses budget for speakers. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/kobier&quot;&gt;Coby Randquist&lt;/a&gt; - CEO of &lt;a href=&quot;http://www.confreaks.com&quot;&gt;Confreaks.com&lt;/a&gt; and organizer of &lt;a href=&quot;http://larubyconf.com&quot;&gt;LA RubyConf&lt;/a&gt; and &lt;a href=&quot;http://onales.com&quot;&gt;Ruby on Ales&lt;/a&gt; - reached out to us as he had wanted to visit India for long; we grabbed the opportunity with both hands to get him to come over, and help us with the video recording of the talks as well as live-streaming of the talks at #GCRC14. In addition, he will be sharing from his experiences of running Confreaks.com and organizing a couple of regional ruby conferences.&lt;/p&gt;
-
-&lt;p&gt;Garden City Ruby Conference is breaking a lot of fresh ground in being the first single-track &amp;amp; regional/city conference in India, and is expected to inspire and nurture more regional/city conferences in other cities in India, starting with Pune later this year, and possibly Mumbai, Delhi, Kochi, Chennai, Mysore, Jaipur, and more. &lt;a href=&quot;https://twitter.com/ajeygore&quot;&gt;Ajey Gore&lt;/a&gt; was added as the final invited speaker to set the tone for the conversation around regional/city conferences and to take it forward. Ajey has been at the fore-front of Ruby Conference organization work in India through Innovation &amp;amp; Technology Trust which has been putting up the hugely successful annual &lt;a href=&quot;http://rubyconfindia.org/2013/&quot;&gt;RubyConf India events&lt;/a&gt; since 2010.&lt;/p&gt;
-
-&lt;p&gt;Thanks to the keynote &amp;amp; invited speakers who made it possible for us to plan an awesome conference around their presence.&lt;/p&gt;
-
-&lt;p&gt;Our &lt;a href=&quot;http://www.gardencityruby.org/cfp/&quot;&gt;Call for proposals&lt;/a&gt; is now open; do take this opportunity to submit a talk proposal, and possibly share the stage with our distinguished keynote/invited speakers at GCRC14!&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/keynote-and-invited-speakers&quot;&gt;Keynote & Invited Speakers at #GCRC14&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on October 09, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Conference dates moved ahead by a day]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/conference-dates-moved-ahead-by-a-day" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/conference-dates-moved-ahead-by-a-day</id>
-  <published>2013-09-29T00:00:00+05:30</published>
-  <updated>2013-09-29T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;GCRC 2014 will happen on &lt;strong&gt;Friday 3rd Jan&lt;/strong&gt; and &lt;strong&gt;Saturday 4th Jan of 2014&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Get ready to experience an amazing ruby conference on a Friday &amp;amp; Saturday at GCRC 2014, and have a Sunday’s rest to process all of it before you head back to work on a Monday.&lt;/p&gt;
-
-&lt;p&gt;Originally the dates were set to be 4th-5th Jan 2014. This was in keeping with the tradition of &lt;a href=&quot;http://rubyconfindia.org/2010/&quot;&gt;RubyConf&lt;/a&gt; &lt;a href=&quot;http://rubyconfindia.org/2011/&quot;&gt;India&lt;/a&gt; &lt;a href=&quot;http://rubyconfindia.org/2012/&quot;&gt;conferences&lt;/a&gt; &lt;a href=&quot;http://rubyconfindia.org/2013/&quot;&gt;always happening on a Saturday &amp;amp; Sunday&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In our discussions around GCRC organization work recently, couple of folks whose opinions we value highly suggested we should host the conference during the work week instead of weekends. That made us rethink our &lt;strong&gt;Ruby Conferences in India can only happen on weekends; people don’t want to take time off from the work week to be at a conference&lt;/strong&gt; assumption. &lt;/p&gt;
-
-&lt;p&gt;Given that the conference’s main objective is to add value to the professional lives of the participants, it made ample sense that the conference happen on weekdays. After checking with everyone involved (Organizing team members, the invited speakers, and the two hotels in consideration for the venue), the conference dates have been moved ahead by a day to happen on a Friday &amp;amp; Saturday.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://rockymtnruby.com&quot;&gt;2013 edition of Rocky Mountain Ruby Conference&lt;/a&gt; that I attended over the last few days was from Wednesday to Friday, well before the weekend began. &lt;/p&gt;
-
-&lt;p&gt;We don’t have the flexibility for this edition of the conference to be moved fully to weekdays (say Thursday &amp;amp; Friday). That would definitely be something we will consider for the 2015 edition of Garden City Ruby Conference!&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/conference-dates-moved-ahead-by-a-day&quot;&gt;Conference dates moved ahead by a day&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on September 29, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Volunteer for handling wifi & internet connectivity]]></title>
-  <link rel="alternate" type="text/html" href="http://gardencityruby.github.io/GCRC2014/blog/volunteer-for-handling-wifi-%26-internet-connectivity" />
-  <id>http://gardencityruby.github.io/GCRC2014/blog/volunteer-for-handling-wifi-&-internet-connectivity</id>
-  <published>2013-09-27T00:00:00+05:30</published>
-  <updated>2013-09-27T00:00:00+05:30</updated>
-  <author>
-    <name>GardenCityRubyConf 2014</name>
-    <uri>http://gardencityruby.github.io/GCRC2014</uri>
-    <email>team@gardencityruby.org</email>
-  </author>
-  <content type="html">&lt;p&gt;Getting the wifi and internet connectivity at a technical conference is hard. See &lt;a href=&quot;http://www.nonblocking.io/2011/05/how-to-make-wifi-work-at-tech.html&quot;&gt;How to make WIFI work at tech conferences (Part 1 of N)&lt;/a&gt; and &lt;a href=&quot;http://thilo.me/post/62067077735/the-conference-wifi-checklist&quot;&gt;The conference wifi checklist&lt;/a&gt; for the intricacies involved.&lt;/p&gt;
-
-&lt;p&gt;Garden City Ruby Conference will have 200 participants at the venue with multiple devices connecting to the internet. In addition, there will be 50/100/200 people watching the live-stream of the talks on &lt;a href=&quot;http://www.justin.tv/confreaks&quot;&gt;http://www.justin.tv/confreaks&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We need someone to be the main person responsible for all aspects of wifi and internet connectivity at the conference. &lt;/p&gt;
-
-&lt;p&gt;If you are interested in taking on this role, please send a short note to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#101;&amp;#097;&amp;#109;&amp;#064;&amp;#103;&amp;#097;&amp;#114;&amp;#100;&amp;#101;&amp;#110;&amp;#099;&amp;#105;&amp;#116;&amp;#121;&amp;#114;&amp;#117;&amp;#098;&amp;#121;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#116;&amp;#101;&amp;#097;&amp;#109;&amp;#064;&amp;#103;&amp;#097;&amp;#114;&amp;#100;&amp;#101;&amp;#110;&amp;#099;&amp;#105;&amp;#116;&amp;#121;&amp;#114;&amp;#117;&amp;#098;&amp;#121;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt; with what interests you about this role by EOD Monday Sep 30th. &lt;/p&gt;
-
-&lt;p&gt;The team will select one person for the role. The selected person will get a complimentary ticket to the conference, and the gratitude of the organizing team and the community for a job well-done. &lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://gardencityruby.github.io/GCRC2014/blog/volunteer-for-handling-wifi-%26-internet-connectivity&quot;&gt;Volunteer for handling wifi & internet connectivity&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://gardencityruby.github.io/GCRC2014&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on September 27, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://2014.gardencityruby.org//blog/garden-city-ruby-trust---the-legal-entity-behind-the-conference&quot;&gt;Garden City Ruby Trust - The legal entity behind the conference&lt;/a&gt; was originally published by GardenCityRubyConf 2014 at &lt;a href=&quot;http://2014.gardencityruby.org/&quot;&gt;GardenCityRubyConf 2014&lt;/a&gt; on November 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>

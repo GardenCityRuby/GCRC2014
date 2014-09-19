@@ -859,24 +859,79 @@ table tfoot tr td {
   margin-right: 0;
 }
 .imagereplace {
-  text-indent: 100%;
+  text-indent: -9999px;
   white-space: nowrap;
   overflow: hidden;
   display: block;
 }
+#badges pre {
+  font-size: 0.75em;
+  text-align: left;
+}
+#badges ul {
+  margin: 0;
+  border-top: 1px #aaa solid;
+}
+#badges li {
+  display: inline-block;
+  padding: 1em 0 2em 0;
+  margin: 1em 1.5em;
+  text-align: center;
+}
+#badges h3 {
+  margin-bottom: 0px;
+}
+.notice {
+  background-color: #F1F1B6;
+  padding: 10px;
+}
+.notice p {
+  margin-bottom: 1em;
+}
+.notice h3 {
+  color: #a12b32;
+  margin-bottom: 0.5em;
+}
+.notice ul {
+  margin-top: 0.7em;
+}
+.notice li {
+  margin-bottom: 1.1em;
+}
+#sponsors .become_sponsor {
+  font-size: 0.3em;
+  color: #ffffff;
+  background: #ff0000;
+  padding: 0.4em;
+  border-radius: 5px;
+  margin-left: 1em;
+  vertical-align: middle;
+}
+#sponsors .become_sponsor:hover {
+  color: #ff0000;
+  background: #ffffff;
+}
 #sponsors p {
-  margin: 1em 0 1em 0;
+  margin: 0 0 1em 0;
 }
 #sponsors h2 {
   color: #a12b32;
   margin-bottom: 0.5em;
 }
+#sponsors h3 {
+  margin: 1em 0 0.5em 0;
+}
 #sponsors h4 {
   margin: 1em 0 0.5em 0;
 }
+#sponsors #flipkart {
+  background: url("/images/sponsors/flipkart.png") no-repeat;
+  width: 273px;
+  height: 90px;
+}
 #sponsors #josh_software {
   background: url("/images/sponsors/josh.png") no-repeat;
-  width: 216px;
+  width: 214px;
 }
 #sponsors #maven_hive {
   background: url("/images/sponsors/maven_hive.png") no-repeat;
@@ -884,7 +939,11 @@ table tfoot tr td {
 }
 #sponsors #code_brahma {
   background: url("/images/sponsors/code_brahma.png") no-repeat;
-  width: 254px;
+  width: 273px;
+}
+#sponsors #codemancers {
+  background: url("/images/sponsors/codemancers.png") no-repeat;
+  width: 258px;
 }
 #sponsors #good_work_labs {
   background: url("/images/sponsors/good_work_labs.png") no-repeat;
@@ -894,17 +953,49 @@ table tfoot tr td {
   background: url("/images/sponsors/parami_soft.png") no-repeat;
   width: 231px;
 }
-#sponsors .becomeone {
-  background: url("/images/become_sponsor.png") no-repeat;
-  width: 80px;
-  background-position: 0px 0px;
-}
-#sponsors .becomeone:hover {
-  background-position: 0px -60px;
-}
 #sponsors #nilenso {
   background: url("/images/sponsors/nilenso.png") no-repeat;
-  width: 50px;
+  width: 210px;
+}
+#sponsors #github {
+  background: url("/images/sponsors/github.png") no-repeat;
+  width: 223px;
+}
+#sponsors #qwinix {
+  background: url("/images/sponsors/qwinix.png") no-repeat;
+  width: 248px;
+}
+#sponsors #multunus {
+  background: url("/images/sponsors/multunus.png") no-repeat;
+  width: 270px;
+}
+#sponsors #mahaswami {
+  background: url("/images/sponsors/mahaswami.png") no-repeat;
+  width: 110px;
+}
+#sponsors #supportbee {
+  background: url("/images/sponsors/supportbee.png") no-repeat;
+  width: 208px;
+}
+#sponsors #icicle {
+  background: url("/images/sponsors/icicle.png") no-repeat;
+  width: 161px;
+}
+#sponsors #btt {
+  background: url("/images/sponsors/btt.png") no-repeat;
+  width: 267px;
+}
+#sponsors #cognitive_clouds {
+  background: url("/images/sponsors/cognitive_clouds.png") no-repeat;
+  width: 218px;
+}
+#sponsors #big_binary {
+  background: url("/images/sponsors/big_binary.png") no-repeat;
+  width: 216px;
+}
+#sponsors #masymbol {
+  background: url("/images/sponsors/masymbol.png") no-repeat;
+  width: 277px;
 }
 #sponsors ul {
   margin: 0;
@@ -913,18 +1004,22 @@ table tfoot tr td {
 #sponsors li {
   display: inline-block;
   padding: 1em 0 2em 0;
+  margin: 1em 1.5em;
 }
 #sponsors a {
   height: 60px;
 }
 #sponsors li > a {
   display: inline-block;
-  min-width: 30%;
-  padding: 0 0.25em 0 0.25em;
+  min-width: 34%;
+  vertical-align: top;
 }
 #sponsors li > p {
   display: inline-block;
-  max-width: 68%;
+  max-width: 60%;
+  margin-left: 1em;
+  text-align: justify;
+  font-size: 0.9em;
 }
 #charts > section {
   height: 400px;
@@ -933,6 +1028,55 @@ table tfoot tr td {
 }
 /* Media Queries
 -------------------------------------------------------------------------------*/
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  #sponsors #flipkart {
+    background: url("/images/sponsors/flipkart@2x.png") no-repeat;
+    background-size: 273px 87px;
+  }
+  #sponsors #josh_software {
+    background: url("/images/sponsors/josh@2x.png") no-repeat;
+    background-size: 214px 59px;
+  }
+  #sponsors #maven_hive {
+    background: url("/images/sponsors/maven_hive@2x.png") no-repeat;
+    background-size: 79px 59px;
+  }
+  #sponsors #code_brahma {
+    background: url("/images/sponsors/code_brahma@2x.png") no-repeat;
+    background-size: 254px 60px;
+  }
+  #sponsors #codemancers {
+    background: url("/images/sponsors/codemancers@2x.png") no-repeat;
+    background-size: 250px 59px;
+  }
+  #sponsors #github {
+    background: url("/images/sponsors/github@2x.png") no-repeat;
+    background-size: 223px 60px;
+  }
+  #sponsors #supportbee {
+    background: url("/images/sponsors/supportbee@2x.png") no-repeat;
+    background-size: 208px 60px;
+  }
+  #sponsors #btt {
+    background: url("/images/sponsors/btt@2x.png") no-repeat;
+    background-size: 267px 60px;
+  }
+  #sponsors #cognitive_clouds {
+    background: url("/images/sponsors/cognitive_clouds@2x.png") no-repeat;
+    background-size: 218px 30px;
+    width: 218px;
+  }
+  #sponsors #big_binary {
+    background: url("/images/sponsors/big_binary@2x.png") no-repeat;
+    background-size: 216px 60px;
+    width: 216px;
+  }
+  #sponsors #masymbol {
+    background: url("/images/sponsors/masymbol@2x.png") no-repeat;
+    background-size: 277px 60px;
+    width: 277px;
+  }
+}
 @media only screen and (max-width: 1200px) {
   h1 {
     font-size: 2.625em;
@@ -954,6 +1098,8 @@ table tfoot tr td {
   #sponsors li > p {
     display: block;
     max-width: 100%;
+    margin-left: 0;
+    margin-top: 1em;
   }
 }
 /* Tablet devices vertical */
@@ -1021,6 +1167,10 @@ table tfoot tr td {
 @media only screen and (max-width: 580px) {
   body {
     font-size: 90%;
+  }
+  #sponsors .become_sponsor {
+    font-size: 0.35em;
+    font-weight: bold;
   }
 }
 @media only screen and (max-width: 320px) {

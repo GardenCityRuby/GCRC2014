@@ -1,72 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014</loc>
+        <loc>http://2014.gardencityruby.org/</loc>
     </url>
     
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/garden-city-ruby-trust---the-legal-entity-behind-the-conference</loc>
+        <loc>http://2014.gardencityruby.org//blog/tips-for-speakers</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/change-in-the-program</loc>
+        <loc>http://2014.gardencityruby.org//blog/opportunity-scholarship-winners</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/schedule-is-ready</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-sponsor---masymbol</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-goodworklabs</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-silver-sponsor-qwinix</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-codebrahma</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-opportunity-scholarships</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/announcing-silver-sponsor-josh-software</loc>
+        <loc>http://2014.gardencityruby.org//blog/change-in-keynote-and-schedule</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/announcing-associate-sponsor-mavenhive</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-big-binary</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/tentative-conference-schedule</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-gold-sponsor-flipkart</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/welcome-to-india</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-cognitive-clouds</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/gcrc-community-supporter-tickets</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-silver-sponsor-nilenso</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/72-talk-proposals-in-total</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-codemancers</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/introducing-a-new-sponsorship-slab</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-silver-sponsor-github</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/only-one-speaker-per-talk</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-supportbee</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/keynote-and-invited-speakers</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-multunus</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/conference-dates-moved-ahead-by-a-day</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-mahaswami</loc>
     </url>
     
     <url>
-        <loc>http://gardencityruby.github.io/GCRC2014/blog/volunteer-for-handling-wifi-%26-internet-connectivity</loc>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-icicle</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-plus-sponsor-bangthetable</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-plus-sponsor-paramisoft</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/our-talk-selection-process</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/garden-city-ruby-trust---the-legal-entity-behind-the-conference</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/change-in-the-program</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/schedule-is-ready</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-goodworklabs</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-codebrahma</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/announcing-silver-sponsor-josh-software</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/announcing-associate-sponsor-mavenhive</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/tentative-conference-schedule</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/welcome-to-india</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/gcrc-community-supporter-tickets</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/72-talk-proposals-in-total</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/introducing-a-new-sponsorship-slab</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/only-one-speaker-per-talk</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/keynote-and-invited-speakers</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/conference-dates-moved-ahead-by-a-day</loc>
+    </url>
+    
+    <url>
+        <loc>http://2014.gardencityruby.org//blog/volunteer-for-handling-wifi-%26-internet-connectivity</loc>
     </url>
     
 </urlset>
