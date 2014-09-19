@@ -10,3 +10,4 @@ app/bower_components
 config/deploy.rb
 *.swp
 *.swo
+.bundle
