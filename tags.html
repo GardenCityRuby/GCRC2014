@@ -6,7 +6,7 @@ description: "An archive of posts sorted by tag."
 ---
 
 {% for tag in site.tags %}
-  <h4 id="{{ tag[0] }}">{{ tag[0] }}</h4>
+  <h3 id="{{ tag[0] }}">{{ tag[0] }}</h3>
   <hr />
   {% assign pages_list = tag[1] %}  
   {% for post in pages_list %}
@@ -16,7 +16,7 @@ description: "An archive of posts sorted by tag."
 <article class="post type-post status-publish format-standard hentry clearfix">
     <header>
 
-      <h3 class="entry-title">
+      <h2 class="entry-title">
         <a href="{{ site.url }}{{ post.url }}">
           {{ post.title }}
         </a>
