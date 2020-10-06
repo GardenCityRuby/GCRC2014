@@ -1,7 +1,7 @@
 GCRC 2014
 ===========
 
-## Getting started
+## Let's start the project
 
 This site is built with Jekyll.
 
